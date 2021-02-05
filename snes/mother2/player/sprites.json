@@ -2,19 +2,19 @@
   {
     "name": "Classic Ness",
     "author": "Ripped by Artheau",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/Ness%20Classic.zip",
-    "preview": "https://raw.githubusercontent.com/Artheau/PixelArt/master/earthbound/Ness%20Classic/001.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/ness_classic.zip",
+    "preview": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/ness_classic.png"
   },
   {
     "name": "MegaMan",
     "author": "Artheau",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/Megaman.zip",
-    "preview": "https://raw.githubusercontent.com/Artheau/PixelArt/master/earthbound/Megaman/001.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/megaman.zip",
+    "preview": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/megaman.png"
   },
   {
     "name": "ProtoMan",
     "author": "Artheau",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/Protoman.zip",
-    "preview": "https://raw.githubusercontent.com/Artheau/PixelArt/master/earthbound/Protoman/001.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/protoman.zip",
+    "preview": "http://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/protoman.png"
   }
 ]
