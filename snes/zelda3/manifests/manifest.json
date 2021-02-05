@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Artheau/SpriteSomething/master/resources/schema/game-sprite-manifest.schema.json",
+  "1": {
+    "type": "Player Character Sprite",
+    "name": "Link",
+    "folder name": "link",
+    "input": {
+      "png": {
+        "dims": [128, 448]
+      }
+    }
+  }
+}
