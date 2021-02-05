@@ -110,10 +110,15 @@ function init(mode = "index") {
     filepath += game + '/';
     filepath += sprite + '/';
 
+    let gameTitle = $("<h1>")
+      .text(game.substring(0, 1).toUpperCase() + game.substring(1))
+      .attr("id", "gameTitle");
+    $("body").append(gameTitle);
+
     let title_a = $("<a>")
-      .attr("href", filepath + "sprites.html")
+      .attr("href", filepath + "./")
       .text(sprite.substring(0, 1).toUpperCase() + sprite.substring(1) + " Sprites");
-    let title = $("<h1>")
+    let title = $("<h2>")
       .attr("id", "title");
     title.append(title_a);
     $("body").append(title);

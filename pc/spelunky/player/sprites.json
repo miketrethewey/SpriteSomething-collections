@@ -2,31 +2,31 @@
   {
     "name": "GrandPOOBear",
     "author": "serenap1995",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/grandpoobear.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/grandpoobear.png"
   },
   {
     "name": "Mario",
     "author": "",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/mario.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/mario.png"
   },
   {
     "name": "Solaire of Astora",
     "author": "",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/solaire.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/solaire.png"
   },
   {
     "name": "Paper Mario",
     "author": "PapaBlum",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/papermario.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/papermario.png"
   },
   {
     "name": "Laser Belch",
     "author": "serenap1995",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/laserbelch.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/laserbelch.png"
   },
   {
     "name": "Feen",
     "author": "serenap1995",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/sheets/feen.png"
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/pc/spelunky/player/sheets/feen.png"
   }
 ]
