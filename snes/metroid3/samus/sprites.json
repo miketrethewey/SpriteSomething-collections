@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Justin Bailey",
+    "author": "Auximines",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/justinbailey.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Federation Trooper",
+    "author": "Physix",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/fedtrooper.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Hitbox Helper",
+    "author": "Artheau",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hitboxhelper.png",
+    "usage": [
+      "nocommercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Mega Man X",
+    "author": "Artheau",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/megamanx.png",
+    "usage": [
+      "nocommercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Cursor",
+    "author": "PlaguedOne",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/cursor.png",
+    "usage": [
+      "nocommercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Alice Margatroid",
+    "author": "Plan",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alicemargatroid.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Super Controid",
+    "author": "Nintoaster",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/supercontroid.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Super Controid (PG)",
+    "author": "Nintoaster",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/supercontroid_pg.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Alucard",
+    "author": "Nintoaster",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard_sotn.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Luigi",
+    "author": "RonnSama",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/luigi_mansion.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Mario (SMB1)",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_8-bit.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Mario (SMB1, Modern colors)",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_8-bit_modern.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Link (OoT)",
+    "author": "RonnSama",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/link_oot.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Upside-Down Samus",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_upsidedown.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "180-Degree Samus",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_180-degree.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Backwards Samus",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_backwards.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Hitbox Helper (2)",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hitboxhelper2.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Sprite Can",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/spritecan.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Dark Samus",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/darksamus.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Metroid",
+    "author": "Fingers McGee",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/metroid.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Fusion v1.0 Type A",
+    "author": "Gala",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_fusion_typea_green.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Fusion v1.0 Type B",
+    "author": "Gala",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_fusion_typeb_orange.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Clocktoberfest Samus",
+    "author": "Aran;Jaeger",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/clocktoberfest.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Classic Samus",
+    "author": "Plan",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_classic.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Trans Samus",
+    "author": "TarThoron",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_trans.png",
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Diddy Kong",
+    "author": "Di10",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/diddykong.png",
+    "usage": [
+      "smz3"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "gal": {
+    "app": "GraphicsGale",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/layer-files/samus_layers.gal",
+    "site": "https://graphicsgale.com/"
+  },
+  "pdn": {
+    "app": "Paint.NET",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/layer-files/samus_layers.pdn",
+    "site": "https://www.getpaint.net/"
+  },
+  "png": {
+    "app": "Various",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus.png",
+  },
+  "psd": {
+    "app": "Adobe Photoshop",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/layer-files/samus_layers.psd",
+    "site": "https://www.adobe.com/products/photoshop.html"
+  },
+  "xcf": {
+    "app": "GIMP",
+    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/layer-files/samus_layers.xcf",
+    "site": "https://www.gimp.org/",
+    "repo": "https://gitlab.gnome.org/GNOME/gimp/"
+  }
+}
