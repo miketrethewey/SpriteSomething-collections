@@ -5,7 +5,7 @@
 ### Samus
 
 [SpriteSomething](http://artheau.github.io/SpriteSomething)
-[Samus sheet](http://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus.png)
+[Samus sheet](https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus.png)
 
 |Filename|Description|
 |---|---|
