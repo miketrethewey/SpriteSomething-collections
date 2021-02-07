@@ -2,7 +2,7 @@
   {
     "name": "Link",
     "author": "Nintendo",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
     "usage": [
       "commercial",
       "smz3"
@@ -11,7 +11,7 @@
   {
     "name": "Bob",
     "author": "kan",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/bob.1.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/bob.1.zspr",
     "usage": [
       "smz3"
     ]
@@ -19,7 +19,7 @@
   {
     "name": "Stick Man",
     "author": "skovacs1",
-    "file": "http://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/stick_man.1.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/stick_man.1.zspr",
     "usage": [
       "smz3"
     ]
