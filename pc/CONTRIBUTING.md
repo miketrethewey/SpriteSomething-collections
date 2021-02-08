@@ -1,6 +1,6 @@
 # SpriteSomething-collections
 
-## Contributing
+## [Contributing](https://github.com/miketrethewey/SpriteSomething-collections/blob/gh-pages/CONTRIBUTING.md)
 
 ### [PC Sprites](https://github.com/miketrethewey/SpriteSomething-collections/blob/gh-pages/pc/CONTRIBUTING.md)
 
