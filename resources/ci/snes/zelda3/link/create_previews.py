@@ -114,7 +114,7 @@ def get_image_for_sprite(sprite):
 
 sprites = []
 
-for file in glob(output_path(path) + "\\*.zspr"):
+for file in glob(os.path.join(output_path(path),"*.zspr")):
     if os.path.isfile(file):
         print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
