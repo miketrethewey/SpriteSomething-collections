@@ -56,6 +56,10 @@ jobs:
           name: pages-${{ matrix.os-name }}
           path: ./
 
+      - name: Install Moar Dependencies via pip
+        run: |
+          python -m pip install pytz
+
       - name: Build Discord Notification Payload (!PUBLISH)
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_UPDATES }}
