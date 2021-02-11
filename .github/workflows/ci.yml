@@ -30,6 +30,12 @@ jobs:
           architecture: "x64"
       - run: |
           python --version
+      # install dependencies via pip
+      - name: Install Dependencies via pip
+        env:
+          OS_NAME: ${{ matrix.os-name }}
+        run: |
+          python ./resources/ci/common/install.py
       # Process Templates
       - name: Process Templates
         run: |
