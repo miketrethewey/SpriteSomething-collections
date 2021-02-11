@@ -34,6 +34,10 @@ jobs:
       - name: Process Templates
         run: |
           python ./resources/ci/common/process_templates.py
+      # Cleanup Workspace
+      - name: Cleanup Workspace
+        run: |
+          python ./resources/ci/common/cleanup.py
       # upload pages artifact for later step
       - name: Upload Pages Artifact
         uses: actions/upload-artifact@v1
