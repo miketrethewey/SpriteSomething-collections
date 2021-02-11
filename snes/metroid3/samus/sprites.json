@@ -362,5 +362,20 @@
     "usage": [
       "smz3"
     ]
+  },
+  {
+    "name": "Shaktool",
+    "author": "Pneumatic",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/shaktool.png",
+    "tags": {
+      "character": "Shaktool",
+      "game": "Super Metroid",
+      "gender": "Neutral",
+      "type": [ "NPC" ],
+      "universe": "Metroid"
+    },
+    "usage": [
+      "smz3"
+    ]
   }
 ]
