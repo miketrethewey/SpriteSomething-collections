@@ -3,6 +3,11 @@
     "name": "Justin Bailey",
     "author": "Auximines",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/justinbailey.png",
+    "tags": {
+      "gender": "Female",
+      "origin": "original",
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -11,6 +16,12 @@
     "name": "Federation Trooper",
     "author": "Physix",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/fedtrooper.png",
+    "tags": {
+      "game": "Metroid Prime 2: Echoes",
+      "gender": "Neutral",
+      "type": [ "NPC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -19,6 +30,9 @@
     "name": "Hitbox Helper",
     "author": "Artheau",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hitboxhelper.png",
+    "tags": {
+      "type": "utility"
+    },
     "usage": [
       "nocommercial",
       "smz3"
@@ -28,6 +42,13 @@
     "name": "Mega Man X",
     "author": "Artheau",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/megamanx.png",
+    "tags": {
+      "character": "Mega Man X",
+      "game": "Mega Man X",
+      "gender": "Male",
+      "type": [ "PC", "rip" ],
+      "universe": "Mega Man"
+    },
     "usage": [
       "nocommercial",
       "smz3"
@@ -37,6 +58,10 @@
     "name": "Cursor",
     "author": "PlaguedOne",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/cursor.png",
+    "tags": {
+      "gender": "Neutral",
+      "origin": "operating systems"
+    },
     "usage": [
       "nocommercial",
       "smz3"
@@ -46,6 +71,12 @@
     "name": "Alice Margatroid",
     "author": "Plan",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alicemargatroid.png",
+    "tags": {
+      "character": "Alice Margatroid",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Touhou"
+    },
     "usage": [
       "smz3"
     ]
@@ -54,6 +85,11 @@
     "name": "Super Controid",
     "author": "Nintoaster",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/supercontroid.png",
+    "tags": {
+      "character": "Bill Rizer",
+      "gender": "Male",
+      "universe": "Contra"
+    },
     "usage": [
       "smz3"
     ]
@@ -62,6 +98,11 @@
     "name": "Super Controid (PG)",
     "author": "Nintoaster",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/supercontroid_pg.png",
+    "tags": {
+      "character": "Bill Rizer",
+      "gender": "Male",
+      "universe": "Contra"
+    },
     "usage": [
       "smz3"
     ]
@@ -70,6 +111,13 @@
     "name": "Alucard",
     "author": "Nintoaster",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard_sotn.png",
+    "tags": {
+      "character": "Alucard",
+      "game": "Castlevania: Symphony of the Night",
+      "gender": "Male",
+      "type": [ "PC", "rip" ],
+      "universe": "Castlevania"
+    },
     "usage": [
       "smz3"
     ]
@@ -78,6 +126,13 @@
     "name": "Luigi",
     "author": "RonnSama",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/luigi_mansion.png",
+    "tags": {
+      "character": "Luigi Mario",
+      "game": "Luigi's Mansion",
+      "gender": "Male",
+      "type": [ "PC" ],
+      "universe": "Mario"
+    },
     "usage": [
       "smz3"
     ]
@@ -86,6 +141,13 @@
     "name": "Mario (SMB1)",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_8-bit.png",
+    "tags": {
+      "character": "Mario Mario",
+      "game": "Super Mario Bros",
+      "gender": "Male",
+      "type": [ "PC", "rip" ],
+      "universe": "Mario"
+    },
     "usage": [
       "smz3"
     ]
@@ -94,6 +156,13 @@
     "name": "Mario (SMB1, Modern colors)",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_8-bit_modern.png",
+    "tags": {
+      "character": "Mario Mario",
+      "game": "Super Mario Bros",
+      "gender": "Male",
+      "type": [ "PC", "rip", "paletteswap" ],
+      "universe": "Mario"
+    },
     "usage": [
       "smz3"
     ]
@@ -102,6 +171,13 @@
     "name": "Link (OoT)",
     "author": "RonnSama",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/link_oot.png",
+    "tags": {
+      "character": "Link",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "gender": "Male",
+      "type": [ "PC" ],
+      "universe": "Legend of Zelda"
+    },
     "usage": [
       "smz3"
     ]
@@ -110,6 +186,13 @@
     "name": "Upside-Down Samus",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_upsidedown.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -118,6 +201,13 @@
     "name": "180-Degree Samus",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_180-degree.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -126,6 +216,13 @@
     "name": "Backwards Samus",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_backwards.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -150,6 +247,13 @@
     "name": "Dark Samus",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/darksamus.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC", "paletteswap" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -158,6 +262,13 @@
     "name": "Metroid",
     "author": "Fingers McGee",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/metroid.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Neutral",
+      "type": [ "NPC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -166,6 +277,13 @@
     "name": "Fusion v1.0 Type A",
     "author": "Gala",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_fusion_typea_green.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Metroid Fusion",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -174,6 +292,13 @@
     "name": "Fusion v1.0 Type B",
     "author": "Gala",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_fusion_typeb_orange.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Metroid Fusion",
+      "gender": "Female",
+      "type": [ "PC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -182,6 +307,13 @@
     "name": "Clocktoberfest Samus",
     "author": "Aran;Jaeger",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_clocktoberfest.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC", "paletteswap" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -190,6 +322,13 @@
     "name": "Classic Samus",
     "author": "Plan",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_classic.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Metroid",
+      "gender": "Female",
+      "type": [ "PC", "paletteswap" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -198,6 +337,13 @@
     "name": "Trans Samus",
     "author": "TarThoron",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_trans.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "PC", "paletteswap" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]
@@ -206,6 +352,28 @@
     "name": "Diddy Kong",
     "author": "Di10",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/diddykong.png",
+    "tags": {
+      "character": "Diddy Kong",
+      "game": "Donkey Kong Country",
+      "gender": "Male",
+      "type": [ "PC" ],
+      "universe": "Donkey Kong"
+    },
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Shaktool",
+    "author": "Pneumatic",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/shaktool.png",
+    "tags": {
+      "character": "Shaktool",
+      "game": "Super Metroid",
+      "gender": "Neutral",
+      "type": [ "NPC" ],
+      "universe": "Metroid"
+    },
     "usage": [
       "smz3"
     ]

@@ -3,18 +3,34 @@
     "name": "Classic Ness",
     "author": "Ripped by Artheau",
     "file": "https://raw.githubusercontent.com/miketrethewey/SpriteSomething-collections/gh-pages/snes/mother2/player/sheets/ness_classic.zip",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/ness_classic.png"
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/ness_classic.png",
+    "tags": {
+      "character": "Ness",
+      "gender": "Male",
+      "type": "PC",
+      "universe": "Earthbound"
+    }
   },
   {
     "name": "MegaMan",
     "author": "Artheau",
     "file": "https://raw.githubusercontent.com/miketrethewey/SpriteSomething-collections/gh-pages/snes/mother2/player/sheets/megaman.zip",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/megaman.png"
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/megaman.png",
+    "tags": {
+      "character": "Mega Man",
+      "gender": "Male",
+      "universe": "Mega Man"
+    }
   },
   {
     "name": "ProtoMan",
     "author": "Artheau",
     "file": "https://raw.githubusercontent.com/miketrethewey/SpriteSomething-collections/gh-pages/snes/mother2/player/sheets/protoman.zip",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/protoman.png"
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/mother2/player/sheets/protoman.png",
+    "tags": {
+      "character": "Proto Man",
+      "gender": "Male",
+      "universe": "Mega Man"
+    }
   }
 ]
