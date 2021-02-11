@@ -116,13 +116,15 @@ sprites = []
 
 for file in glob(output_path(path) + "\\*.zspr"):
     if os.path.isfile(file):
+        print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
 
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
 
 i = 0
 for sprite in sprites:
+    print("Processing sprite: %s [%s]" % (sprite.name, sprite.filename))
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
-    image.save(os.path.join(".","snes","zelda3","link","sheets","thumbs",sprite.slug + ".png"),"png")
+    image.save(os.path.join(path,"thumbs",sprite.slug + ".png"),"png")
