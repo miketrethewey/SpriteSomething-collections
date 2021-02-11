@@ -311,6 +311,11 @@ function listingPage(console = "", game = "", sprite = "", path = "./") {
           if (sprite.hasOwnProperty("preview")) {
             img = sprite.preview;
           }
+          if (img.endsWith(".zspr")) {
+            img = img.substring(img.lastIndexOf('/') + 1);
+            img = img.substring(0, img.length - 5);
+            img = "./sheets/thumbs/" + img + ".png";
+          }
           let name_link = $("<a>")
             .attr({
               "href": file

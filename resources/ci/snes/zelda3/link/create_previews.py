@@ -110,7 +110,8 @@ def get_image_for_sprite(sprite):
     gif_data = make_gif(draw_sprite_into_gif)
     image = Image.open(io.BytesIO(gif_data))
 
-    return image.resize((image.size[0] * 2, image.size[1] * 2), 0)
+    zoom = 4
+    return image.resize((image.size[0] * zoom, image.size[1] * zoom), 0)
 
 sprites = []
 
