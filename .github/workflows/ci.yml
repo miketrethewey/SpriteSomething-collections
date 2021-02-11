@@ -17,6 +17,7 @@ jobs:
       matrix:
         # pages on one OS
         os-name: [ubuntu-latest]
+        python-version: [3.8]
 
     steps:
       # checkout commit

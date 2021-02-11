@@ -125,4 +125,4 @@ for sprite in sprites:
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
-    image.save(os.path.join(".","snes","zelda3","link","sheets","thumbs",sprite.slug + ".gif"))
+    image.save(os.path.join(".","snes","zelda3","link","sheets","thumbs",sprite.slug + ".png"),"png")
