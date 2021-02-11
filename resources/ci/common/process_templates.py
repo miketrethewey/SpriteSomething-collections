@@ -12,7 +12,7 @@ with open(os.path.join(".","meta","manifests","consoles.txt"), "r") as consoles:
     consoleTemplateFile = open(os.path.join(".","resources","ci","templates","console.html"))
     consoleTemplate = consoleTemplateFile.read()
     consoleTemplateFile.close()
-    print(console.upper())
+    print(console.upper() + " [" + console + "]")
     with open(os.path.join(paths["console"],"index.html"), "w+") as consoleFile:
       thisTemplate = consoleTemplate.replace("<PRETTY_CONSOLE>", console.upper())
       thisTemplate = thisTemplate.replace("<PATH_CONSOLE>", console)
