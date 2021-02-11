@@ -58,7 +58,7 @@ jobs:
 
       - name: Install Moar Dependencies via pip
         run: |
-          python -m pip install pytz
+          python -m pip install pytz requests
 
       - name: Build Discord Notification Payload (!PUBLISH)
         env:
