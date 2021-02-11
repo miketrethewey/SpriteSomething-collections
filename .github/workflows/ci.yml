@@ -1,0 +1,42 @@
+# workflow name
+name: Deploy Pages
+
+# fire on
+on: [push, pull_request]
+
+# stuff to do
+jobs:
+  # Install/Process Templates
+  install-process-templates:
+    name: Process Templates
+    runs-on: ${{ matrix.os-name }}
+
+    # VM settings
+    #  os & python versions
+    strategy:
+      matrix:
+        # pages on one OS
+        os-name: [ubuntu-latest]
+
+    steps:
+      # checkout commit
+      - name: Checkout commit
+        uses: actions/checkout@v1
+      # install python
+      - name: Install Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+          architecture: "x64"
+      - run: |
+          python --version
+      # Process Templates
+      - name: Process Templates
+        run: |
+          python ./resources/ci/common/process_templates.py
+      # upload pages artifact for later step
+      - name: Upload Pages Artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: pages-${{ matrix.os-name }}
+          path: ./
