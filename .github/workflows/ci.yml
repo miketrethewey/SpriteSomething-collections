@@ -61,7 +61,7 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_UPDATES }}
         run: |
           python ./resources/ci/common/prepare_discord_notif.py
-        if: ! contains(github.ref, 'publish')
+        if: contains(github.ref, 'publish') != true
 
       - name: Build Discord Notification Payload (PUBLISH)
         env:
