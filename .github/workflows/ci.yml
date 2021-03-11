@@ -22,10 +22,10 @@ jobs:
     steps:
       # checkout commit
       - name: Checkout commit
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       # install python
       - name: Install Python
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
           architecture: "x64"
@@ -51,10 +51,66 @@ jobs:
           python ./resources/ci/common/cleanup.py
       # upload pages artifact for later step
       - name: Upload Pages Artifact
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: pages-${{ matrix.os-name }}
           path: ./
+
+  # Install/Publish Pages
+  install-publish-pages:
+    name: Publish Pages
+    runs-on: ${{ matrix.os-name }}
+
+    # VM settings
+    #  os & python versions
+    strategy:
+      matrix:
+        # pages on one OS
+        os-name: [ubuntu-latest]
+        python-version: [3.8]
+
+    steps:
+      # download pages artifact
+      - name: Download Pages Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: pages-${{ matrix.os-name }}
+          path: ./
+      # Push to gh-pages
+      - name: Push to GH-Pages
+        run: |
+          git status
+          git branch -a
+        # if: contains(github.ref, 'publish')
+
+  # Install/Discord Notif
+  install-discord-notif:
+    name: Discord Notification
+    runs-on: ${{ matrix.os-name }}
+
+    # VM settings
+    #  os & python versions
+    strategy:
+      matrix:
+        # pages on one OS
+        os-name: [ubuntu-latest]
+        python-version: [3.8]
+
+    steps:
+      # install python
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+          architecture: "x64"
+      - run: |
+          python --version
+      # install dependencies via pip
+      - name: Install Dependencies via pip
+        env:
+          OS_NAME: ${{ matrix.os-name }}
+        run: |
+          python ./resources/ci/common/install.py
 
       - name: Install Moar Dependencies via pip
         run: |
