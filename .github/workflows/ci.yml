@@ -91,7 +91,7 @@ jobs:
           git commit -F commit.txt
           git log
       # Push to GH-Pages
-      - name: Push to GH-Pages
+      - name: Push to GH-Pages (PUBLISH)
         run: |
           git push
         if: contains(github.ref, 'publish')
