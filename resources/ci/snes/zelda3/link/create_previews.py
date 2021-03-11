@@ -13,6 +13,12 @@ def output_path(path):
     return path
 path = output_path(os.path.join(".","snes","zelda3","link","sheets"))
 
+def add_thumb(thumb,png,height,x,y):
+    thisThumb = Image.open(thumb).resize((16,height),0)
+    print("Adding to css-able image: " + os.path.basename(thumb))
+    png.paste(thisThumb,(x,y))
+    return png, x + 16
+
 def get_image_for_sprite(sprite):
     if not sprite.valid:
         return None
@@ -124,8 +130,6 @@ for file in glob(os.path.join(output_path(path),"*.zspr")):
         print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
 print()
-# sort ZSPRs
-sprites.sort(key=lambda s: str.lower(s.name or "").strip())
 
 # make previews for ZSPRs (400% size)
 for sprite in sprites:
@@ -156,7 +160,8 @@ png = Image.new("RGBA", (width, height))
 png.putalpha(0)
 x = 0
 y = 0
-for thumb in thumbs:
+
+for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     thisThumb = Image.open(thumb)
     print("Adding to class image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
@@ -167,23 +172,22 @@ for thumb in thumbs:
 png.save(os.path.join(output_path(path),"previews","sprites.class." + VERSION + ".png"),"png")
 print()
 
-# add Random Sprite & Custom Sprite
-thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"))
-thumbs.reverse()
-thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","random.png"))
-thumbs.reverse()
-
 # make css-able image
 print("Making CSS-able image for: " + VERSION)
-width = len(thumbs) * 16
+width = (len(thumbs) + 2) * 16
 height = 24
 png = Image.new("RGBA", (width, height))
 png.putalpha(0)
 x = 0
 y = 0
-for thumb in thumbs:
-    thisThumb = Image.open(thumb).resize((16,height),0)
-    print("Adding to css-able image: " + os.path.basename(thumb))
-    png.paste(thisThumb,(x,y))
-    x += 16
+
+# Add Random Sprite
+png, x = add_thumb(os.path.join(".","resources","ci","snes","zelda3","link","sheets","random.png"), png, height, x, y)
+
+for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
+    png, x = add_thumb(thumb, png, height, x, y)
+
+png, x = add_thumb(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"), png, height, x, y)
+
+# Add Custom Sprite
 png.save(os.path.join(output_path(path),"previews","sprites." + VERSION + ".png"),"png")
