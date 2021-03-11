@@ -71,6 +71,10 @@ jobs:
         python-version: [3.8]
 
     steps:
+      # Change to gh-pages branch
+      - name: Change to gh-pages branch
+        run: |
+          git branch gh-pages
       # download pages artifact
       - name: Download Pages Artifact
         uses: actions/download-artifact@v2
@@ -80,7 +84,6 @@ jobs:
       # Push to gh-pages
       - name: Push to GH-Pages
         run: |
-          git branch gh-pages
           git status
         # if: contains(github.ref, 'publish')
 
