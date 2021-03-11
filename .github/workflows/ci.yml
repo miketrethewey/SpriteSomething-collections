@@ -60,6 +60,7 @@ jobs:
   install-publish-pages:
     name: Publish Pages
     runs-on: ${{ matrix.os-name }}
+    needs: [ install-process-templates ]
 
     # VM settings
     #  os & python versions
@@ -87,6 +88,7 @@ jobs:
   install-discord-notif:
     name: Discord Notification
     runs-on: ${{ matrix.os-name }}
+    needs: [ install-publish-pages ]
 
     # VM settings
     #  os & python versions
@@ -97,6 +99,9 @@ jobs:
         python-version: [3.8]
 
     steps:
+      # checkout commit
+      - name: Checkout commit
+        uses: actions/checkout@v2
       # install python
       - name: Install Python
         uses: actions/setup-python@v2
