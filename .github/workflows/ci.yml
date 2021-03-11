@@ -80,8 +80,8 @@ jobs:
       # Push to gh-pages
       - name: Push to GH-Pages
         run: |
+          git branch gh-pages
           git status
-          git branch -a
         # if: contains(github.ref, 'publish')
 
   # Install/Discord Notif
