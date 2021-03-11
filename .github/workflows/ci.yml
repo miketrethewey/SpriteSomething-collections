@@ -84,24 +84,19 @@ jobs:
           path: ./
       # Prepare for GH-Pages
       - name: Prepare for GH-Pages
-        run: echo "" # do nothing
-      # git:Set Committer
-      - name: git:Set Committer
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-      # git:Add Files
-      - name: git:Add Files
-        run: |
           git add .
-      # git:Diff
-      - name: git:Diff
+      # List Differences
+      - name: List Differences
         run: |
           git diff --name-status --cached
-      # git:Commit
-      - name: git:Commit
+      # Set Commit
+      - name: Set Commit
         run: |
           git commit -F commit.txt
+          echo "---"
           git log
       # Push to GH-Pages
       - name: Push to GH-Pages (PUBLISH)
