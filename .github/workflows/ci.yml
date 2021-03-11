@@ -97,7 +97,7 @@ jobs:
       # git:Diff
       - name: git:Diff
         run: |
-          git diff --name-status
+          git --no-pager diff --name-status
       # git:Commit
       - name: git:Commit
         run: |
