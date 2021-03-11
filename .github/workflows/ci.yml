@@ -71,10 +71,13 @@ jobs:
         python-version: [3.8]
 
     steps:
+      # checkout commit
+      - name: Checkout commit
+        uses: actions/checkout@v2
       # Change to gh-pages branch
       - name: Change to gh-pages branch
         run: |
-          git branch gh-pages
+          git checkout --progress --force -B gh-pages refs/remotes/origin/gh-pages
       # download pages artifact
       - name: Download Pages Artifact
         uses: actions/download-artifact@v2
