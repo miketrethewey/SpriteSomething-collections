@@ -95,7 +95,7 @@ jobs:
       # Set Commit
       - name: Set Commit
         run: |
-          git commit -F commit.txt
+          git commit -q -F commit.txt
           echo "---"
           git log
       # Push to GH-Pages
