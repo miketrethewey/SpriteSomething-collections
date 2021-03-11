@@ -84,6 +84,7 @@ jobs:
           path: ./
       # Prepare for GH-Pages
       - name: Prepare for GH-Pages
+        run: echo "" # do nothing
       # git:Set Committer
       - name: git:Set Committer
         run: |
