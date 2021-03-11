@@ -123,16 +123,18 @@ for file in glob(os.path.join(output_path(path),"*.zspr")):
     if os.path.isfile(file):
         print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
+print()
 # sort ZSPRs
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
 
 # make previews for ZSPRs (400% size)
 for sprite in sprites:
-    print("Processing sprite: %s [%s]" % (sprite.name, sprite.filename))
+    print("Processing sprite preview: %s [%s]" % (sprite.name, sprite.filename))
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
     image.save(os.path.join(output_path(path),"thumbs",sprite.slug + ".png"),"png")
+print()
 
 # hack version number; this should eventually be in a resources doc somewhere else
 VERSION = "31.0.8.x"
@@ -141,6 +143,7 @@ VERSION = "31.0.8.x"
 thumbs = glob(os.path.join(output_path(path),"thumbs","*.png"))
 
 # get the new ones and make a class image
+print("Making class image for: " + VERSION)
 zoom = 4
 width = 6 * 16 * zoom
 height = (math.ceil(len(thumbs) / 6)) * 24 * zoom
@@ -150,12 +153,14 @@ x = 0
 y = 0
 for thumb in thumbs:
     thisThumb = Image.open(thumb)
+    print("Adding to class image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
     x += 16 * zoom
     if x >= width:
         x = 0
         y += 24 * zoom
 png.save(os.path.join(output_path(path),"previews","sprites.class." + VERSION + ".png"),"png")
+print()
 
 # add Random Sprite & Custom Sprite
 thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"))
@@ -164,6 +169,7 @@ thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets",
 thumbs.reverse()
 
 # make css-able image
+print("Making CSS-able image for: " + VERSION)
 width = len(thumbs) * 16
 height = 24
 png = Image.new("RGBA", (width, height))
@@ -172,6 +178,7 @@ x = 0
 y = 0
 for thumb in thumbs:
     thisThumb = Image.open(thumb).resize((16,height),0)
+    print("Adding to css-able image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
     x += 16
 png.save(os.path.join(output_path(path),"previews","sprites." + VERSION + ".png"),"png")
