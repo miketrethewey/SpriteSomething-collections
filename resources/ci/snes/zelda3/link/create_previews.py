@@ -137,7 +137,12 @@ for sprite in sprites:
 print()
 
 # hack version number; this should eventually be in a resources doc somewhere else
-VERSION = "31.0.8.x"
+VERSION = ""
+with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
+    VERSION = appversion.readline()
+
+with(open(os.path.join(".","commit.txt"),"w")) as commit:
+    commit.write("Update Site to v" + VERSION)
 
 # get the thumbnails (400%) we made
 thumbs = glob(os.path.join(output_path(path),"thumbs","*.png"))

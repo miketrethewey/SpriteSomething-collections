@@ -82,18 +82,19 @@ jobs:
         with:
           name: pages-${{ matrix.os-name }}
           path: ./
-      # Push to gh-pages
-      - name: Push to GH-Pages
+      # Prepare for GH-Pages
+      - name: Prepare for GH-Pages
         run: |
-          git status
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "update site"
-          git status
+          git commit -F commit.txt
           git log
-        # git push
-        # if: contains(github.ref, 'publish')
+      # Push to GH-Pages
+      - name: Push to GH-Pages
+        run: |
+          git push
+        if: contains(github.ref, 'publish')
 
   # Install/Discord Notif
   install-discord-notif:
