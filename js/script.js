@@ -139,13 +139,15 @@ function listingPage(console = "", game = "", sprite = "", path = "./") {
   let spritepath = sprite != "" ? gamepath + sprite + '/' : "";
 
   // Link to JSON
-  let json_a = $("<a>")
-    .attr({
-      "href": spritepath + "sprites.json",
-      "style": "float: right;"
-    })
-    .text("JSON");
-  $("body").append(json_a);
+  if(spritepath != "") {
+    let json_a = $("<a>")
+      .attr({
+        "href": spritepath + "sprites.json",
+        "style": "float: right;"
+      })
+      .text("JSON");
+    $("body").append(json_a);
+  }
 
   // SpriteSomething
   let spritesomething_a = $("<a>")
