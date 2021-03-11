@@ -1,6 +1,7 @@
 # While iterating through sprite files, this will generate the preview images to serve to process_previews.py
 
 import io
+import math
 import os
 
 from glob import glob
@@ -15,6 +16,7 @@ path = output_path(os.path.join(".","snes","zelda3","link","sheets"))
 def get_image_for_sprite(sprite):
     if not sprite.valid:
         return None
+    # default dims are 16x24
     height = 24
     width = 16
 
@@ -110,22 +112,66 @@ def get_image_for_sprite(sprite):
     gif_data = make_gif(draw_sprite_into_gif)
     image = Image.open(io.BytesIO(gif_data))
 
+    # blow up by 400%
     zoom = 4
     return image.resize((image.size[0] * zoom, image.size[1] * zoom), 0)
 
 sprites = []
 
+# get ZSPRs
 for file in glob(os.path.join(output_path(path),"*.zspr")):
     if os.path.isfile(file):
         print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
-
+# sort ZSPRs
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
 
-i = 0
+# make previews for ZSPRs (400% size)
 for sprite in sprites:
     print("Processing sprite: %s [%s]" % (sprite.name, sprite.filename))
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
-    image.save(os.path.join(path,"thumbs",sprite.slug + ".png"),"png")
+    image.save(os.path.join(output_path(path),"thumbs",sprite.slug + ".png"),"png")
+
+# hack version number; this should eventually be in a resources doc somewhere else
+VERSION = "31.0.8.x"
+
+# get the thumbnails (400%) we made
+thumbs = glob(os.path.join(output_path(path),"thumbs","*.png"))
+
+# get the new ones and make a class image
+zoom = 4
+width = 6 * 16 * zoom
+height = (math.ceil(len(thumbs) / 6)) * 24 * zoom
+png = Image.new("RGBA", (width, height))
+png.putalpha(0)
+x = 0
+y = 0
+for thumb in thumbs:
+    thisThumb = Image.open(thumb)
+    png.paste(thisThumb,(x,y))
+    x += 16 * zoom
+    if x >= width:
+        x = 0
+        y += 24 * zoom
+png.save(os.path.join(output_path(path),"previews","sprites.class." + VERSION + ".png"),"png")
+
+# add Random Sprite & Custom Sprite
+thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"))
+thumbs.reverse()
+thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","random.png"))
+thumbs.reverse()
+
+# make css-able image
+width = len(thumbs) * 16
+height = 24
+png = Image.new("RGBA", (width, height))
+png.putalpha(0)
+x = 0
+y = 0
+for thumb in thumbs:
+    thisThumb = Image.open(thumb).resize((16,height),0)
+    png.paste(thisThumb,(x,y))
+    x += 16
+png.save(os.path.join(output_path(path),"previews","sprites." + VERSION + ".png"),"png")
