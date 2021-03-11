@@ -139,7 +139,7 @@ print()
 # hack version number; this should eventually be in a resources doc somewhere else
 VERSION = ""
 with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
-    VERSION = appversion.readline()
+    VERSION = appversion.readline().strip()
 
 with(open(os.path.join(".","commit.txt"),"w")) as commit:
     commit.write("Update Site to v" + VERSION)
