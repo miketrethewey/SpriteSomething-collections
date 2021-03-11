@@ -96,7 +96,6 @@ jobs:
       - name: Set Commit
         run: |
           git commit -q -F commit.txt
-          echo "---"
           git log
       # Push to GH-Pages
       - name: Push to GH-Pages (PUBLISH)
