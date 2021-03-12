@@ -118,4 +118,7 @@ for sprite in sprites:
   i += 1
 
 with(open(os.path.join(site_resources,"sprites-meta.json"),"w+")) as json_file:
-    json.dump(sorted(list(spritesmeta.values()), key=lambda s: str.lower(s["slug"] or "").strip()),json_file,indent=2)
+    vals = spritesmeta.values()
+    vlist = list(vals)
+    slist = sorted(vlist, key=lambda s: str.lower(s["slug"] or "").strip())
+    json.dump(slist,json_file,indent=2)
