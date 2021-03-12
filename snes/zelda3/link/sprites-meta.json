@@ -3,7 +3,7 @@
     "name": "Link",
     "author": "Nintendo",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/001.link.1.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
     "slug": "001.link",
     "tags": [
       "Link",
@@ -21,7 +21,7 @@
     "name": "Bob",
     "author": "kan",
     "version": 2,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/bob.2.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/bob.2.zspr",
     "slug": "bob",
     "tags": [
       "The Legend of Zelda: A Link to the Past",
@@ -38,7 +38,7 @@
     "name": "Stick Man",
     "author": "skovacs1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/stick_man.1.zspr",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/stick_man.1.zspr",
     "slug": "stick_man",
     "tags": [
       "Neutral",
