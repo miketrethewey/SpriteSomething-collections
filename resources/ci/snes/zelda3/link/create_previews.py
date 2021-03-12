@@ -10,7 +10,7 @@ from ZSPR import ZSPR
 
 local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
 site_resources = os.path.join(".","snes","zelda3","link")
-online_resources = "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3"
+online_resources = "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link"
 
 def add_thumb(thumb,png,height,x,y):
     thisThumb = Image.open(thumb).resize((16,height),0)
