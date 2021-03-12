@@ -119,7 +119,7 @@ for sprite in sprites:
             spritesmeta[slug][key] = v
   i += 1
 
-with(open(os.path.join(site_resources,"sprites-meta.json"),"w+")) as json_file:
+with(open(os.path.join(site_resources,"sprites.json"),"w+")) as json_file:
     vals = spritesmeta.values()
     vlist = list(vals)
     slist = sorted(vlist, key=lambda s: str.lower(s["slug"] or "").strip())
