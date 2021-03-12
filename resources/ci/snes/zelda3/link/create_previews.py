@@ -119,24 +119,24 @@ def get_image_for_sprite(sprite):
 sprites = []
 
 # get ZSPRs
+print("Getting ZSPRs")
 for file in glob(os.path.join(output_path(path),"*.zspr")):
     if os.path.isfile(file):
-        print("Found sprite file: " + file)
         sprites.append(ZSPR(file))
-print()
 # sort ZSPRs
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
+print()
+print("Wait a little bit, dude, there's %d sprites." % (len(sprites)))
+print()
 
 # make previews for ZSPRs (400% size)
+print("Processing previews")
 for sprite in sprites:
-    print("Processing sprite preview: %s [%s]" % (sprite.name, sprite.filename))
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
     image.save(os.path.join(output_path(path),"thumbs",sprite.slug + ".png"),"png")
-print()
 
-# hack version number; this should eventually be in a resources doc somewhere else
 VERSION = ""
 with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
     VERSION = appversion.readline().strip()
@@ -158,14 +158,12 @@ x = 0
 y = 0
 for thumb in thumbs:
     thisThumb = Image.open(thumb)
-    print("Adding to class image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
     x += 16 * zoom
     if x >= width:
         x = 0
         y += 24 * zoom
 png.save(os.path.join(output_path(path),"previews","sprites.class." + VERSION + ".png"),"png")
-print()
 
 # add Random Sprite & Custom Sprite
 thumbs.append(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"))
@@ -181,9 +179,19 @@ png = Image.new("RGBA", (width, height))
 png.putalpha(0)
 x = 0
 y = 0
+i = 1
+n = len(thumbs)
+maxd = len(str(n))
 for thumb in thumbs:
     thisThumb = Image.open(thumb).resize((16,height),0)
-    print("Adding to css-able image: " + os.path.basename(thumb))
+    print("Adding to css-able image: %*d/%*d %s" %
+      (
+        maxd,i,
+        maxd,n,
+        os.path.basename(thumb)
+      )
+    )
     png.paste(thisThumb,(x,y))
     x += 16
+    i += 1
 png.save(os.path.join(output_path(path),"previews","sprites." + VERSION + ".png"),"png")

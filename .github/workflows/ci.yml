@@ -45,6 +45,10 @@ jobs:
       - name: Create Z3Link Previews
         run: |
           python ./resources/ci/snes/zelda3/link/create_previews.py
+      # Process Z3Link Metadata
+      - name: Process Z3Link Metadata
+        run: |
+          python ./resources/ci/snes/zelda3/link/create_metadata.py
       # Cleanup Workspace
       - name: Cleanup Workspace
         run: |
