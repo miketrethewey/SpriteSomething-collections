@@ -159,7 +159,7 @@ png = Image.new("RGBA", (width, height))
 png.putalpha(0)
 x = 0
 y = 0
-for thumb in thumbs:
+for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     thisThumb = Image.open(thumb)
     png.paste(thisThumb,(x,y))
     x += 16 * zoom
