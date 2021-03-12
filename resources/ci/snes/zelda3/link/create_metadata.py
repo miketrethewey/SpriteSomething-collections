@@ -3,6 +3,7 @@ import json
 import os
 import xlrd
 
+from collections import OrderedDict
 from glob import glob
 from ZSPR import ZSPR
 
@@ -35,7 +36,7 @@ with(open(os.path.join(local_resources,"sprites.csv"),"r")) as csv_file:
         line = csv_file.readline()
 
 print("Getting metadata from ZSPRs")
-spritesmeta = {}
+spritesmeta = OrderedDict()
 # get ZSPRs
 maxd,maxs,maxn = 0,0,0
 
@@ -54,6 +55,7 @@ for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
         spritesmeta[slug]["author"] = sprite.author_name
         spritesmeta[slug]["version"] = int(ver)
         spritesmeta[slug]["file"] = online_resources + "/sheets/" + basename
+        spritesmeta[slug]["slug"] = slug
 
 print()
 print("Wait a little bit, dude, there's %d sprites." % (len(spritesmeta)))

@@ -37,6 +37,10 @@ jobs:
           OS_NAME: ${{ matrix.os-name }}
         run: |
           python ./resources/ci/common/install.py
+      # Prepare AppVersion
+      - name: Prepare AppVersion
+        run: |
+          python ./resources/ci/common/prepare_appversion.py
       # Process Templates
       - name: Process Templates
         run: |
