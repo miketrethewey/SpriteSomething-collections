@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Link",
+    "author": "Nintendo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/001.link.1.zspr",
+    "slug": "001.link",
+    "tags": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Bob",
+    "author": "kan",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/bob.2.zspr",
+    "slug": "bob",
+    "tags": [
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Randomizer",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Stick Man",
+    "author": "skovacs1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/sheets/stick_man.1.zspr",
+    "slug": "stick_man",
+    "tags": [
+      "Neutral",
+      "Original"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  }
+]
