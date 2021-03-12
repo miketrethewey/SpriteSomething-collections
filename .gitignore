@@ -5,8 +5,8 @@
 # Spreadsheet Temp
 *.tmp
 *.xls#
-sprites.csv
-sprites-meta.json
+resources/ci/**/sprites.csv
+resources/ci/**/sprites-meta.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

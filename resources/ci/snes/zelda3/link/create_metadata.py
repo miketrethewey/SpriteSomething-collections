@@ -5,6 +5,7 @@ import xlrd
 
 from collections import OrderedDict
 from glob import glob
+from shutil import copyfile
 from ZSPR import ZSPR
 
 def csv_from_excel(sheet,outbound):
@@ -23,6 +24,7 @@ worksheet = workbook.sheet_by_index(0)
 
 print("Creating CSV")
 csv_from_excel(worksheet,os.path.join(local_resources,"sprites.csv"))
+copyfile(os.path.join(local_resources,"sprites.csv"),os.path.join(site_resources,"sprites.csv"))
 del worksheet
 del workbook
 
