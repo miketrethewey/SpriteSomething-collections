@@ -140,13 +140,30 @@ function listingPage(console = "", game = "", sprite = "", path = "./") {
 
   // Link to JSON
   if(spritepath != "") {
+    let json_div = $("<div>")
+      .attr({
+        "style": "float:right;"
+      });
+
     let json_a = $("<a>")
       .attr({
-        "href": spritepath + "sprites.json",
-        "style": "float: right;"
+        "href": spritepath + "sprites.json"
       })
       .text("JSON");
-    $("body").append(json_a);
+
+    json_div.append(json_a);
+
+    if(game == "zelda3" && sprite == "link") {
+      let meta_a = $("<a>")
+        .attr({
+          "href": spritepath + "sprites-meta.json"
+        })
+        .text("META");
+      json_div.append($("<br />"));
+      json_div.append(meta_a);
+    }
+
+    $("body").append(json_div);
   }
 
   // SpriteSomething
