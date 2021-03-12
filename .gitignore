@@ -2,6 +2,12 @@
 *.sfc
 *.smc
 
+# Spreadsheet Temp
+*.tmp
+*.xls#
+sprites.csv
+sprites-meta.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

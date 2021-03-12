@@ -37,6 +37,10 @@ jobs:
           OS_NAME: ${{ matrix.os-name }}
         run: |
           python ./resources/ci/common/install.py
+      # Prepare AppVersion
+      - name: Prepare AppVersion
+        run: |
+          python ./resources/ci/common/prepare_appversion.py
       # Process Templates
       - name: Process Templates
         run: |
@@ -45,6 +49,10 @@ jobs:
       - name: Create Z3Link Previews
         run: |
           python ./resources/ci/snes/zelda3/link/create_previews.py
+      # Process Z3Link Metadata
+      - name: Process Z3Link Metadata
+        run: |
+          python ./resources/ci/snes/zelda3/link/create_metadata.py
       # Cleanup Workspace
       - name: Cleanup Workspace
         run: |

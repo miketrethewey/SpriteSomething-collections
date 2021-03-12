@@ -6,16 +6,14 @@ import os
 
 from glob import glob
 from PIL import Image
-
 from ZSPR import ZSPR
 
-def output_path(path):
-    return path
-path = output_path(os.path.join(".","snes","zelda3","link","sheets"))
+local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
+site_resources = os.path.join(".","snes","zelda3","link")
+online_resources = "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3"
 
 def add_thumb(thumb,png,height,x,y):
     thisThumb = Image.open(thumb).resize((16,height),0)
-    print("Adding to css-able image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
     return png, x + 16
 
@@ -125,22 +123,33 @@ def get_image_for_sprite(sprite):
 sprites = []
 
 # get ZSPRs
-for file in glob(os.path.join(output_path(path),"*.zspr")):
+maxn = 0
+names = {}
+print("Getting ZSPRs")
+for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
     if os.path.isfile(file):
-        print("Found sprite file: " + file)
-        sprites.append(ZSPR(file))
+        sprite = ZSPR(file)
+        short_slug = sprite.slug[:sprite.slug.rfind('.')]
+        names[short_slug] = sprite.name
+        maxn = max(maxn,len(sprite.name.replace(" ","")))
+        sprites.append(sprite)
+# sort ZSPRs
+sprites.sort(key=lambda s: str.lower(s.name or "").strip())
+print()
+n = len(sprites)
+print("Wait a little bit, dude, there's %d sprites." % (n))
 print()
 
+maxs = 0
 # make previews for ZSPRs (400% size)
+print("Processing previews")
 for sprite in sprites:
-    print("Processing sprite preview: %s [%s]" % (sprite.name, sprite.filename))
     image = get_image_for_sprite(sprite)
     if image is None:
         continue
-    image.save(os.path.join(output_path(path),"thumbs",sprite.slug + ".png"),"png")
-print()
+    maxs = max(maxs,len(sprite.slug + ".png"))
+    image.save(os.path.join(site_resources,"sheets","thumbs",sprite.slug + ".png"),"png")
 
-# hack version number; this should eventually be in a resources doc somewhere else
 VERSION = ""
 with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
     VERSION = appversion.readline().strip()
@@ -149,7 +158,7 @@ with(open(os.path.join(".","commit.txt"),"w")) as commit:
     commit.write("Update Site to v" + VERSION)
 
 # get the thumbnails (400%) we made
-thumbs = glob(os.path.join(output_path(path),"thumbs","*.png"))
+thumbs = glob(os.path.join(site_resources,"sheets","thumbs","*.png"))
 
 # get the new ones and make a class image
 print("Making class image for: " + VERSION)
@@ -158,36 +167,57 @@ width = 6 * 16 * zoom
 height = (math.ceil(len(thumbs) / 6)) * 24 * zoom
 png = Image.new("RGBA", (width, height))
 png.putalpha(0)
+i = n
 x = 0
 y = 0
-
+css  = '[class*=" icon-custom-"],' + "\n"
+css += '[class^=icon-custom-] {' + "\n"
+css += '  width:            16px;' + "\n"
+css += '  height:           24px;' + "\n"
+css += '  vertical-align:   bottom;' + "\n"
+css += '  background-image: url(' + (online_resources + "/sheets/previews/sprites." + VERSION + ".png") + ');' + "\n"
+css += '}' + "\n"
+css += (".icon-custom-%-*s { background-position: 0 0 }" % (maxn, "Random")) + "\n"
 for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     thisThumb = Image.open(thumb)
-    print("Adding to class image: " + os.path.basename(thumb))
     png.paste(thisThumb,(x,y))
+    slug = os.path.basename(thumb).replace(".png","")
+    short_slug = slug[:slug.rfind('.')]
+    css += ((".icon-custom-%-*s { background-position: -%6f%% 0 }") % (maxn, names[short_slug].replace(" ",""), (100 / (n / i)))) + "\n"
     x += 16 * zoom
     if x >= width:
         x = 0
         y += 24 * zoom
-png.save(os.path.join(output_path(path),"previews","sprites.class." + VERSION + ".png"),"png")
-print()
+    i -= 1
+png.save(os.path.join(site_resources,"sheets","previews","sprites.class." + VERSION + ".png"),"png")
+
+with(open(os.path.join(site_resources,"sprites.css"),"w+")) as css_file:
+    css_file.write(css)
 
 # make css-able image
 print("Making CSS-able image for: " + VERSION)
-width = (len(thumbs) + 2) * 16
+width = (len(thumbs) + 1) * 16
 height = 24
 png = Image.new("RGBA", (width, height))
 png.putalpha(0)
 x = 0
 y = 0
+i = 1
+n = len(thumbs)
+maxd = len(str(n))
 
 # Add Random Sprite
-png, x = add_thumb(os.path.join(".","resources","ci","snes","zelda3","link","sheets","random.png"), png, height, x, y)
+png, x = add_thumb(os.path.join(local_resources,"sheets","random.png"), png, height, x, y)
 
 for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     png, x = add_thumb(thumb, png, height, x, y)
+    print("Adding %*d/%*d [%-*s]" %
+      (
+        maxd,i,
+        maxd,n,
+        maxs,os.path.basename(thumb)
+      )
+    )
+    i += 1
 
-png, x = add_thumb(os.path.join(".","resources","ci","snes","zelda3","link","sheets","custom.png"), png, height, x, y)
-
-# Add Custom Sprite
-png.save(os.path.join(output_path(path),"previews","sprites." + VERSION + ".png"),"png")
+png.save(os.path.join(site_resources,"sheets","previews","sprites." + VERSION + ".png"),"png")
