@@ -2,6 +2,9 @@
 *.sfc
 *.smc
 
+# VSCode
+.vscode
+
 # Spreadsheet Temp
 *.tmp
 *.xls#
