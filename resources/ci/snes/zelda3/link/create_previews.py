@@ -120,11 +120,20 @@ def get_image_for_sprite(sprite):
     zoom = 4
     return image.resize((image.size[0] * zoom, image.size[1] * zoom), 0)
 
+VERSION = ""
+with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
+    VERSION = appversion.readline().strip()
+
+with(open(os.path.join(".","commit.txt"),"w")) as commit:
+    commit.write("Update Site to v" + VERSION)
+
 sprites = []
 
 # get ZSPRs
 maxn = 0
 names = {}
+print("Processing version: " + VERSION)
+print("")
 print("Getting ZSPRs")
 for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
     if os.path.isfile(file):
@@ -135,8 +144,10 @@ for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
         sprites.append(sprite)
 # sort ZSPRs
 sprites.sort(key=lambda s: str.lower(s.name or "").strip())
-print()
 n = len(sprites)
+maxd = len(str(n))
+
+print()
 print("Wait a little bit, dude, there's %d sprites." % (n))
 print()
 
@@ -150,24 +161,19 @@ for sprite in sprites:
     maxs = max(maxs,len(sprite.slug + ".png"))
     image.save(os.path.join(site_resources,"sheets","thumbs",sprite.slug + ".png"),"png")
 
-VERSION = ""
-with(open(os.path.join(".","meta","manifests","app_version.txt"),"r")) as appversion:
-    VERSION = appversion.readline().strip()
-
-with(open(os.path.join(".","commit.txt"),"w")) as commit:
-    commit.write("Update Site to v" + VERSION)
-
 # get the thumbnails (400%) we made
 thumbs = glob(os.path.join(site_resources,"sheets","thumbs","*.png"))
 
 # get the new ones and make a class image
-print("Making class image for: " + VERSION)
+print("Making CSS for compiled thumbnail image")
+print("Making preview page for compiled thumbnail image")
+print("Making class image")
 zoom = 4
 width = 6 * 16 * zoom
 height = (math.ceil(len(thumbs) / 6)) * 24 * zoom
 png = Image.new("RGBA", (width, height))
 png.putalpha(0)
-i = n
+i = n + 1
 x = 0
 y = 0
 css  = '[class*=" icon-custom-"],' + "\n"
@@ -177,25 +183,40 @@ css += '  height:           24px;' + "\n"
 css += '  vertical-align:   bottom;' + "\n"
 css += '  background-image: url(' + (online_resources + "/sheets/previews/sprites." + VERSION + ".png") + ');' + "\n"
 css += '}' + "\n"
-css += (".icon-custom-%-*s { background-position: 0 0 }" % (maxn, "Random")) + "\n"
+css += (".icon-custom-%-*s{background-position:0 0}" % (maxn, "Random")) + "\n"
+mini = ""
+large = ""
+thtml = ""
 for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     thisThumb = Image.open(thumb)
     png.paste(thisThumb,(x,y))
     slug = os.path.basename(thumb).replace(".png","")
     short_slug = slug[:slug.rfind('.')]
-    css += ((".icon-custom-%-*s { background-position: -%6f%% 0 }") % (maxn, names[short_slug].replace(" ",""), (100 / (n / i)))) + "\n"
+    name = names[short_slug]
+    selector = name.replace(" ","")
+    percent = (100 / ((n + 1) / i))
+    spacer = "" if percent == 100 else " "
+    num = n-i+2
+    css   += ((".icon-custom-%-*s{background-position:" + spacer + "-%.6f%% 0}/* %*d/%*d */") % (maxn, selector, percent, maxd, num, maxd, n)) + "\n"
+    mini  += ('<div data-id="%*d/%*d" class="sprite sprite-mini icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
+    large += ('<div data-id="%*d/%*d" class="sprite sprite-preview icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
+    thtml += ('<div data-id="%*d/%*d" class="sprite" title="%s"><img src="%s/sheets/thumbs/%s" /></div>' % (maxd, num, maxd, n, name, online_resources, os.path.basename(thumb))) + "\n"
     x += 16 * zoom
     if x >= width:
         x = 0
         y += 24 * zoom
     i -= 1
 png.save(os.path.join(site_resources,"sheets","previews","sprites.class." + VERSION + ".png"),"png")
+html = ('<html><head><link rel="stylesheet" href="sprites.css" type="text/css" /><style type="text/css">body{margin:0}.sprite{display:inline-block}.sprite-preview{width:64px;height:96px;background-size:auto 96px;image-rendering:pixelated}</style></head><body><div style="float:right"><a href="sprites.json">JSON</a><br /><a href="sprites.css">CSS</a><br /><a href="sprites.csv">CSV</a></div>' + "\n" + '<h2>Sprite Selector</h2><div class="sprite sprite-mini icon-custom-Random"></div>' + "\n" + '<MINI><br /><h2>Sprite Previews</h2><h3>from Sprite Selector</h3><LARGE><br /><h3>from Individual Images</h3><THUMBS></body></html>').replace("<MINI>",mini).replace("<LARGE>","\n"+large).replace("<THUMBS>","\n"+thtml)
+
+with(open(os.path.join(site_resources,"previews.html"),"w+")) as previews_file:
+    previews_file.write(html)
 
 with(open(os.path.join(site_resources,"sprites.css"),"w+")) as css_file:
     css_file.write(css)
 
 # make css-able image
-print("Making CSS-able image for: " + VERSION)
+print("Making CSS-able image")
 width = (len(thumbs) + 1) * 16
 height = 24
 png = Image.new("RGBA", (width, height))
