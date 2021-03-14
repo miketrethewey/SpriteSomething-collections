@@ -194,9 +194,9 @@ for thumb in sorted(thumbs, key=lambda s: str.lower(s or "").strip()):
     short_slug = slug[:slug.rfind('.')]
     name = names[short_slug]
     selector = name.replace(" ","")
-    percent = (100 / ((n + 1) / i))
+    percent = (100 / (n / (i - 1)))
     spacer = "" if percent == 100 else " "
-    num = n-i+2
+    num = n - i + 2 
     css   += ((".icon-custom-%-*s{background-position:" + spacer + "-%.6f%% 0}/* %*d/%*d */") % (maxn, selector, percent, maxd, num, maxd, n)) + "\n"
     mini  += ('<div data-id="%*d/%*d" class="sprite sprite-mini icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
     large += ('<div data-id="%*d/%*d" class="sprite sprite-preview icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
