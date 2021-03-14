@@ -4,7 +4,7 @@
 
 * [gh-pages](https://github.com/miketrethewey/SpriteSomething-collections/tree/gh-pages/)
   * GitHub Pages site
-    * Require Discord Notif Status Check
+    * Require Ready to Publish (NYI) Status Check
     * Ignore admins
 * [publish](https://github.com/miketrethewey/SpriteSomething-collections/tree/publish/)
   * Process CI and publish to GH-Pages site
@@ -13,7 +13,7 @@
     * Require Discord Notif Status Check
     * Require signed commits
     * Ignore admins
-* [stable](https://github.com/miketrethewey/SpriteSomething-collections/tree/stable/)
+* [staging](https://github.com/miketrethewey/SpriteSomething-collections/tree/staging/)
   * Staging for publishing (not intended for user PRs, only admin PRs)
     * Require 6 reviews
     * Dismiss stale PR approvals
