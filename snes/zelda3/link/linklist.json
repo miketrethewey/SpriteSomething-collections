@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Machine-readable Endpoint",
+    "url": "https://alttpr.com/sprites"
+  },
+  {
+    "name": "Sprite Previews",
+    "url": "https://alttpr.com/sprite_preview"
+  },
+  {
+    "name": "Downloadable Sprite Previews",
+    "url": "http://alttp.mymm1.com/sprites/"
+  },
+  {
+    "name": "Source Code",
+    "url": "https://github.com/sporchia/alttp_vt_randomizer"
+  }
+]
