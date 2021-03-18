@@ -36,7 +36,7 @@ jobs:
         env:
           OS_NAME: ${{ matrix.os-name }}
         run: |
-          python ./resources/ci/common/install.py
+          python ./resources/ci/common/local_install.py
       # Prepare AppVersion
       - name: Prepare AppVersion
         run: |
@@ -142,7 +142,7 @@ jobs:
         env:
           OS_NAME: ${{ matrix.os-name }}
         run: |
-          python ./resources/ci/common/install.py
+          python ./resources/ci/common/local_install.py
 
       - name: Install Moar Dependencies via pip
         run: |
