@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>SpriteSomething-collections</title>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+<script src="<PATH_ROOT>js/general.js"></script>
+<script src="<PATH_ROOT>js/elements.js"></script>
+<script src="<PATH_ROOT>js/templating.js"></script>
+<script src="<PATH_ROOT>js/guts.js"></script>
+<link rel="stylesheet" href="<PATH_ROOT>css/global.css" type="text/css" />
+<link rel="icon" href="<PATH_ROOT>icons/app.gif" type="image/gif" sizes="16x16" />
+</head>
+<body>
+<template id="parentHeader"><h1><a></a></h1></template>
+<template id="projectHeader"><h1><a></a></h1></template>
+<template id="consoleHeader"><h2 id="console-title"><a></a></h2></template>
+<template id="gameHeader"><h3 id="game-title"><a></a></h3></template>
+<template id="spriteHeader"><h4 id="sprite-title"><a></a></h4></template>
+<template id="spritePreview"><div class="sprite"><div class="name"><a></a></div><div class="author"></div><div class="sprite-preview"></div></div></template>
+<template id="resourceList"><li><span class="app"></span><ul><li class="file"><a>Layer File</a></li><li class="site"><a>Website</a></li><li class="repo"><a>Source Code</a></li></ul></li></template>
+<script>
+
+listingPage("<PATH_CONSOLE>","<PATH_GAME>","<PATH_SPRITE>");
+
+</script>
+</body>
+</html>
