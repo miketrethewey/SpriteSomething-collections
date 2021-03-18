@@ -6,6 +6,8 @@ import subprocess # do stuff at the shell level
 
 env = common.prepare_env()
 
+pip_requirements = os.path.join(".","resources","ci","meta","manifests","pip_requirements.txt")
+
 def run_install(PY_VERSION,USER):
   # get executables
   #  python
@@ -75,7 +77,7 @@ def run_install(PY_VERSION,USER):
     "install",
     "--user",
     "-r",
-    "./resources/app/meta/manifests/pip_requirements.txt"
+    pip_requirements
   ]
   if not USER:
     args.remove("--user")
