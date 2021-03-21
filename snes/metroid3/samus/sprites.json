@@ -392,5 +392,20 @@
     "usage": [
       "smz3"
     ]
+  },
+  {
+    "name": "Enby Samus",
+    "author": "Glove",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_enby.png",
+    "tags": {
+      "character": "Samus",
+      "game": "Super Metroid",
+      "gender": "Female",
+      "type": [ "NPC" ],
+      "universe": "Metroid"
+    },
+    "usage": [
+      "smz3"
+    ]
   }
 ]
