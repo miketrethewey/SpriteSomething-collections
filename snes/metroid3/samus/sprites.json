@@ -386,7 +386,7 @@
       "character": "Samus",
       "game": "Super Metroid",
       "gender": "Female",
-      "type": [ "NPC" ],
+      "type": [ "PC", "paletteswap" ],
       "universe": "Metroid"
     },
     "usage": [
@@ -401,8 +401,23 @@
       "character": "Samus",
       "game": "Super Metroid",
       "gender": "Female",
-      "type": [ "NPC" ],
+      "type": [ "PC", "paletteswap" ],
       "universe": "Metroid"
+    },
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Captain Novolin",
+    "author": "PaddyCo",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/captainnovolin.png",
+    "tags": {
+      "character": "Captain Novolin",
+      "game": "Captain Novolin",
+      "gender": "Male",
+      "type": [ "PC" ],
+      "universe": "Captain Novolin"
     },
     "usage": [
       "smz3"
