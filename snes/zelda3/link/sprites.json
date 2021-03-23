@@ -35,6 +35,22 @@
     ]
   },
   {
+    "name": "Item Roulette",
+    "author": "Sprite Dev",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/itemroulette.1.zspr",
+    "slug": "itemroulette",
+    "tags": [
+      "The Legend of Zelda: A Link to the Past",
+      "Randomizer",
+      "Legend of Zelda"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
     "name": "Stick Man",
     "author": "skovacs1",
     "version": 1,
