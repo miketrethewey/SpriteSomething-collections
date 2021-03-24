@@ -11,6 +11,17 @@ def get_local_metadata():
 
     print("Getting metadata from ZSPRs")
     spritesmeta = OrderedDict()
+
+    VERSION = ""
+    with(open(os.path.join(".","meta","manifests","app_version.txt"), "r")) as appversion:
+        VERSION = appversion.readline().strip()
+
+    spritesmeta["meta"] = {
+      "class": online_resources + "/sheets/previews/sprites.class." + VERSION + ".png",
+      "selector": online_resources + "/sheets/previews/sprites." + VERSION + ".png",
+      "version": VERSION
+    }
+
     # get ZSPRs
     maxs,maxn = 0,0
 
