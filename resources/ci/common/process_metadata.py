@@ -8,11 +8,14 @@ import importlib
 import json
 import os
 import re
+import sys
 import xlrd
 
 from collections import OrderedDict
 from glob import glob
 from shutil import copyfile
+
+sys.path.append(os.path.join(os.path.dirname(__file__),'../../../'))
 
 def csv_from_excel(sheet,outbound):
     with(open(outbound,"w",encoding="utf-8")) as csv_file:

@@ -45,14 +45,14 @@ jobs:
       - name: Process Templates
         run: |
           python ./resources/ci/common/process_templates.py
-      # Process Previews
-      - name: Process Previews
-        run: |
-          python -m resources.ci.common.sprite_previews
       # Process Metadata
       - name: Process Metadata
         run: |
-          python -m resources.ci.common.sprite_metadata
+          python ./resources/ci/common/process_metadata.py
+      # Process Previews
+      - name: Process Previews
+        run: |
+          python ./resources/ci/common/process_previews.py
       # Cleanup Workspace
       - name: Cleanup Workspace
         run: |

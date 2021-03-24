@@ -3,6 +3,9 @@
 import importlib
 import json
 import os
+import sys
+
+sys.path.append(os.path.join(os.path.dirname(__file__),'../../../'))
 
 def do_previews():
   with(open(os.path.join(".","meta","manifests","consoles.txt"), "r")) as consoles:
