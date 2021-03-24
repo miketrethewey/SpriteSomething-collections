@@ -31,10 +31,10 @@
     ]
   },
   {
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard.png",
-    "short_slug": "alucard",
-    "slug": "alucard",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard_sotn.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/alucard_sotn.png",
+    "short_slug": "alucard_sotn",
+    "slug": "alucard_sotn",
     "name": "Alucard",
     "author": "Nintoaster",
     "tags": {
@@ -233,10 +233,10 @@
     ]
   },
   {
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hiboxhelper.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hiboxhelper.png",
-    "short_slug": "hiboxhelper",
-    "slug": "hiboxhelper",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hitboxhelper.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hitboxhelper.png",
+    "short_slug": "hitboxhelper",
+    "slug": "hitboxhelper",
     "name": "Hitbox Helper",
     "author": "Artheau",
     "tags": {

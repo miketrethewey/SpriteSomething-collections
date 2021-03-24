@@ -1,13 +1,13 @@
 Slug,Name,Author,T-Character,T-Game,T-Gender,T-Origin,T-Universe,T-Character Type,,U-Commercial,U-SMZ3
 justinbailey,Justin Bailey,Auximines,,,Female,Original,,,,N,Y
 fedtrooper,Federation Trooper,Physix,,Metroid Prime 2: Echoes,Neutral,,Metroid,NPC,,N,Y
-hiboxhelper,Hitbox Helper,Artheau,Samus,Super Metroid,Female,,Metroid,Utility,,N,Y
+hitboxhelper,Hitbox Helper,Artheau,Samus,Super Metroid,Female,,Metroid,Utility,,N,Y
 megamanx,Mega Man X,Artheau,Mega Man X,Mega Man X,Male,,Mega Man,PC,,N,Y
 cursor,Cursor,PlaguedOne,Cursor,,Neutral,Operating Systems,,,,N,Y
 alicemargatroid,Alice Margatroid,Plan,Alice Margatroid,,Female,,Touhou,PC,,N,Y
 supercontroid,Super Controid,Nintoaster,Bill Rizer,,Male,,Contra,PC,,N,Y
 supercontroid_pg,Super Controid (PG),Nintoaster,Bill Rizer,,Male,,Contra,PC,,N,Y
-alucard,Alucard,Nintoaster,Alucard,Castlevania: Symphony of the Night,Male,,Castlevania,PC,,N,Y
+alucard_sotn,Alucard,Nintoaster,Alucard,Castlevania: Symphony of the Night,Male,,Castlevania,PC,,N,Y
 luigi_mansion,Luigi,RonnSama,Luigi Mario,Luigi’s Mansion,Male,,Mario Bros,PC,,N,Y
 mario_8-bit,Mario (SMB1),TarThoron,Mario Mario,Super Mario Bros,Male,,Mario Bros,PC,,N,Y
 mario_8-bit_modern,"Mario (SMB1, Modern colors)",TarThoron,Mario Mario,Super Mario Bros,Male,Palette-swap,Mario Bros,PC,,N,Y
