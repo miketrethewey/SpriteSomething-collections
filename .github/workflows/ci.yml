@@ -45,14 +45,14 @@ jobs:
       - name: Process Templates
         run: |
           python ./resources/ci/common/process_templates.py
-      # Create Z3Link Previews
-      - name: Create Z3Link Previews
+      # Process Metadata
+      - name: Process Metadata
         run: |
-          python ./resources/ci/snes/zelda3/link/create_previews.py
-      # Process Z3Link Metadata
-      - name: Process Z3Link Metadata
+          python ./resources/ci/common/process_metadata.py
+      # Process Previews
+      - name: Process Previews
         run: |
-          python ./resources/ci/snes/zelda3/link/create_metadata.py
+          python ./resources/ci/common/process_previews.py
       # Cleanup Workspace
       - name: Cleanup Workspace
         run: |
