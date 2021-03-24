@@ -38,6 +38,7 @@ def get_local_metadata():
                   spritesmeta[slug] = {}
             spritesmeta[slug]["name"] = sprite.name
             spritesmeta[slug]["author"] = sprite.author_name
+            spritesmeta[slug]["slug"] = slug
             spritesmeta[slug]["version"] = int(ver)
             spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  ".zspr"
             spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"

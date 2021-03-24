@@ -65,7 +65,7 @@ def process_metadata(console,game,sprite):
 
   print()
   msg = "Wait a little bit, dude, t" if num > 0 else "T"
-  print("%shere's %d sprites for processing." % (msg,num))
+  print("%shere's %d records for processing." % (msg,num))
   print()
 
   sprites = []
