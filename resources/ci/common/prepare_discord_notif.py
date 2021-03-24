@@ -28,7 +28,7 @@ timestamp = ""
 # event log
 event_manifest = {}
 if not env["EVENT_LOG"] == "":
-    with open(env["EVENT_LOG"]) as f:
+    with(open(env["EVENT_LOG"],"r")) as f:
         event_manifest = json.load(f)
 
 # branch

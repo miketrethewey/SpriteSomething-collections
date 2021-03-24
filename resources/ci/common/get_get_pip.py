@@ -18,7 +18,7 @@ def get_get_pip(PY_VERSION):
     req = urllib.request.urlopen(url, context=context)
     got_pip = req.read().decode("utf-8")
 
-    with open("get-pip.py", "w") as g:
+    with(open("get-pip.py", "w")) as g:
       req = urllib.request.Request(
         url,
         data=None,
