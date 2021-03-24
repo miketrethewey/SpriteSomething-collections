@@ -100,6 +100,7 @@ def process_metadata(console,game,sprite):
               spritesmeta[slug] = {}
               spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + ".png"
               spritesmeta[slug]["preview"] = spritesmeta[slug]["file"]
+              spritesmeta[slug]["short_slug"] = slug
               spritesmeta[slug]["slug"] = slug
             print("Finalizing %*d/%*d %-*s [%-*s]" %
               (
@@ -154,7 +155,7 @@ def process_metadata(console,game,sprite):
     with(open(os.path.join(site_resources,"sprites.json"),"w",encoding="utf-8")) as json_file:
       vals = spritesmeta.values()
       vlist = list(vals)
-      slist = sorted(vlist, key=lambda s: str.lower(s["slug"] if "slug" in s else "").strip())
+      slist = sorted(vlist, key=lambda s: str.lower(s["short_slug"] if "short_slug" in s else "").strip())
       json.dump(slist,json_file,indent=2)
 
 def do_metadata():
