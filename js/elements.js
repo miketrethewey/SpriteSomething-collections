@@ -96,8 +96,8 @@ function sprite_elements(selector,payload) {
     // Sprite Listing
     sprites = payload;
     sprites.sort(function(a,b) {
-      x = a.file.toLowerCase();
-      y = b.file.toLowerCase();
+      x = a?.file?.toLowerCase();
+      y = b?.file?.toLowerCase();
       return x < y ? -1 : x > y ? 1 : 0;
     });
     for(sprite of sprites) {
