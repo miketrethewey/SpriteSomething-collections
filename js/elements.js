@@ -12,7 +12,7 @@ function index_elements(selector,payload) {
           })
           .text(console.toUpperCase())
         )
-      )
+      );
     }
   }
 }
@@ -78,7 +78,7 @@ function game_elements(selector,payload) {
               })
               .text(sprite["name"])
             )
-          )
+          );
       }
     }
   }
@@ -101,15 +101,17 @@ function sprite_elements(selector,payload) {
       return x < y ? -1 : x > y ? 1 : 0;
     });
     for(sprite of sprites) {
-      filext = sprite["file"].substring(sprite["file"].lastIndexOf('.') + 1);
-      filexts = ["png","gif"];
-      if((!("preview" in sprite)) && (!filexts.includes(filext))) {
-        sprite["preview"] = path_join([data["sprite"]["url"],"sheets","thumbs",sprite["slug"] + '.' + sprite["version"] + ".png"]);
+      if("file" in sprite) {
+        filext = sprite["file"].substring(sprite["file"].lastIndexOf('.') + 1);
+        filexts = ["png","gif"];
+        if((!("preview" in sprite)) && (!filexts.includes(filext))) {
+          sprite["preview"] = path_join([data["sprite"]["url"],"sheets","thumbs",sprite["slug"] + '.' + sprite["version"] + ".png"]);
+        }
+        add_template(
+          "spritePreview",
+          sprite
+        );
       }
-      add_template(
-        "spritePreview",
-        sprite
-      )
     }
   } else if(selector.indexOf("resources") > -1) {
     // Resource Listing
@@ -120,7 +122,7 @@ function sprite_elements(selector,payload) {
         add_template(
           "resource",
           resource
-        )
+        );
       }
     }
   }
