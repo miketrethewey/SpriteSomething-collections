@@ -205,7 +205,7 @@ def create_previews():
         '/': '-'
       })
       percent = (100 / (n / (i - 1)))
-      percentString = ("-%.6f%%" % (percent)).rjust(11, ' ')
+      percentString = ("-%.6f%%" % (percent)).rjust(12, ' ')
       num = n - i + 2
       css   += ((".icon-custom-%-*s{background-position:%s 0}/* %*d/%*d */") % (maxn, selector, percentString, maxd, num, maxd, n)) + "\n"
       mini  += ('<div data-id="%*d/%*d" class="sprite sprite-mini icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
