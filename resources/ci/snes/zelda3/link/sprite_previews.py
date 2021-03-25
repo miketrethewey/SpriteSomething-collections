@@ -4,6 +4,7 @@ import io
 import math
 import os
 
+from resources.ci.common.common import strtr
 from glob import glob
 from PIL import Image
 from .ZSPR import ZSPR
@@ -195,11 +196,18 @@ def create_previews():
       slug = os.path.basename(thumb).replace(".png","")
       short_slug = slug[:slug.rfind('.')]
       name = names[short_slug]
-      selector = name.replace(" ","")
+      selector = strtr(name, {
+        ' ': "",
+        '(': '-',
+        ')': "",
+        "'": "",
+        '.': "",
+        '/': '-'
+      })
       percent = (100 / (n / (i - 1)))
-      spacer = "" if percent == 100 else " "
+      percentString = ("-%.6f%%" % (percent)).rjust(11, ' ')
       num = n - i + 2
-      css   += ((".icon-custom-%-*s{background-position:" + spacer + "-%.6f%% 0}/* %*d/%*d */") % (maxn, selector, percent, maxd, num, maxd, n)) + "\n"
+      css   += ((".icon-custom-%-*s{background-position:%s 0}/* %*d/%*d */") % (maxn, selector, percentString, maxd, num, maxd, n)) + "\n"
       mini  += ('<div data-id="%*d/%*d" class="sprite sprite-mini icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
       large += ('<div data-id="%*d/%*d" class="sprite sprite-preview icon-custom-%s" title="%s"></div>' % (maxd, num, maxd, n, selector, name)) + "\n"
       thtml += ('<div data-id="%*d/%*d" class="sprite" title="%s"><img src="%s/sheets/thumbs/%s" /></div>' % (maxd, num, maxd, n, name, online_resources, os.path.basename(thumb))) + "\n"

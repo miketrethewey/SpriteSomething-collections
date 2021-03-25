@@ -14,6 +14,19 @@ DEFAULT_REPO_SLUG = "miketrethewey/SpriteSomething-collections"
 FILENAME_CHECKS = [ "" ]
 FILESIZE_CHECK = (0 * 1024 * 1024) # 0MB
 
+def strtr(strng, replace):
+  buf, i = [], 0
+  while i < len(strng):
+    for s, r in replace.items():
+      if strng[i:len(s)+i] == s:
+        buf.append(r)
+        i += len(s)
+        break
+    else:
+      buf.append(strng[i])
+      i += 1
+  return ''.join(buf)
+
 # take number of bytes and convert to string with units measure
 def convert_bytes(num):
 	for x in ["bytes","KB","MB","GB","TB","PB"]:
