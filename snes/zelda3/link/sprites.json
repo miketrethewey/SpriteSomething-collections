@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.143.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.143.png",
-    "version": "31.0.8.x.143"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.146.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.146.png",
+    "version": "31.0.8.x.146"
   },
   {
     "name": "Link",
@@ -80,6 +80,136 @@
     ]
   },
   {
+    "name": "Boxes",
+    "author": "Krelbel",
+    "short_slug": "boxes",
+    "slug": "boxes.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/boxes.1.zspr",
+    "filename": "boxes.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/boxes.1.png",
+    "tags": {
+      "origin": [
+        "Original"
+      ],
+      "character type": [
+        "Utility"
+      ]
+    },
+    "tagsflat": [
+      "Original",
+      "Utility"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Checkerboxes",
+    "author": "CGGZayik",
+    "short_slug": "checkerboxes",
+    "slug": "checkerboxes.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/checkerboxes.1.zspr",
+    "filename": "checkerboxes.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/checkerboxes.1.png",
+    "tags": {
+      "origin": [
+        "Original"
+      ],
+      "character type": [
+        "Utility"
+      ]
+    },
+    "tagsflat": [
+      "Original",
+      "Utility"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Fullboxes",
+    "author": "Krelbel/Mike Trethewey",
+    "short_slug": "fullboxes",
+    "slug": "fullboxes.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/fullboxes.1.zspr",
+    "filename": "fullboxes.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/fullboxes.1.png",
+    "tags": {
+      "origin": [
+        "Original"
+      ],
+      "character type": [
+        "Utility"
+      ]
+    },
+    "tagsflat": [
+      "Original",
+      "Utility"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Gridheads",
+    "author": "Plan",
+    "short_slug": "gridheads",
+    "slug": "gridheads.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/gridheads.1.zspr",
+    "filename": "gridheads.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/gridheads.1.png",
+    "tags": {
+      "origin": [
+        "Original"
+      ],
+      "character type": [
+        "Utility"
+      ]
+    },
+    "tagsflat": [
+      "Original",
+      "Utility"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Grids",
+    "author": "Plan",
+    "short_slug": "grids",
+    "slug": "grids.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/grids.1.zspr",
+    "filename": "grids.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/grids.1.png",
+    "tags": {
+      "origin": [
+        "Original"
+      ],
+      "character type": [
+        "Utility"
+      ]
+    },
+    "tagsflat": [
+      "Original",
+      "Utility"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
     "name": "Item Roulette",
     "author": "Sprite Dev",
     "short_slug": "itemroulette",
@@ -131,6 +261,40 @@
       "Original"
     ],
     "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Swatchy",
+    "author": "Mike Trethewey",
+    "short_slug": "swatchy",
+    "slug": "swatchy.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/swatchy.1.zspr",
+    "filename": "swatchy.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/swatchy.1.png",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda"
+    ],
+    "usage": [
+      "commercial",
       "smz3"
     ]
   }
