@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.134.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.134.png",
-    "version": "31.0.8.x.134"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.140.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.140.png",
+    "version": "31.0.8.x.140"
   },
   {
     "name": "Link",
@@ -11,6 +11,7 @@
     "slug": "001.link.1",
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
+    "filename": "001.link.1.zspr",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/001.link.1.png",
     "tags": {
       "character": [
@@ -48,6 +49,7 @@
     "slug": "bob.2",
     "version": 2,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/bob.2.zspr",
+    "filename": "bob.2.zspr",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/bob.2.png",
     "tags": {
       "game": [
@@ -84,6 +86,7 @@
     "slug": "itemroulette.1",
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/itemroulette.1.zspr",
+    "filename": "itemroulette.1.zspr",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/itemroulette.1.png",
     "tags": {
       "game": [
@@ -113,6 +116,7 @@
     "slug": "stick_man.1",
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/stick_man.1.zspr",
+    "filename": "stick_man.1.zspr",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/stick_man.1.png",
     "tags": {
       "gender": [
