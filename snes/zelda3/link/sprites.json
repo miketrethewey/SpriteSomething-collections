@@ -1,0 +1,137 @@
+[
+  {
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.png",
+    "version": "31.0.8.x"
+  },
+  {
+    "name": "Link",
+    "author": "Nintendo",
+    "short_slug": "001.link",
+    "slug": "001.link.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
+    "filename": "001.link.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/001.link.1.png",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Bob",
+    "author": "kan",
+    "short_slug": "bob",
+    "slug": "bob.2",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/bob.2.zspr",
+    "filename": "bob.2.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/bob.2.png",
+    "tags": {
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "origin": [
+        "Randomizer"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Randomizer",
+      "Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
+    "name": "Item Roulette",
+    "author": "Sprite Dev",
+    "short_slug": "itemroulette",
+    "slug": "itemroulette.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/itemroulette.1.zspr",
+    "filename": "itemroulette.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/itemroulette.1.png",
+    "tags": {
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "origin": [
+        "Randomizer"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ]
+    },
+    "tagsflat": [
+      "The Legend of Zelda: A Link to the Past",
+      "Randomizer",
+      "Legend of Zelda"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Stick Man",
+    "author": "skovacs1",
+    "short_slug": "stick_man",
+    "slug": "stick_man.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/stick_man.1.zspr",
+    "filename": "stick_man.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/stick_man.1.png",
+    "tags": {
+      "gender": [
+        "Neutral"
+      ],
+      "origin": [
+        "Original"
+      ]
+    },
+    "tagsflat": [
+      "Neutral",
+      "Original"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  }
+]

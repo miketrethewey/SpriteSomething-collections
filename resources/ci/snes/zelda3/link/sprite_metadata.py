@@ -1,4 +1,5 @@
 import os
+import re
 
 from collections import OrderedDict
 from glob import glob
@@ -28,10 +29,19 @@ def get_local_metadata():
     for file in glob(os.path.join(site_resources,"sheets","*.zspr")):
         if os.path.isfile(file):
             sprite = ZSPR(file)
-            basename = sprite.filename
-            slug = sprite.slug
-            ver = slug[slug.rfind('.') + 1:]
-            slug = sprite.slug[:slug.rfind('.')].strip()
+            basename = os.path.basename(sprite.filename)
+            matches = re.search(r"([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)", basename)
+            groups = matches.groups()
+            groups = list(x for x in groups if x)
+            groups = groups[::-1]
+            filext = groups[0]
+            del groups[0]
+            ver = 0
+            if len(groups) >= 2:
+              ver = groups[0]
+              del groups[0]
+            groups = groups[::-1]
+            slug = '.'.join(groups)
             maxs = max(maxs,len(slug))
             maxn = max(maxn,len(sprite.name))
             if slug not in spritesmeta:
@@ -42,6 +52,7 @@ def get_local_metadata():
             spritesmeta[slug]["slug"] = slug + '.' + str(ver)
             spritesmeta[slug]["version"] = int(ver)
             spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  ".zspr"
+            spritesmeta[slug]["filename"] = basename
             spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"
 
     return spritesmeta,maxs,maxn

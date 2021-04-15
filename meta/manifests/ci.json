@@ -26,6 +26,18 @@
     "get_get_pip": {
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
     },
+    "get_upx": {
+      "version": 3.96
+    },
+    "git_clean": {
+      "excludes": [
+        ".vscode",
+        ".idea",
+        "*.json",
+        "*app*version.*"
+      ],
+      "user_resources": "resources/user*"
+    },
     "install": {
       "pip_requirements": [ "resources", "ci", "meta", "manifests", "pip_requirements.txt" ]
     },
