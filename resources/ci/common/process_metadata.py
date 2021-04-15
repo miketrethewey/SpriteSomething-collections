@@ -53,7 +53,7 @@ def process_metadata(console,game,sprite):
   # Get data from sprite specific metadata source
   metamodule = False
   maxs = 30
-  maxn = 0
+  maxn = 30
   try:
     metamodule = importlib.import_module(f"resources.ci.{console}.{game}.{sprite}.sprite_metadata")
   except ModuleNotFoundError:
@@ -96,18 +96,38 @@ def process_metadata(console,game,sprite):
         if v != "":
           if k == "slug":
             slug = v
+            ver = 0
             if slug not in spritesmeta:
               spritesmeta[slug] = {}
-              spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + ".png"
-              spritesmeta[slug]["preview"] = spritesmeta[slug]["file"]
-              spritesmeta[slug]["short_slug"] = slug
-              spritesmeta[slug]["slug"] = slug
-            print("Finalizing %*d/%*d %-*s [%-*s]" %
+              if "name" in sprite:
+                spritesmeta[slug]["name"] = sprite["name"]
+                basename = glob(os.path.join(site_resources,"sheets",slug + ".png"))
+                if len(basename) < 1:
+                  basename = glob(os.path.join(site_resources,"sheets",slug + ".*.png"))
+                basename = basename[0].split(os.sep)
+                basename = basename[len(basename) - 1]
+                matches = re.search(r"([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)", basename)
+                groups = matches.groups()
+                groups = list(x for x in groups if x != "")
+                filext = groups[len(groups) - 1]
+                del groups[len(groups) - 1]
+                if len(groups) >= 2:
+                  ver = groups[len(groups) - 1]
+                spritesmeta[slug]["short_slug"] = slug
+                spritesmeta[slug]["version"] = int(ver)
+                spritesmeta[slug]["slug"] = slug
+                spritesmeta[slug]["filename"] = basename
+                spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  "." + filext
+                spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"
+            else:
+              ver = spritesmeta[slug]["version"]
+            print("Finalizing %*d/%*d %-*s [%-*s] [%s]" %
               (
                 maxd,i,
                 maxd,n,
                 maxn,spritesmeta[slug]["name"] if "name" in spritesmeta[slug] else "",
-                maxs,slug
+                maxs,slug,
+                str(ver)
               )
             )
           else:
@@ -156,6 +176,15 @@ def process_metadata(console,game,sprite):
       vals = spritesmeta.values()
       vlist = list(vals)
       slist = sorted(vlist, key=lambda s: str.lower(s["short_slug"] if "short_slug" in s else "").strip())
+      json.dump(slist,json_file,indent=2)
+    with(open(os.path.join(site_resources,"z3m3.json"),"w",encoding="utf-8")) as json_file:
+      slist = []
+      for sprite in spritesmeta.values():
+        if "name" in sprite:
+          slist.append({
+            "title": sprite["name"],
+            "path": sprite["filename"]
+          })
       json.dump(slist,json_file,indent=2)
 
 def do_metadata():

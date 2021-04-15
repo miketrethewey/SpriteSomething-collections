@@ -1,18 +1,31 @@
+import json
 import os   # for env vars
 import stat # file statistics
 import sys  # default system info
 from my_path import get_py_path
 
-UBUNTU_VERSIONS = {
-  "latest": "focal",
-  "20.04": "focal",
-  "18.04": "bionic",
-  "16.04": "xenial"
-}
+CI_SETTINGS = {}
+with(open(os.path.join("meta","manifests","ci.json"))) as ci_settings_file:
+  CI_SETTINGS = json.load(ci_settings_file)
+
+UBUNTU_VERSIONS = CI_SETTINGS["common"]["common"]["ubuntu"]
 DEFAULT_EVENT = "event"
-DEFAULT_REPO_SLUG = "miketrethewey/SpriteSomething-collections"
-FILENAME_CHECKS = [ "" ]
-FILESIZE_CHECK = (0 * 1024 * 1024) # 0MB
+DEFAULT_REPO_SLUG = '/'.join(CI_SETTINGS["common"]["common"]["repo"])
+FILENAME_CHECKS = CI_SETTINGS["common"]["common"]["filenames"]
+FILESIZE_CHECK = int(CI_SETTINGS["common"]["common"]["filesize"]) * 1024 * 1024
+
+def strtr(strng, replace):
+  buf, i = [], 0
+  while i < len(strng):
+    for s, r in replace.items():
+      if strng[i:len(s)+i] == s:
+        buf.append(r)
+        i += len(s)
+        break
+    else:
+      buf.append(strng[i])
+      i += 1
+  return ''.join(buf)
 
 # take number of bytes and convert to string with units measure
 def convert_bytes(num):
@@ -39,7 +52,7 @@ def prepare_env():
   (env["PYTHON_EXE_PATH"],env["PY_EXE_PATH"],env["PIP_EXE_PATH"]) = get_py_path()
   # git data
   env["BRANCH"] = os.getenv("TRAVIS_BRANCH","")
-  env["GITHUB_ACTOR"] = os.getenv("GITHUB_ACTOR","MegaMan.EXE")
+  env["GITHUB_ACTOR"] = os.getenv("GITHUB_ACTOR",CI_SETTINGS["common"]["common"]["actor"])
   env["GITHUB_SHA"] = os.getenv("GITHUB_SHA","")
   env["GITHUB_RUN_NUMBER"] = os.getenv("GITHUB_RUN_NUMBER","")
   env["GITHUB_SHA_SHORT"] = env["GITHUB_SHA"]
