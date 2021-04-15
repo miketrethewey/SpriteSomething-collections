@@ -118,7 +118,7 @@ def process_metadata(console,game,sprite):
                 spritesmeta[slug]["slug"] = slug
                 spritesmeta[slug]["filename"] = basename
                 spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  "." + filext
-                spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"
+                spritesmeta[slug]["preview"] = spritesmeta[slug]["file"]
             else:
               ver = spritesmeta[slug]["version"]
             print("Finalizing %*d/%*d %-*s [%-*s] [%s]" %
