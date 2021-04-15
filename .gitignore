@@ -8,8 +8,8 @@
 # Spreadsheet Temp
 *.tmp
 *.xls#
-resources/ci/**/sprites.csv
-resources/ci/**/sprites-meta.json
+snes/**/sprites.csv
+snes/**/z3m3.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
