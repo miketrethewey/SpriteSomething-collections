@@ -4,40 +4,84 @@
     "path": "001.samus.1.png"
   },
   {
-    "title": "Justin Bailey",
-    "path": "justinbailey.1.png"
+    "title": "Alice Margatroid",
+    "path": "marga.1.png"
   },
   {
-    "title": "Federation Trooper",
-    "path": "fedtrooper.1.png"
+    "title": "Alucard",
+    "path": "alucard_sotn.1.png"
   },
   {
-    "title": "Hitbox Helper",
-    "path": "hitboxhelper.1.png"
+    "title": "Buffed Kirby",
+    "path": "buffed_kirby.1.png"
   },
   {
-    "title": "Mega Man X",
-    "path": "megamanx.1.png"
+    "title": "Captain Novolin",
+    "path": "captain_novolin.1.png"
+  },
+  {
+    "title": "Chairdeep",
+    "path": "chairdeep.1.png"
+  },
+  {
+    "title": "Crewmate",
+    "path": "crewmate.1.png"
+  },
+  {
+    "title": "Cuphead",
+    "path": "cuphead.1.png"
   },
   {
     "title": "Cursor",
     "path": "cursor.1.png"
   },
   {
-    "title": "Alice Margatroid",
-    "path": "alicemargatroid.1.png"
+    "title": "Dark Samus",
+    "path": "dark_samus.1.png"
   },
   {
-    "title": "Super Controid",
-    "path": "supercontroid.1.png"
+    "title": "Diddy Kong",
+    "path": "diddy_kong.1.png"
   },
   {
-    "title": "Super Controid (PG)",
-    "path": "supercontroid_pg.1.png"
+    "title": "Earthworm Jim",
+    "path": "earthworm_jim.1.png"
   },
   {
-    "title": "Alucard",
-    "path": "alucard_sotn.1.png"
+    "title": "Galactic Federation Trooper",
+    "path": "fedtrooper.1.png"
+  },
+  {
+    "title": "Samus (Super Metroid Opposition)",
+    "path": "hack_opposition.1.png"
+  },
+  {
+    "title": "Samus (Super Zero Mission)",
+    "path": "hack_szm.1.png"
+  },
+  {
+    "title": "Hitbox Helper",
+    "path": "hitboxhelper.1.png"
+  },
+  {
+    "title": "Hitbox Helper (2)",
+    "path": "hitboxhelper2.1.png"
+  },
+  {
+    "title": "Inkling Girl",
+    "path": "inkling-girl.1.png"
+  },
+  {
+    "title": "Justin Bailey",
+    "path": "bailey.1.png"
+  },
+  {
+    "title": "Kirby",
+    "path": "kirby.1.png"
+  },
+  {
+    "title": "Link",
+    "path": "link_oot.1.png"
   },
   {
     "title": "Luigi",
@@ -45,19 +89,23 @@
   },
   {
     "title": "Mario (SMB1)",
-    "path": "mario_8-bit.1.png"
+    "path": "mario_8bit.1.png"
   },
   {
     "title": "Mario (SMB1, Modern colors)",
-    "path": "mario_8-bit_modern.1.png"
+    "path": "mario_8bit_modern.1.png"
   },
   {
-    "title": "Link",
-    "path": "link_oot.1.png"
+    "title": "Mega Man X",
+    "path": "megamanx.1.png"
   },
   {
-    "title": "Upside-Down Samus",
-    "path": "samus_upsidedown.1.png"
+    "title": "Metroid",
+    "path": "metroid.1.png"
+  },
+  {
+    "title": "Moonclif",
+    "path": "moonclif.1.png"
   },
   {
     "title": "180-Degree Samus",
@@ -68,48 +116,16 @@
     "path": "samus_backwards.1.png"
   },
   {
-    "title": "Hitbox Helper (2)",
-    "path": "hitboxhelper2.1.png"
-  },
-  {
-    "title": "Sprite Can",
-    "path": "spritecan.1.png"
-  },
-  {
-    "title": "Dark Samus",
-    "path": "darksamus.1.png"
-  },
-  {
-    "title": "Metroid",
-    "path": "metroid.1.png"
-  },
-  {
-    "title": "Fusion v1.0 Type A",
-    "path": "samus_fusion_typea_green.1.png"
-  },
-  {
-    "title": "Fusion v1.0 Type B",
-    "path": "samus_fusion_typeb_orange.1.png"
-  },
-  {
-    "title": "Clocktoberfest Samus",
-    "path": "samus_clocktoberfest.1.png"
+    "title": "Samus Cannon",
+    "path": "samus_cannon.1.png"
   },
   {
     "title": "Classic Samus",
     "path": "samus_classic.1.png"
   },
   {
-    "title": "Trans Samus",
-    "path": "samus_trans.1.png"
-  },
-  {
-    "title": "Diddy Kong",
-    "path": "diddykong.1.png"
-  },
-  {
-    "title": "Shaktool",
-    "path": "shaktool.1.png"
+    "title": "Clocktoberfest Samus",
+    "path": "samus_clocktoberfest.1.png"
   },
   {
     "title": "Combat Armor Samus",
@@ -120,7 +136,47 @@
     "path": "samus_enby.1.png"
   },
   {
-    "title": "Captain Novolin",
-    "path": "captainnovolin.1.png"
+    "title": "Fusion v1.0 Type A",
+    "path": "samus_fusion_typea_green.1.png"
+  },
+  {
+    "title": "Fusion v1.0 Type B",
+    "path": "samus_fusion_typeb_orange.1.png"
+  },
+  {
+    "title": "Invisible Samus",
+    "path": "samus_invisible.1.png"
+  },
+  {
+    "title": "Trans Samus",
+    "path": "samus_trans.1.png"
+  },
+  {
+    "title": "Upside-Down Samus",
+    "path": "samus_upsidedown.1.png"
+  },
+  {
+    "title": "Sans",
+    "path": "sans.1.png"
+  },
+  {
+    "title": "Shaktool",
+    "path": "shaktool.1.png"
+  },
+  {
+    "title": "Shaktool Jr.",
+    "path": "shaktool-jr.1.png"
+  },
+  {
+    "title": "Sprite Can",
+    "path": "sprite_can.1.png"
+  },
+  {
+    "title": "Super Controid",
+    "path": "super_controid.1.png"
+  },
+  {
+    "title": "Super Controid (PG)",
+    "path": "super_controid_pg.1.png"
   }
 ]
