@@ -1354,6 +1354,39 @@
     ]
   },
   {
+    "name": "Mini Samus",
+    "short_slug": "samus_mini",
+    "version": 1,
+    "slug": "samus_mini",
+    "filename": "samus_mini.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_mini.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_mini.1.png",
+    "author": "Kyzentun",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid"
+    ],
+    "usage": [
+      "smz3"
+    ]
+  },
+  {
     "name": "Trans Samus",
     "short_slug": "samus_trans",
     "version": 1,

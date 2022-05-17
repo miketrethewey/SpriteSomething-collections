@@ -8,18 +8,6 @@
     "path": "boxes.1.zspr"
   },
   {
-    "title": "Checkerboxes",
-    "path": "checkerboxes.1.zspr"
-  },
-  {
-    "title": "Stick Man",
-    "path": "stick_man.1.zspr"
-  },
-  {
-    "title": "Bob",
-    "path": "bob.2.zspr"
-  },
-  {
     "title": "Gridheads",
     "path": "gridheads.1.zspr"
   },
@@ -32,11 +20,23 @@
     "path": "itemroulette.1.zspr"
   },
   {
-    "title": "Fullboxes",
-    "path": "fullboxes.1.zspr"
+    "title": "Checkerboxes",
+    "path": "checkerboxes.1.zspr"
+  },
+  {
+    "title": "Bob",
+    "path": "bob.2.zspr"
   },
   {
     "title": "Grids",
     "path": "grids.1.zspr"
+  },
+  {
+    "title": "Stick Man",
+    "path": "stick_man.1.zspr"
+  },
+  {
+    "title": "Fullboxes",
+    "path": "fullboxes.1.zspr"
   }
 ]

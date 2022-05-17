@@ -148,6 +148,10 @@
     "path": "samus_invisible.1.png"
   },
   {
+    "title": "Mini Samus",
+    "path": "samus_mini.1.png"
+  },
+  {
     "title": "Trans Samus",
     "path": "samus_trans.1.png"
   },
