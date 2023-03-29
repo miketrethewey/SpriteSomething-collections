@@ -37,6 +37,11 @@ jobs:
           OS_NAME: ${{ matrix.os-name }}
         run: |
           python ./resources/ci/common/local_install.py
+      # Analyze used GitHub Actions
+      - name: Analyze used GitHub Actions
+        shell: bash
+        run: |
+          python ./resources/ci/common/list_actions.py
       # Prepare AppVersion
       - name: Prepare AppVersion
         run: |
