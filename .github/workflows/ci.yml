@@ -22,10 +22,10 @@ jobs:
     steps:
       # checkout commit
       - name: Checkout commit
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.5.0
       # install python
       - name: Install Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.5.0
         with:
           python-version: ${{ matrix.python-version }}
           architecture: "x64"
@@ -64,7 +64,7 @@ jobs:
           python ./resources/ci/common/cleanup.py
       # upload pages artifact for later step
       - name: Upload Pages Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: pages-${{ matrix.os-name }}
           path: ./
@@ -86,12 +86,12 @@ jobs:
     steps:
       # checkout gh-pages
       - name: Checkout commit
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.5.0
         with:
           ref: gh-pages
       # download pages artifact
       - name: Download Pages Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3.0.2
         with:
           name: pages-${{ matrix.os-name }}
           path: ./
@@ -133,10 +133,10 @@ jobs:
     steps:
       # checkout commit
       - name: Checkout commit
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.5.0
       # install python
       - name: Install Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.5.0
         with:
           python-version: ${{ matrix.python-version }}
           architecture: "x64"
