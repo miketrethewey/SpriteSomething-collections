@@ -1,0 +1,279 @@
+[
+  {
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.188.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.188.png",
+    "version": "31.0.8.x.188"
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/subrosian.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/subrosian.1.png",
+    "name": "Subrosian",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Subrosian"
+      ],
+      "game": [
+        "The Legend of Zelda: Oracle of Seasons"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Subrosian",
+      "The Legend of Zelda: Oracle of Seasons",
+      "Neutral",
+      "The Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/bartz.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/bartz.1.png",
+    "name": "Bartz",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Bartz"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Bartz",
+      "Final Fantasy V",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/gblink.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/gblink.1.png",
+    "name": "GB Link",
+    "author": "Nintendo",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: Link's Awakening",
+      "Male",
+      "The Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/001.benjamin.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/001.benjamin.1.png",
+    "name": "Benjamin",
+    "author": "Square Enix",
+    "tags": {
+      "character": [
+        "Benjamin"
+      ],
+      "game": [
+        "Final Fantasy Mystic Quest"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Benjamin",
+      "Final Fantasy Mystic Quest",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kain.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kain.1.png",
+    "name": "Kain",
+    "author": "Square Enix",
+    "tags": {
+      "character": [
+        "Kain"
+      ],
+      "game": [
+        "Final Fantasy IV"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Kain",
+      "Final Fantasy IV",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/fighter.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/fighter.1.png",
+    "name": "Fighter",
+    "author": "Square Enix",
+    "tags": {
+      "character": [
+        "Fighter"
+      ],
+      "game": [
+        "Final Fantasy"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Fighter",
+      "Final Fantasy",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/rydia.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/rydia.1.png",
+    "name": "Rydia",
+    "author": "Square Enix",
+    "tags": {
+      "character": [
+        "Rydia"
+      ],
+      "game": [
+        "Final Fantasy IV"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Rydia",
+      "Final Fantasy IV",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.1.png",
+    "name": "Faris",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Faris"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Faris",
+      "Final Fantasy V",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  }
+]
