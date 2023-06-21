@@ -44,6 +44,7 @@ def get_local_metadata():
             if slug not in spritesmeta:
                   spritesmeta[slug] = {}
             spritesmeta[slug]["version"] = int(ver)
+            spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  ".bmp"
             spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"
 
     return spritesmeta,maxs,maxn
