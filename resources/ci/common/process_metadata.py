@@ -104,6 +104,13 @@ def process_metadata(console,game,sprite):
                 basename = glob(os.path.join(site_resources,"sheets",slug + ".png"))
                 if len(basename) < 1:
                   basename = glob(os.path.join(site_resources,"sheets",slug + ".*.png"))
+                if len(basename) < 1:
+                  basename = glob(os.path.join(site_resources,"sheets",slug + ".bmp"))
+                if len(basename) < 1:
+                  basename = glob(os.path.join(site_resources,"sheets",slug + ".*.bmp"))
+                if len(basename) < 1:
+                    print(f"ERROR: {spritesmeta[slug]['name']}/{slug} not found!")
+                    continue
                 basename = basename[0].split(os.sep)
                 basename = basename[len(basename) - 1]
                 matches = re.search(r"([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)(?:[\.]?)([^\.]*)", basename)
@@ -177,15 +184,16 @@ def process_metadata(console,game,sprite):
       vlist = list(vals)
       slist = sorted(vlist, key=lambda s: str.lower(s["short_slug"] if "short_slug" in s else "").strip())
       json.dump(slist,json_file,indent=2)
-    with(open(os.path.join(site_resources,"z3m3.json"),"w",encoding="utf-8")) as json_file:
-      slist = []
-      for sprite in spritesmeta.values():
-        if "name" in sprite:
-          slist.append({
-            "title": sprite["name"],
-            "path": sprite["filename"]
-          })
-      json.dump(slist,json_file,indent=2)
+    if "zelda3" in site_resources or "metroid3" in site_resources:
+      with(open(os.path.join(site_resources,"z3m3.json"),"w",encoding="utf-8")) as json_file:
+        slist = []
+        for sprite in spritesmeta.values():
+          if "name" in sprite:
+            slist.append({
+              "title": sprite["name"],
+              "path": sprite["filename"]
+            })
+        json.dump(slist,json_file,indent=2)
 
 def do_metadata():
   with(open(os.path.join(".","meta","manifests","consoles.txt"), "r")) as consoles:

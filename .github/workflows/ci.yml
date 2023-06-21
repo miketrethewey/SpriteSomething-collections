@@ -22,10 +22,10 @@ jobs:
     steps:
       # checkout commit
       - name: Checkout commit
-        uses: actions/checkout@v3.5.0
+        uses: actions/checkout@v3.5.3
       # install python
       - name: Install Python
-        uses: actions/setup-python@v4.5.0
+        uses: actions/setup-python@v4.6.1
         with:
           python-version: ${{ matrix.python-version }}
           architecture: "x64"
@@ -86,7 +86,7 @@ jobs:
     steps:
       # checkout gh-pages
       - name: Checkout commit
-        uses: actions/checkout@v3.5.0
+        uses: actions/checkout@v3.5.3
         with:
           ref: gh-pages
       # download pages artifact
@@ -133,10 +133,10 @@ jobs:
     steps:
       # checkout commit
       - name: Checkout commit
-        uses: actions/checkout@v3.5.0
+        uses: actions/checkout@v3.5.3
       # install python
       - name: Install Python
-        uses: actions/setup-python@v4.5.0
+        uses: actions/setup-python@v4.6.1
         with:
           python-version: ${{ matrix.python-version }}
           architecture: "x64"

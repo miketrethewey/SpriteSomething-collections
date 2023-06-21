@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Artheau/SpriteSomething/master/resources/schema/game-sprite-manifest.schema.json",
+  "1": {
+    "type": "Player Character Sprite",
+    "name": "Benjamin",
+    "folder name": "benjamin",
+    "input": {
+      "bmp": {
+        "dims": [104, 64],
+        "overview-scale-factor": 1
+      }
+    }
+  }
+}
