@@ -11,11 +11,6 @@ commit.txt
 # Spreadsheet Temp
 *.tmp
 *.xls#
-pc/**/sprites.*
-!pc/**/sprites.xls
-snes/**/sprites.*
-!snes/**/sprites.xls
-snes/**/z3m3.json
 resources/**/*.csv
 
 # Byte-compiled / optimized / DLL files

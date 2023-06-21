@@ -44,7 +44,33 @@ with open(os.path.join(".","meta","manifests","consoles.txt"), "r", encoding="ut
                                 )
                                 if os.path.isdir(dirPath):
                                     shutil.rmtree(dirPath)
-                            for spritefile in ["index.html","previews.html"]:
+                            spritefiles = [
+                                "index.html",
+                                "previews.html",
+                                "sprites.css",
+                                "sprites.csv",
+                                "sprites.html",
+                                "z3m3.json"
+                            ]
+                            if os.path.isdir(os.path.join(
+                                ".",
+                                "resources",
+                                "ci",
+                                console,
+                                game,
+                                sprite["folder name"]
+                            )) and "sprites.xls" in os.listdir(
+                                os.path.join(
+                                    ".",
+                                    "resources",
+                                    "ci",
+                                    console,
+                                    game,
+                                    sprite["folder name"]
+                                )
+                            ):
+                                spritefiles.append("sprites.json")
+                            for spritefile in spritefiles:
                                 spritePath = os.path.join(
                                     ".",
                                     console,
