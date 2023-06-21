@@ -24,6 +24,19 @@ def do_previews():
                   sprite = manifest[key]["folder name"]
                   paths["sprite"] = os.path.join(paths["game"],sprite)
                   print("Processing: %s/%s/%s" % (console,game,sprite))
+                  for dirname in ["thumbs","previews"]:
+                    if not os.path.isdir(
+                      os.path.join(
+                        paths["sprite"],
+                        "sheets",
+                        dirname
+                      )
+                    ):
+                      os.makedirs(os.path.join(
+                        paths["sprite"],
+                        "sheets",
+                        dirname
+                      ))
                   previews_module = False
                   try:
                     previews_module = importlib.import_module(f"resources.ci.{console}.{game}.{sprite}.sprite_previews")
