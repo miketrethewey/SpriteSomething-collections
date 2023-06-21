@@ -82,19 +82,6 @@ def create_previews():
   maxs = 0
   # make previews for ZSPRs (400% size)
   print("Processing previews")
-  for dirname in ["thumbs","previews"]:
-    if not os.path.isdir(
-      os.path.join(
-        site_resources,
-        "sheets",
-        dirname
-      )
-    ):
-      os.makedirs(os.path.join(
-        site_resources,
-        "sheets",
-        dirname
-      ))
   for sprite in sprites:
       image = get_image_for_sprite(sprite)
       if image is None:
