@@ -1,8 +1,42 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.191.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.191.png",
-    "version": "31.0.8.x.191"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.194.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.194.png",
+    "version": "31.0.8.x.194"
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/mogff6.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/mogff6.1.png",
+    "name": "Mog",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Mog"
+      ],
+      "game": [
+        "Final Fantasy VII"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Mog",
+      "Final Fantasy VII",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
   },
   {
     "version": 1,
@@ -46,7 +80,7 @@
     "author": "Giga Otomia",
     "tags": {
       "character": [
-        "Bartz"
+        "Bartz Klauser"
       ],
       "game": [
         "Final Fantasy V"
@@ -62,8 +96,42 @@
       ]
     },
     "tagsflat": [
-      "Bartz",
+      "Bartz Klauser",
       "Final Fantasy V",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/cloudff7.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/cloudff7.1.png",
+    "name": "Cloud",
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Cloud Strife"
+      ],
+      "game": [
+        "Final Fantasy VII"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Cloud Strife",
+      "Final Fantasy VII",
       "Male",
       "Final Fantasy",
       "PC"
@@ -108,6 +176,45 @@
   },
   {
     "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/moogle.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/moogle.1.png",
+    "name": "Moogle",
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Moogle"
+      ],
+      "game": [
+        "Final Fantasy III"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Moogle",
+      "Final Fantasy III",
+      "Male",
+      "Final Fantasy",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ninja.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ninja.1.png"
+  },
+  {
+    "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/001.benjamin.1.bmp",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/001.benjamin.1.png",
     "name": "Benjamin",
@@ -148,7 +255,7 @@
     "author": "Square Enix",
     "tags": {
       "character": [
-        "Kain"
+        "Kain Highwind"
       ],
       "game": [
         "Final Fantasy IV"
@@ -164,9 +271,43 @@
       ]
     },
     "tagsflat": [
-      "Kain",
+      "Kain Highwind",
       "Final Fantasy IV",
       "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 2,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.2.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.2.png",
+    "name": "Faris",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Faris Scherwiz"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Faris Scherwiz",
+      "Final Fantasy V",
+      "Female",
       "Final Fantasy",
       "PC"
     ],
@@ -210,6 +351,40 @@
   },
   {
     "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/pcecil.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/pcecil.1.png",
+    "name": "Cecil (Paladin)",
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Cecil Harvey"
+      ],
+      "game": [
+        "Final Fantasy IV"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Cecil Harvey",
+      "Final Fantasy IV",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/rydia.1.bmp",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/rydia.1.png",
     "name": "Rydia",
@@ -243,20 +418,17 @@
     ]
   },
   {
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.1.png",
-    "name": "Faris",
-    "author": "Giga Otomia",
+    "name": "Ninja",
+    "author": "CtrlxZ",
     "tags": {
       "character": [
-        "Faris"
+        "Ninja"
       ],
       "game": [
-        "Final Fantasy V"
+        "Final Fantasy"
       ],
       "gender": [
-        "Female"
+        "Male"
       ],
       "universe": [
         "Final Fantasy"
@@ -266,9 +438,9 @@
       ]
     },
     "tagsflat": [
-      "Faris",
-      "Final Fantasy V",
-      "Female",
+      "Ninja",
+      "Final Fantasy",
+      "Male",
       "Final Fantasy",
       "PC"
     ],

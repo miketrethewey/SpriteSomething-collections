@@ -1,9 +1,14 @@
 Slug,Name,Author,T-Character,T-Game,T-Gender,T-Origin,T-Universe,T-Character Type,,U-Commercial
 001.benjamin,Benjamin,Square Enix,Benjamin,Final Fantasy Mystic Quest,Male,,Final Fantasy,PC,,Y
-bartz,Bartz,Giga Otomia,Bartz,Final Fantasy V,Male,,Final Fantasy,PC,,Y
-faris,Faris,Giga Otomia,Faris,Final Fantasy V,Female,,Final Fantasy,PC,,Y
+bartz,Bartz,Giga Otomia,Bartz Klauser,Final Fantasy V,Male,,Final Fantasy,PC,,Y
+cloudff7,Cloud,CtrlxZ,Cloud Strife,Final Fantasy VII,Male,,Final Fantasy,PC,,Y
+faris,Faris,Giga Otomia,Faris Scherwiz,Final Fantasy V,Female,,Final Fantasy,PC,,Y
+ff1ninja,Ninja,CtrlxZ,Ninja,Final Fantasy,Male,,Final Fantasy,PC,,Y
 fighter,Fighter,Square Enix,Fighter,Final Fantasy,Male,,Final Fantasy,PC,,Y
 gblink,GB Link,Nintendo,Link,The Legend of Zelda: Link’s Awakening,Male,,The Legend of Zelda,PC,,Y
-kain,Kain,Square Enix,Kain,Final Fantasy IV,Male,,Final Fantasy,PC,,Y
+kain,Kain,Square Enix,Kain Highwind,Final Fantasy IV,Male,,Final Fantasy,PC,,Y
+mogff6,Mog,Giga Otomia,Mog,Final Fantasy VII,Male,,Final Fantasy,PC,,Y
+moogle,Moogle,CtrlxZ,Moogle,Final Fantasy III,Male,,Final Fantasy,NPC,,Y
+pcecil,Cecil (Paladin),CtrlxZ,Cecil Harvey,Final Fantasy IV,Male,,Final Fantasy,PC,,Y
 rydia,Rydia,Square Enix,Rydia,Final Fantasy IV,Female,,Final Fantasy,PC,,Y
 subrosian,Subrosian,Giga Otomia,Subrosian,The Legend of Zelda: Oracle of Seasons,Neutral,,The Legend of Zelda,NPC,,Y
