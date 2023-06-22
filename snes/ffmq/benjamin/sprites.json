@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.194.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.194.png",
-    "version": "31.0.8.x.194"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.197.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.197.png",
+    "version": "31.0.8.x.197"
   },
   {
     "version": 1,
@@ -67,6 +67,40 @@
       "Neutral",
       "The Legend of Zelda",
       "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/neslink.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/neslink.1.png",
+    "name": "NES Link",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda",
+      "Male",
+      "The Legend of Zelda",
+      "PC"
     ],
     "usage": [
       "commercial"
@@ -175,6 +209,40 @@
     ]
   },
   {
+    "version": 2,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.2.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.2.png",
+    "name": "Faris",
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Faris Scherwiz"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Faris Scherwiz",
+      "Final Fantasy V",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/moogle.1.bmp",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/moogle.1.png",
@@ -207,11 +275,6 @@
     "usage": [
       "commercial"
     ]
-  },
-  {
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ninja.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ninja.1.png"
   },
   {
     "version": 1,
@@ -282,40 +345,6 @@
     ]
   },
   {
-    "version": 2,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.2.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.2.png",
-    "name": "Faris",
-    "author": "Giga Otomia",
-    "tags": {
-      "character": [
-        "Faris Scherwiz"
-      ],
-      "game": [
-        "Final Fantasy V"
-      ],
-      "gender": [
-        "Female"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Faris Scherwiz",
-      "Final Fantasy V",
-      "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/fighter.1.bmp",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/fighter.1.png",
@@ -340,6 +369,40 @@
     },
     "tagsflat": [
       "Fighter",
+      "Final Fantasy",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ff1ninja.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ff1ninja.1.png",
+    "name": "Ninja",
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Ninja"
+      ],
+      "game": [
+        "Final Fantasy"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Ninja",
       "Final Fantasy",
       "Male",
       "Final Fantasy",
@@ -410,37 +473,6 @@
       "Rydia",
       "Final Fantasy IV",
       "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Ninja",
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Ninja"
-      ],
-      "game": [
-        "Final Fantasy"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Ninja",
-      "Final Fantasy",
-      "Male",
       "Final Fantasy",
       "PC"
     ],
