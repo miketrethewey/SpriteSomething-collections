@@ -8,14 +8,6 @@
     "path": "grids.1.zspr"
   },
   {
-    "title": "Fullboxes",
-    "path": "fullboxes.1.zspr"
-  },
-  {
-    "title": "Swatchy",
-    "path": "swatchy.1.zspr"
-  },
-  {
     "title": "Gridheads",
     "path": "gridheads.1.zspr"
   },
@@ -28,8 +20,16 @@
     "path": "checkerboxes.1.zspr"
   },
   {
+    "title": "Swatchy",
+    "path": "swatchy.2.zspr"
+  },
+  {
     "title": "Stick Man",
     "path": "stick_man.1.zspr"
+  },
+  {
+    "title": "Fullboxes",
+    "path": "fullboxes.2.zspr"
   },
   {
     "title": "Link",
