@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.207.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.207.png",
-    "version": "31.0.8.x.207"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.209.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.209.png",
+    "version": "31.0.8.x.209"
   },
   {
     "name": "Kain",
@@ -14,7 +14,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -45,14 +45,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -85,6 +85,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -129,7 +134,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -160,14 +165,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -200,6 +205,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -244,7 +254,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -275,14 +285,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -315,6 +325,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -359,12 +374,12 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -390,14 +405,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -430,6 +445,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -505,14 +525,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -545,6 +565,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -585,7 +610,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -616,14 +641,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -656,6 +681,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -705,7 +735,7 @@
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -731,14 +761,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -771,6 +801,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -815,12 +850,12 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -846,14 +881,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -886,6 +921,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -961,14 +1001,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1001,6 +1041,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1045,7 +1090,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -1076,14 +1121,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1116,6 +1161,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1191,14 +1241,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1231,6 +1281,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1306,14 +1361,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1346,6 +1401,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1390,7 +1450,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -1421,14 +1481,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1461,6 +1521,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1510,7 +1575,7 @@
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -1536,14 +1601,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1576,6 +1641,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1635,14 +1705,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1675,6 +1745,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1750,14 +1825,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1790,6 +1865,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1834,12 +1914,12 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -1865,14 +1945,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -1905,6 +1985,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -1949,12 +2034,12 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
           "name": "Full Horizontal Flip",
-          "state": false
+          "state": true
         },
         {
           "id": 2,
@@ -1980,14 +2065,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2020,6 +2105,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2095,14 +2185,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2135,6 +2225,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2210,14 +2305,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2250,6 +2345,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2294,7 +2394,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -2325,14 +2425,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2365,6 +2465,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2440,14 +2545,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2480,6 +2585,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2524,7 +2634,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -2555,14 +2665,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2595,6 +2705,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2670,14 +2785,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2710,6 +2825,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2754,7 +2874,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -2785,14 +2905,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2825,6 +2945,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -2900,14 +3025,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -2940,6 +3065,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3015,14 +3145,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3055,6 +3185,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3130,14 +3265,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3170,6 +3305,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3214,7 +3354,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -3245,14 +3385,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3285,6 +3425,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3360,14 +3505,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3400,6 +3545,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3444,7 +3594,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -3475,14 +3625,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3515,6 +3665,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3586,14 +3741,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3626,6 +3781,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3701,14 +3861,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3741,6 +3901,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3816,14 +3981,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3856,6 +4021,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -3931,14 +4101,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -3971,6 +4141,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -4046,14 +4221,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -4086,6 +4261,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -4130,7 +4310,7 @@
         {
           "id": 0,
           "name": "Software Bop",
-          "state": false
+          "state": true
         },
         {
           "id": 1,
@@ -4161,14 +4341,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -4201,6 +4381,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -4276,14 +4461,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -4316,6 +4501,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
@@ -4391,14 +4581,14 @@
           "id": 6,
           "name": "",
           "state": false
-        }
-      ],
-      [
+        },
         {
           "id": 7,
           "name": "",
           "state": false
-        },
+        }
+      ],
+      [
         {
           "id": 8,
           "name": "",
@@ -4431,6 +4621,11 @@
         },
         {
           "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
           "name": "",
           "state": false
         }
