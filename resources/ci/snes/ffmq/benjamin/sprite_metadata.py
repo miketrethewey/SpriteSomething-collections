@@ -91,8 +91,8 @@ def get_local_metadata():
                 pixdata = modblock.getdata()
                 newpixels = []
                 for [pixID, pixel] in enumerate(pixdata):
-                    if pixID > w:
-                        cbitID = pixID - w - 1
+                    if pixID >= w:
+                        cbitID = pixID - w
                         cbitName = ""
                         if len(controlbits_manifest) > cbitID:
                             cbitName = controlbits_manifest[cbitID]["name"]
@@ -107,9 +107,8 @@ def get_local_metadata():
                         #     newpixels.append((r,g,b,0))
                         # else:
                         #     newpixels.append(pixel)
-                        if (pixID + 1) % w == 0:
-                            if pixID > w:
-                                controlbits.append(cbitrow)
+                        if (cbitID + 1) % w == 0:
+                            controlbits.append(cbitrow)
                             cbitrow = []
                 #             print()
                 # print(controlbits)
