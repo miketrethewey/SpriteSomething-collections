@@ -104,7 +104,7 @@ def prepare_env():
   if '-' in OS_NAME:
     OS_VERSION = OS_NAME[OS_NAME.find('-')+1:]
     OS_NAME = OS_NAME[:OS_NAME.find('-')]
-    if OS_NAME == "linux" or OS_NAME == "ubuntu":
+    if OS_NAME in ["linux", "ubuntu"]:
       if OS_VERSION in UBUNTU_VERSIONS:
         OS_VERSION = UBUNTU_VERSIONS[OS_VERSION]
       OS_DIST = OS_VERSION
