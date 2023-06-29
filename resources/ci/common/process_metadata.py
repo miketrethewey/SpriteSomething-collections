@@ -60,6 +60,7 @@ def process_metadata(console,game,sprite):
     print("No specific metadata processing for: %s/%s/%s" % (console,game,sprite))
   if metamodule:
     (spritesmeta,maxs,maxn) = metamodule.get_local_metadata()
+    # print(spritesmeta)
 
   num = max(len(csv_sheet) - 1,len(spritesmeta))
 
@@ -82,6 +83,10 @@ def process_metadata(console,game,sprite):
                 if i > len(sprites):
                     sprites.append({})
                 sprites[i - 1][keys[j]] = cell
+                if "slug" in keys[j].lower():
+                    maxs = max(maxs,len(cell))
+                if "name" in keys[j].lower():
+                    maxn = max(maxn,len(cell))
             j += 1
         i+= 1
 
@@ -96,11 +101,13 @@ def process_metadata(console,game,sprite):
         if v != "":
           if k == "slug":
             slug = v
+            maxs = max(maxs,len(slug))
             ver = 0
             if slug not in spritesmeta:
               spritesmeta[slug] = {}
               if "name" in sprite:
                 spritesmeta[slug]["name"] = sprite["name"]
+                maxn = max(maxn,len(sprite["name"]))
                 basename = glob(os.path.join(site_resources,"sheets",slug + ".png"))
                 if len(basename) < 1:
                   basename = glob(os.path.join(site_resources,"sheets",slug + ".*.png"))
