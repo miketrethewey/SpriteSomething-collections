@@ -9,6 +9,22 @@
         "dims": [104, 64],
         "overview-scale-factor": 1
       }
-    }
+    },
+    "controlbits": [
+        {
+            "name": "Software Bop",
+            "id": 0,
+            "desc": "When walking L->R or R->L, the head will 'bop' up and down. Benjamin is drawn this way. Enable to have the animation engine do the 'bopping.'",
+            "enabled": "Animation engine will 'bop' the head frame up and down when walking L->R or R->L.",
+            "disabled": "Animation engine draws exactly what is in the sheet."
+        },
+        {
+            "name": "Full Horizontal Flip",
+            "id": 1,
+            "desc": "When walking up and down, only the bottom tiles flip horizontally to animate the sprite. Enable to make the top tiles flip horizontally as well.",
+            "enabled": "Full sprite will flip horizontally when walking up and down.",
+            "disabled": "Only bottom half of sprite will flip horizontally when walking up and down."
+        }
+    ]
   }
 }
