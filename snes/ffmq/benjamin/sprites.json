@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.203.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.203.png",
-    "version": "31.0.8.x.203"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.207.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.207.png",
+    "version": "31.0.8.x.207"
   },
   {
     "name": "Kain",
@@ -4230,6 +4230,121 @@
       "Neutral",
       "Final Fantasy",
       "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Kaeli",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kaeli.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kaeli.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Kaeli"
+      ],
+      "game": [
+        "Final Fantasy Mystic Quest"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Kaeli",
+      "Final Fantasy Mystic Quest",
+      "Female",
+      "Final Fantasy",
+      "PC"
     ],
     "usage": [
       "commercial"
