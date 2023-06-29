@@ -9,6 +9,8 @@ from glob import glob
 from .check_ffmqr import check_ffmqr
 
 def get_local_metadata():
+    scouted = check_ffmqr()
+
     (console,game,sprite) = ("snes","ffmq","benjamin")
     site_resources = os.path.join(".",console,game,sprite)
     online_resources = (f"https://miketrethewey.github.io/SpriteSomething-collections/{console}/{game}/{sprite}")
@@ -51,6 +53,12 @@ def get_local_metadata():
             maxn = max(maxn,len(slug))
             if slug not in spritesmeta:
                   spritesmeta[slug] = {}
+            if slug in scouted:
+                for k in ["name"]:
+                    if k in scouted[slug]:
+                        spritesmeta[slug][k] = scouted[slug][k]
+                        if k == "name":
+                            maxn = max(maxn,len(scouted[slug][k]))
             spritesmeta[slug]["version"] = int(ver)
             spritesmeta[slug]["file"] = online_resources + "/sheets/" + slug + '.' + str(ver) +  ".bmp"
             spritesmeta[slug]["preview"] = online_resources + "/sheets/thumbs/" + slug + '.' + str(ver) +  ".png"
@@ -110,7 +118,5 @@ def get_local_metadata():
                 # modblock.putdata(newpixels)
                 # modblock.save(os.path.join(".","modblock.png"))
                 # modblock.show()
-
-    check_ffmqr()
 
     return spritesmeta,maxs,maxn

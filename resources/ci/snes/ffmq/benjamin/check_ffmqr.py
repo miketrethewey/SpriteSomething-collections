@@ -33,6 +33,7 @@ def check_ffmqr():
         i = 0
         for row in csv_sheet:
             j = 0
+            slug = ""
             for cell in row:
                 if i == 0:
                     keys.append(cell.lower())
@@ -42,10 +43,12 @@ def check_ffmqr():
                         sprites[i - 1][keys[j]] = cell
                         if keys[j] == "slug":
                             # add from local
+                            slug = cell
                             slugs["local"][cell] = {}
+                    if slug in slugs["local"] and "name" in keys[j].lower():
+                        slugs["local"][slug]["name"] = cell
                 j += 1
             i+= 1
-    # print(sprites)
 
     url = "https://github.com/wildham0/FFMQRando/raw/dev/FFMQRLib/sprites/customsprites.zip"
     context = ssl._create_unverified_context()
@@ -82,7 +85,7 @@ def check_ffmqr():
                                 )
 
     for slug in slugs["local"]:
-        if slug not in ["001.benjamin"] and slug not in slugs["ffmqr"]:
+        if slug not in ["001.benjamin", "guide"] and slug not in slugs["ffmqr"]:
             slugs["not-ffmqr"][slug] = {}
 
     for [sprite_domain, sprite_list] in slugs.items():
@@ -97,6 +100,7 @@ def check_ffmqr():
                         if "filename" in sprite:
                             print(slug,sprite)
                 print()
+    return slugs["local"]
 
 
 if __name__ == "__main__":
