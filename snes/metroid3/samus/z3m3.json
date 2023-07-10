@@ -4,12 +4,32 @@
     "path": "001.samus.1.png"
   },
   {
+    "title": "140.0",
+    "path": "onefourty.1.png"
+  },
+  {
+    "title": "Alcoon",
+    "path": "alcoon.1.png"
+  },
+  {
     "title": "Alice Margatroid",
     "path": "marga.1.png"
   },
   {
     "title": "Alucard",
     "path": "alucard_sotn.1.png"
+  },
+  {
+    "title": "Arcana",
+    "path": "arcana.1.png"
+  },
+  {
+    "title": "B.O.B.",
+    "path": "bob.1.png"
+  },
+  {
+    "title": "Brad Fang",
+    "path": "brad_fang.1.png"
   },
   {
     "title": "Buffed Kirby",
@@ -52,6 +72,10 @@
     "path": "fedtrooper.1.png"
   },
   {
+    "title": "Goku (Child)",
+    "path": "goku_child.1.png"
+  },
+  {
     "title": "Samus (Super Metroid Opposition)",
     "path": "hack_opposition.1.png"
   },
@@ -80,12 +104,36 @@
     "path": "kirby.1.png"
   },
   {
-    "title": "Link",
+    "title": "Kirby (Yarn)",
+    "path": "kirby_yarn.1.png"
+  },
+  {
+    "title": "Knuckles",
+    "path": "knuckles.1.png"
+  },
+  {
+    "title": "Link 2 the Past (Z3)",
+    "path": "link_2_the_past.1.png"
+  },
+  {
+    "title": "Link (Z2)",
+    "path": "link_tall.1.png"
+  },
+  {
+    "title": "Link (OoT)",
     "path": "link_oot.1.png"
   },
   {
     "title": "Luigi",
     "path": "luigi_mansion.1.png"
+  },
+  {
+    "title": "Maria Pollo",
+    "path": "maria_pollo.1.png"
+  },
+  {
+    "title": "Maria Renard",
+    "path": "maria_renard.1.png"
   },
   {
     "title": "Mario (SMB1)",
@@ -94,6 +142,22 @@
   {
     "title": "Mario (SMB1, Modern colors)",
     "path": "mario_8bit_modern.1.png"
+  },
+  {
+    "title": "Mario (Super Mario World)",
+    "path": "mario_smw.1.png"
+  },
+  {
+    "title": "Mario (Dream Team)",
+    "path": "mario_dreamteam.1.png"
+  },
+  {
+    "title": "Master Hand",
+    "path": "master_hand.1.png"
+  },
+  {
+    "title": "Maxim Kischine",
+    "path": "maxim_kischine.1.png"
   },
   {
     "title": "Mega Man X",
@@ -108,8 +172,28 @@
     "path": "moonclif.1.png"
   },
   {
+    "title": "Plissken",
+    "path": "plissken.1.png"
+  },
+  {
+    "title": "Protogen Laso",
+    "path": "protogen_laso.1.png"
+  },
+  {
+    "title": "Pyronett",
+    "path": "pyronett.1.png"
+  },
+  {
+    "title": "Ronald McDonald",
+    "path": "ronald_mcdonald.1.png"
+  },
+  {
     "title": "180-Degree Samus",
     "path": "samus_180-degree.1.png"
+  },
+  {
+    "title": "AroAce Samus",
+    "path": "samus_aroace.1.png"
   },
   {
     "title": "Backwards Samus",
@@ -132,6 +216,10 @@
     "path": "samus_combatarmor.1.png"
   },
   {
+    "title": "Samus (Metroid Dread)",
+    "path": "samus_dread.1.png"
+  },
+  {
     "title": "Enby Samus",
     "path": "samus_enby.1.png"
   },
@@ -144,12 +232,24 @@
     "path": "samus_fusion_typeb_orange.1.png"
   },
   {
+    "title": "Greyscale Samus",
+    "path": "samus_greyscale.1.png"
+  },
+  {
     "title": "Invisible Samus",
     "path": "samus_invisible.1.png"
   },
   {
+    "title": "Left Leg Samus",
+    "path": "samus_left-leg.1.png"
+  },
+  {
     "title": "Mini Samus",
     "path": "samus_mini.1.png"
+  },
+  {
+    "title": "Outline Samus",
+    "path": "samus_outline.1.png"
   },
   {
     "title": "Trans Samus",
@@ -158,6 +258,10 @@
   {
     "title": "Upside-Down Samus",
     "path": "samus_upsidedown.1.png"
+  },
+  {
+    "title": "Zero Mission Samus",
+    "path": "samus_zero-mission.1.png"
   },
   {
     "title": "Sans",
@@ -172,6 +276,18 @@
     "path": "shaktool-jr.1.png"
   },
   {
+    "title": "Shantae",
+    "path": "shantae.1.png"
+  },
+  {
+    "title": "SNES Controller",
+    "path": "snes_controller.1.png"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "path": "sonic.1.png"
+  },
+  {
     "title": "Sprite Can",
     "path": "sprite_can.1.png"
   },
@@ -182,5 +298,21 @@
   {
     "title": "Super Controid (PG)",
     "path": "super_controid_pg.1.png"
+  },
+  {
+    "title": "Miles \"Tails\" Prower",
+    "path": "tails.1.png"
+  },
+  {
+    "title": "Tetromino",
+    "path": "tetris.1.png"
+  },
+  {
+    "title": "Wario",
+    "path": "wario.1.png"
+  },
+  {
+    "title": "Yoshi & Baby Mario",
+    "path": "yoshi.1.png"
   }
 ]
