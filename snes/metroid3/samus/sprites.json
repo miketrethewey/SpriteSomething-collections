@@ -71,7 +71,8 @@
       "NPC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -108,7 +109,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -119,7 +121,7 @@
     "filename": "arcana.1.png",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.1.png",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.1.png",
-    "author": "102.0",
+    "author": "MM102",
     "tags": {
       "character": [
         "Arcana"
@@ -129,7 +131,7 @@
       "Arcana"
     ],
     "usage": [
-      "smz3"
+      "global"
     ]
   },
   {
@@ -155,7 +157,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "B.O.B.",
@@ -187,7 +190,8 @@
       "Space Funky B.O.B."
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -224,7 +228,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -261,7 +266,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -298,7 +304,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -335,7 +342,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -372,7 +380,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -409,7 +418,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -438,7 +448,8 @@
       "Operating Systems"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "maprando"
     ]
   },
   {
@@ -479,7 +490,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -516,7 +528,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -553,7 +566,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -587,7 +601,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Goku (Child)",
@@ -602,6 +617,9 @@
       "character": [
         "Son Goku"
       ],
+      "game": [
+        "Dragon Ball: Advanced Adventure"
+      ],
       "gender": [
         "Male"
       ],
@@ -611,11 +629,13 @@
     },
     "tagsflat": [
       "Son Goku",
+      "Dragon Ball: Advanced Adventure",
       "Male",
       "Dragon Ball"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -653,7 +673,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Samus (Super Zero Mission)",
@@ -690,7 +711,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Hitbox Helper",
@@ -726,7 +748,8 @@
       "Utility"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -763,7 +786,8 @@
       "Utility"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -800,7 +824,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -837,7 +862,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -874,7 +900,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -890,6 +917,9 @@
       "character": [
         "Knuckles"
       ],
+      "game": [
+        "Sonic Mania"
+      ],
       "gender": [
         "Male"
       ],
@@ -902,12 +932,14 @@
     },
     "tagsflat": [
       "Knuckles",
+      "Sonic Mania",
       "Male",
       "Sonic the Hedgehog",
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -945,7 +977,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Link (OoT)",
@@ -981,7 +1014,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1019,7 +1053,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Luigi",
@@ -1055,7 +1090,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1109,7 +1145,8 @@
       "Maria Pollo"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1143,7 +1180,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Mario (SMB1)",
@@ -1179,7 +1217,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1220,7 +1259,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1249,7 +1289,8 @@
       "Mario Bros"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1319,7 +1360,8 @@
       "NPC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1349,7 +1391,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Mega Man X",
@@ -1385,7 +1428,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1418,7 +1462,8 @@
       "NPC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1448,7 +1493,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "140.0",
@@ -1484,7 +1530,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1513,7 +1560,8 @@
       "Contra"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1538,7 +1586,8 @@
       "Original"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1568,7 +1617,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Ronald McDonald",
@@ -1604,7 +1654,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1641,7 +1692,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1682,7 +1734,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1719,7 +1772,50 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
+    ]
+  },
+  {
+    "name": "Blue Samus",
+    "short_slug": "samus_blue",
+    "version": 1,
+    "slug": "samus_blue",
+    "filename": "samus_blue.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_blue.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_blue.1.png",
+    "author": "mm2nescartridge",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "origin": [
+        "Palette-swap"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Palette-swap",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1756,7 +1852,8 @@
       "Utility"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1798,7 +1895,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Clocktoberfest Samus",
@@ -1839,7 +1937,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Combat Armor Samus",
@@ -1879,7 +1978,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1890,7 +1990,7 @@
     "filename": "samus_dread.1.png",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_dread.1.png",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_dread.1.png",
-    "author": "\u2694Wandering\u271dSpider\ud83d\udd77",
+    "author": "Wandering Spider",
     "tags": {
       "character": [
         "Samus"
@@ -1916,8 +2016,10 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ]
+      "smz3",
+      "global"
+    ],
+    "asked": "Y"
   },
   {
     "name": "Enby Samus",
@@ -1958,7 +2060,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Fusion v1.0 Type A",
@@ -1995,7 +2098,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Fusion v1.0 Type B",
@@ -2032,7 +2136,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Greyscale Samus",
@@ -2068,7 +2173,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2109,7 +2215,8 @@
       "Utility"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2146,7 +2253,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2179,7 +2287,8 @@
       "Metroid"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2216,7 +2325,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2257,7 +2367,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2294,7 +2405,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2336,7 +2448,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "?"
   },
   {
     "name": "Sans",
@@ -2372,7 +2485,8 @@
       "NPC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2410,7 +2524,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Shaktool Jr.",
@@ -2447,7 +2562,8 @@
     ],
     "usage": [
       "smz3"
-    ]
+    ],
+    "asked": "Y"
   },
   {
     "name": "Shantae",
@@ -2483,7 +2599,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2496,7 +2613,8 @@
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/snes_controller.1.png",
     "author": "Fredz00z",
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2512,6 +2630,9 @@
       "character": [
         "Sonic the Hedgehog"
       ],
+      "game": [
+        "Sonic Mania"
+      ],
       "gender": [
         "Male"
       ],
@@ -2524,12 +2645,14 @@
     },
     "tagsflat": [
       "Sonic the Hedgehog",
+      "Sonic Mania",
       "Male",
       "Sonic the Hedgehog",
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2550,7 +2673,8 @@
       "Neutral"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2587,7 +2711,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2624,7 +2749,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2640,6 +2766,9 @@
       "character": [
         "Miles \"Tails\" Prower"
       ],
+      "game": [
+        "Sonic Mania"
+      ],
       "gender": [
         "Male"
       ],
@@ -2652,12 +2781,14 @@
     },
     "tagsflat": [
       "Miles \"Tails\" Prower",
+      "Sonic Mania",
       "Male",
       "Sonic the Hedgehog",
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2694,7 +2825,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2710,6 +2842,9 @@
       "character": [
         "Wario"
       ],
+      "game": [
+        "Wario Land 4"
+      ],
       "gender": [
         "Male"
       ],
@@ -2722,12 +2857,14 @@
     },
     "tagsflat": [
       "Wario",
+      "Wario Land 4",
       "Male",
       "Mario Bros",
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -2756,7 +2893,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   }
 ]
