@@ -976,9 +976,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Link (OoT)",
@@ -1052,9 +1052,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Luigi",
@@ -1179,9 +1179,9 @@
       "Castlevania"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Mario (SMB1)",
@@ -1301,7 +1301,7 @@
     "filename": "mario_smw.1.png",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_smw.1.png",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/mario_smw.1.png",
-    "author": "SthiaFel64",
+    "author": "SthianFel64",
     "tags": {
       "character": [
         "Mario Mario"
@@ -1327,7 +1327,8 @@
       "PC"
     ],
     "usage": [
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1390,9 +1391,9 @@
       "Castlevania"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Mega Man X",
