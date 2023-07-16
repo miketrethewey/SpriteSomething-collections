@@ -1599,7 +1599,7 @@
     "filename": "pyronett.1.png",
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/pyronett.1.png",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/pyronett.1.png",
-    "author": "Dawilowilowes",
+    "author": "awildwildwes",
     "tags": {
       "character": [
         "Pyronett"
@@ -1617,9 +1617,9 @@
       "Original"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Ronald McDonald",
