@@ -13,6 +13,9 @@ commit.txt
 *.xls#
 resources/**/*.csv
 
+# Generated CSS
+css/usage.css
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

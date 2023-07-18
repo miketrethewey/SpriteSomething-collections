@@ -20,9 +20,8 @@ a {
 }
 
 .sprite .usage-icon {
-  width:  32px;
-  height: 32px;
-}
-.u-maprando {
-  image-rendering: pixelated;
+  background-size:  32px 32px;
+  float:            left;
+  width:            32px;
+  height:           32px;
 }
