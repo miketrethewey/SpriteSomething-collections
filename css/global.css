@@ -12,9 +12,17 @@ a {
   border: 1px solid #ffffff;
   float:  left;
   width:  160px;
-  height: 150px;
+  height: 190px;
 }
 
 .name, .author {
   text-align: center;
+}
+
+.sprite .usage-icon {
+  width:  32px;
+  height: 32px;
+}
+.u-maprando {
+  image-rendering: pixelated;
 }

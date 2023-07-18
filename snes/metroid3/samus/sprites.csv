@@ -1,5 +1,5 @@
 Slug,Name,Author,T-Character,T-Game,T-Gender,T-Origin,T-Universe,T-Character Type,,U-Commercial,U-SMZ3,U-MapRando,U-Global,Asked
-001.samus,Samus,Nintendo,Samus,Super Metroid,Female,,Metroid,PC,,Y,Y,,,
+001.samus,Samus,Nintendo,Samus,Super Metroid,Female,,Metroid,PC,,Y,Y,,Y,
 onefourty,140.0,Kyzentun,140.0,140.0,Neutral,,140.0,PC,,N,Y,,Y,
 alcoon,Alcoon,wuffie,Alcoon,Super Metroid,Neutral,,Metroid,NPC,,N,Y,,Y,
 marga,Alice Margatroid,Plan,Alice Margatroid,,Female,,Touhou,PC,,N,Y,,,No Dms
@@ -41,7 +41,7 @@ master_hand,Master Hand,Fredz00z,Master Hand,Super Smash Bros,,,Super Smash Bros
 maxim_kischine,Maxim Kischine,Little Leaden Hearts ❤,Maxim Kischine,Castlevania: Harmony of Dissonance,,,Castlevania,,,N,Y,,Y,
 megamanx,Mega Man X,Artheau,Mega Man X,Mega Man X,Male,,Mega Man,PC,,N,Y,,Y,
 metroid,Metroid,Fingers McGee,Metroid,Super Metroid,Neutral,,,NPC,,N,Y,,Y,
-moonclif,Moonclif,Lougaroc,Moonclif,,Male,Original,,,,N,Y,,,Y
+moonclif,Moonclif,Lougaroc,Moonclif,,Male,Original,,,,N,Y,,Y,
 plissken,Plissken,Akai Azul,Plissken,Contra Rebirth,,,Contra,,,N,Y,,Y,
 protogen_laso,Protogen Laso,Purple peak1,Laso,,,Original,,,,N,Y,,Y,
 pyronett,Pyronett,awildwildwes,Pyronett,,Female,Original,,,,N,Y,,Y,

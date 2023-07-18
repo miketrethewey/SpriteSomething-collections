@@ -34,7 +34,8 @@
     ],
     "usage": [
       "commercial",
-      "smz3"
+      "smz3",
+      "global"
     ]
   },
   {
@@ -1494,9 +1495,9 @@
       "Original"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Y"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "140.0",
