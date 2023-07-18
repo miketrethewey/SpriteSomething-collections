@@ -5,6 +5,20 @@ import os
 
 from shutil import copy
 
+print("CSS")
+cssLines = []
+with open(os.path.join(".","css","usage.css"), "w", encoding="utf-8") as cssFile:
+    for usageFile in os.listdir(os.path.join(".","icons","usage")):
+        w = 16
+        h = 16
+        cssLines.append(
+          ".u-" + usageFile[:usageFile.rfind('.')] + " {"
+        )
+        cssLines.append(f"  background-image: url('../icons/usage/{usageFile}');")
+        cssLines.append("}")
+    cssFile.write("\n".join(cssLines))
+    cssFile.write("\n")
+
 indexTemplateFile = open(os.path.join(".","resources","ci","templates","template.html"))
 indexTemplate = indexTemplateFile.read()
 indexTemplateFile.close()
