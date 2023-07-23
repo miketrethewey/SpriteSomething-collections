@@ -69,6 +69,9 @@ function add_template(name,attrs) {
           usage = usage.substr(0,usage.length - 3);
         }
         let title = usage.substr(0,1).toUpperCase() + usage.substr(1);
+        if(usage == "maprando") {
+          usage = "MapRando";
+        }
         if(["smz3","varia"].indexOf(usage) > -1) {
           title = title.toUpperCase();
         }
