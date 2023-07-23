@@ -1,0 +1,342 @@
+{
+  "ffmqr": {
+    "bartz": {
+      "filename": "bartz",
+      "author": "Giga Otomia",
+      "name": "Bartz"
+    },
+    "cloudff7": {
+      "filename": "cloudff7",
+      "author": "CtrlxZ",
+      "name": "Cloud"
+    },
+    "faris": {
+      "filename": "faris",
+      "author": "Giga Otomia",
+      "name": "Faris"
+    },
+    "fighter": {
+      "filename": "fighter",
+      "name": "Fighter (PR)"
+    },
+    "gblink": {
+      "filename": "gblink",
+      "name": "Link (GB)"
+    },
+    "neslink": {
+      "filename": "neslink",
+      "author": "Giga Otomia",
+      "name": "Link (NES)"
+    },
+    "ff1ninja": {
+      "filename": "ff1ninja",
+      "author": "CtrlxZ",
+      "name": "Ninja"
+    },
+    "kain": {
+      "filename": "kain",
+      "name": "Kain"
+    },
+    "mogff6": {
+      "filename": "mogff6",
+      "author": "Giga Otomia",
+      "name": "Mog"
+    },
+    "moogle": {
+      "filename": "moogle",
+      "author": "CtrlxZ",
+      "name": "Moogle"
+    },
+    "pcecil": {
+      "filename": "pcecil",
+      "author": "CtrlxZ",
+      "name": "Cecil (Paladin)"
+    },
+    "rydia": {
+      "filename": "rydia",
+      "name": "Rydia"
+    },
+    "subrosian": {
+      "filename": "subrosian",
+      "author": "Giga Otomia",
+      "name": "Subrosian"
+    },
+    "dcecil": {
+      "filename": "dcecil",
+      "author": "CtrlxZ",
+      "name": "Cecil (Dark Knight)"
+    },
+    "blackchocobo": {
+      "filename": "blackchocobo",
+      "author": "CtrlxZ",
+      "name": "Black Chocobo"
+    },
+    "airship": {
+      "filename": "airship",
+      "author": "CtrlxZ",
+      "name": "Airship"
+    },
+    "linklttp": {
+      "filename": "linklttp",
+      "author": "CtrlxZ",
+      "name": "Link (ALTTP)"
+    },
+    "locke": {
+      "filename": "locke",
+      "author": "CtrlxZ",
+      "name": "Locke"
+    },
+    "blackmage": {
+      "filename": "blackmage",
+      "author": "CtrlxZ",
+      "name": "Black Mage"
+    },
+    "aerith": {
+      "filename": "aerith",
+      "author": "CtrlxZ",
+      "name": "Aerith"
+    },
+    "pirate": {
+      "filename": "pirate",
+      "author": "CtrlxZ",
+      "name": "Pirate"
+    },
+    "ultros": {
+      "filename": "ultros",
+      "author": "CtrlxZ",
+      "name": "Ultros"
+    },
+    "tifa": {
+      "filename": "tifa",
+      "author": "CtrlxZ",
+      "name": "Tifa"
+    },
+    "dragon": {
+      "filename": "dragon",
+      "author": "CtrlxZ",
+      "name": "Dragon"
+    },
+    "edge": {
+      "filename": "edge",
+      "author": "CtrlxZ",
+      "name": "Edge"
+    },
+    "fusoya": {
+      "filename": "fusoya",
+      "author": "CtrlxZ",
+      "name": "FuSoYa"
+    },
+    "sabin": {
+      "filename": "sabin",
+      "author": "CtrlxZ",
+      "name": "Sabin"
+    },
+    "kirby": {
+      "filename": "kirby",
+      "author": "CtrlxZ",
+      "name": "Kirby"
+    },
+    "roto": {
+      "filename": "roto",
+      "author": "CtrlxZ",
+      "name": "Roto"
+    },
+    "samus": {
+      "filename": "samus",
+      "author": "CtrlxZ",
+      "name": "Samus"
+    },
+    "cube": {
+      "filename": "cube",
+      "author": "CtrlxZ",
+      "name": "Cube"
+    },
+    "rooks": {
+      "filename": "rooks",
+      "author": "CtrlxZ",
+      "name": "Rooks"
+    },
+    "ray-sots": {
+      "filename": "ray-sots",
+      "author": "CtrlxZ",
+      "name": "Ray"
+    },
+    "core": {
+      "filename": "core",
+      "author": "Darkmoon",
+      "name": "Core"
+    },
+    "nesfighter": {
+      "filename": "nesfighter",
+      "author": "CtrlxZ",
+      "name": "Fighter (NES)"
+    },
+    "ffl2-pc": {
+      "filename": "ffl2-pc",
+      "author": "CtrlxZ",
+      "name": "Human"
+    }
+  },
+  "local": {
+    "001.benjamin": {
+      "name": "Benjamin",
+      "version": 1
+    },
+    "aerith": {
+      "name": "Aerith",
+      "version": 1
+    },
+    "airship": {
+      "name": "Airship",
+      "version": 1
+    },
+    "bartz": {
+      "name": "Bartz",
+      "version": 1
+    },
+    "blackchocobo": {
+      "name": "Black Chocobo",
+      "version": 1
+    },
+    "blackmage": {
+      "name": "Black Mage",
+      "version": 1
+    },
+    "cloudff7": {
+      "name": "Cloud",
+      "version": 1
+    },
+    "core": {
+      "name": "Core",
+      "version": 1
+    },
+    "cube": {
+      "name": "Cube",
+      "version": 1
+    },
+    "dcecil": {
+      "name": "Cecil (Dark Knight)",
+      "version": 1
+    },
+    "dragon": {
+      "name": "Dragon",
+      "version": 1
+    },
+    "edge": {
+      "name": "Edge",
+      "version": 1
+    },
+    "faris": {
+      "name": "Faris",
+      "version": 2
+    },
+    "ff1ninja": {
+      "name": "Ninja",
+      "version": 1
+    },
+    "ffl2-pc": {
+      "name": "Human",
+      "version": 1
+    },
+    "fighter": {
+      "name": "Fighter",
+      "version": 1
+    },
+    "fusoya": {
+      "name": "Fusoya",
+      "version": 1
+    },
+    "gblink": {
+      "name": "GB Link",
+      "version": 1
+    },
+    "guide": {
+      "name": "Guide",
+      "version": 1
+    },
+    "kaeli": {
+      "name": "Kaeli",
+      "version": 1
+    },
+    "kain": {
+      "name": "Kain",
+      "version": 1
+    },
+    "kirby": {
+      "name": "Kirby",
+      "version": 1
+    },
+    "linklttp": {
+      "name": "Link",
+      "version": 1
+    },
+    "locke": {
+      "name": "Locke",
+      "version": 1
+    },
+    "mogff6": {
+      "name": "Mog",
+      "version": 1
+    },
+    "moogle": {
+      "name": "Moogle",
+      "version": 1
+    },
+    "nesfighter": {
+      "name": "Fighter (NES)",
+      "version": 1
+    },
+    "neslink": {
+      "name": "NES Link",
+      "version": 1
+    },
+    "pcecil": {
+      "name": "Cecil (Paladin)",
+      "version": 1
+    },
+    "pirate": {
+      "name": "Pirate",
+      "version": 1
+    },
+    "ray-sots": {
+      "name": "Ray",
+      "version": 1
+    },
+    "rooks": {
+      "name": "Rooks",
+      "version": 1
+    },
+    "roto": {
+      "name": "Roto",
+      "version": 1
+    },
+    "rydia": {
+      "name": "Rydia",
+      "version": 1
+    },
+    "sabin": {
+      "name": "Sabin",
+      "version": 1
+    },
+    "samus": {
+      "name": "Samus",
+      "version": 1
+    },
+    "subrosian": {
+      "name": "Subrosian",
+      "version": 1
+    },
+    "tifa": {
+      "name": "Tifa",
+      "version": 1
+    },
+    "ultros": {
+      "name": "Ultros",
+      "version": 1
+    }
+  },
+  "not-ffmqr": {
+    "kaeli": {}
+  },
+  "not-local": {}
+}

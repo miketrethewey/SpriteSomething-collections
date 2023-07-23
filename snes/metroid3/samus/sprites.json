@@ -132,6 +132,7 @@
       "Arcana"
     ],
     "usage": [
+      "smz3",
       "global"
     ]
   },
@@ -157,9 +158,9 @@
       "Original"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Artist historically unavailable"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "B.O.B.",
@@ -602,9 +603,9 @@
       "NPC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "Artist historically unavailable"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Goku (Child)",
@@ -643,11 +644,11 @@
   {
     "name": "Samus (Super Metroid Opposition)",
     "short_slug": "hack_opposition",
-    "version": 1,
+    "version": 2,
     "slug": "hack_opposition",
-    "filename": "hack_opposition.1.png",
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.1.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.1.png",
+    "filename": "hack_opposition.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.2.png",
     "author": "mccad00",
     "tags": {
       "character": [
@@ -674,9 +675,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "?"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Samus (Super Zero Mission)",
@@ -1126,9 +1127,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "No Dms"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Maria Pollo",
@@ -1898,9 +1899,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "No Dms"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Clocktoberfest Samus",
@@ -2100,9 +2101,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "?"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Fusion v1.0 Type B",
@@ -2138,9 +2139,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "?"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Greyscale Samus",
@@ -2450,9 +2451,9 @@
       "PC"
     ],
     "usage": [
-      "smz3"
-    ],
-    "asked": "?"
+      "smz3",
+      "global"
+    ]
   },
   {
     "name": "Sans",
