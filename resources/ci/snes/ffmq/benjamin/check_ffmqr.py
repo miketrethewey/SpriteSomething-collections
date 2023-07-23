@@ -196,17 +196,17 @@ def check_ffmqr():
     with open(os.path.join(manifestsPath, "slugs.json"), "w+", encoding="utf-8") as slugsFile:
         slugsFile.write(json.dumps(slugs, indent=2))
 
-    importManifestsPath = os.path.join(
-        sheetsPath,
-        "import",
-        "manifests"
-    )
-    if os.path.exists(importManifestsPath):
-        shutil.rmtree(importManifestsPath)
-    shutil.copytree(
-        manifestsPath,
-        importManifestsPath
-    )
+    # importManifestsPath = os.path.join(
+    #     sheetsPath,
+    #     "import",
+    #     "manifests"
+    # )
+    # if os.path.exists(importManifestsPath):
+    #     shutil.rmtree(importManifestsPath)
+    # shutil.copytree(
+    #     manifestsPath,
+    #     importManifestsPath
+    # )
     return slugs["local"]
 
 
