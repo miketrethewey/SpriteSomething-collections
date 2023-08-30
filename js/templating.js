@@ -52,7 +52,8 @@ function add_template(name,attrs) {
     $(tmp).find(".author").text(attrs["author"]);
     $(tmp).find(".sprite-preview")
       .attr({
-        "style": "background-image:url(" + attrs["preview"] + ")"
+        "style": "background-image:url(" + attrs["preview"] + ")",
+        "title": attrs["name"]
       });
     if("usage" in attrs) {
       console.log(attrs["usage"]);
@@ -68,23 +69,27 @@ function add_template(name,attrs) {
         if(no) {
           usage = usage.substr(0,usage.length - 3);
         }
-        let title = usage.substr(0,1).toUpperCase() + usage.substr(1);
         if(usage == "maprando") {
           usage = "MapRando";
         }
+        let title = usage.substr(0,1).toUpperCase() + usage.substr(1);
         if(["smz3","varia"].indexOf(usage) > -1) {
           title = title.toUpperCase();
         }
         if(no) {
           title = "NO " + title;
         }
-        let iconDiv = $("<div>")
-          .attr("class","usage-icon " + "u-" + usage)
-          .attr("title", title);
+        let iconDiv = $("<div>").
+          attr({
+            "class": "usage-icon " + "u-" + usage,
+            "title": title
+        });
         if(no) {
           iconDiv.append($("<img>")
-            .attr("src","../../../icons/usage/no.png")
-          )
+            .attr({
+              "src": "../../../icons/usage/no.png"
+            })
+          );
         }
         $(tmp).find(".sprite").append(iconDiv);
       }

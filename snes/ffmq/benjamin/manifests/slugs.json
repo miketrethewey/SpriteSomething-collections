@@ -54,7 +54,7 @@
     },
     "rydia": {
       "filename": "rydia",
-      "name": "Rydia"
+      "name": "Rydia (Adult)"
     },
     "subrosian": {
       "filename": "subrosian",
@@ -175,6 +175,206 @@
       "filename": "ffl2-pc",
       "author": "CtrlxZ",
       "name": "Human"
+    },
+    "ness": {
+      "filename": "ness",
+      "author": "CtrlxZ",
+      "name": "Ness"
+    },
+    "mario-nes": {
+      "filename": "mario-nes",
+      "author": "CtrlxZ",
+      "name": "Mario"
+    },
+    "pikachu": {
+      "filename": "pikachu",
+      "author": "CtrlxZ",
+      "name": "Pikachu"
+    },
+    "pokemontrainer": {
+      "filename": "pokemontrainer",
+      "author": "CtrlxZ",
+      "name": "Red"
+    },
+    "lenna": {
+      "filename": "lenna",
+      "author": "CtrlxZ",
+      "name": "Lenna"
+    },
+    "onionknight": {
+      "filename": "onionknight",
+      "author": "CtrlxZ",
+      "name": "Onion Knight"
+    },
+    "firion": {
+      "filename": "firion",
+      "author": "CtrlxZ",
+      "name": "Firion"
+    },
+    "firebrand": {
+      "filename": "firebrand",
+      "author": "CtrlxZ",
+      "name": "Firebrand"
+    },
+    "krile": {
+      "filename": "krile",
+      "author": "CtrlxZ",
+      "name": "Krile"
+    },
+    "kefka": {
+      "filename": "kefka",
+      "author": "Giga Otomia",
+      "name": "Kefka"
+    },
+    "zidane": {
+      "filename": "zidane",
+      "author": "CtrlxZ",
+      "name": "Zidane"
+    },
+    "terra": {
+      "filename": "terra",
+      "author": "CtrlxZ",
+      "name": "Terra"
+    },
+    "impff5": {
+      "filename": "impff5",
+      "author": "CtrlxZ",
+      "name": "Imp"
+    },
+    "edward": {
+      "filename": "edward",
+      "author": "CtrlxZ",
+      "name": "Edward"
+    },
+    "golbez": {
+      "filename": "golbez",
+      "author": "CtrlxZ",
+      "name": "Golbez"
+    },
+    "hebinx": {
+      "filename": "hebinx",
+      "author": "Giga Otomia",
+      "name": "Hebinx"
+    },
+    "darthvader": {
+      "filename": "darthvader",
+      "author": "CtrlxZ",
+      "name": "Darth Vader"
+    },
+    "baronguard": {
+      "filename": "baronguard",
+      "author": "CtrlxZ",
+      "name": "Baron Guard"
+    },
+    "dragonclaw": {
+      "filename": "dragonclaw",
+      "author": "CtrlxZ",
+      "name": "Dragon Claw"
+    },
+    "lonewolf": {
+      "filename": "lonewolf",
+      "author": "CtrlxZ",
+      "name": "Lone Wolf"
+    },
+    "coolspot": {
+      "filename": "coolspot",
+      "author": "Darkmoon",
+      "name": "Cool Spot"
+    },
+    "redmage": {
+      "filename": "redmage",
+      "author": "Giga Otomia",
+      "name": "Red Mage"
+    },
+    "whitecolffmq": {
+      "filename": "whitecolffmq",
+      "author": "CtrlxZ",
+      "name": "Cloud Man"
+    },
+    "mini": {
+      "filename": "mini",
+      "author": "CtrlxZ",
+      "name": "Mini"
+    },
+    "namingway": {
+      "filename": "namingway",
+      "author": "CtrlxZ",
+      "name": "Namingway"
+    },
+    "ct-kitty": {
+      "filename": "ct-kitty",
+      "author": "Darkmoon",
+      "name": "Kitty (Beige)"
+    },
+    "ct-kittyadolfo": {
+      "filename": "ct-kittyadolfo",
+      "author": "Darkmoon",
+      "name": "Kitty (Adolfo)"
+    },
+    "ct-kittyellow": {
+      "filename": "ct-kittyellow",
+      "author": "Darkmoon",
+      "name": "Kitty (Yellow)"
+    },
+    "ct-kittytabby": {
+      "filename": "ct-kittytabby",
+      "author": "Darkmoon",
+      "name": "Kitty (Tabby)"
+    },
+    "ct-kittycalico": {
+      "filename": "ct-kittycalico",
+      "author": "Darkmoon",
+      "name": "Kitty (Calico)"
+    },
+    "oldsage": {
+      "filename": "oldsage",
+      "author": "CtrlxZ",
+      "name": "Sage"
+    },
+    "ghido-turtle": {
+      "filename": "ghido-turtle",
+      "author": "CtrlxZ",
+      "name": "Ghido"
+    },
+    "dancer": {
+      "filename": "dancer",
+      "author": "CtrlxZ",
+      "name": "Dancer"
+    },
+    "cid-mq": {
+      "filename": "cid-mq",
+      "author": "CtrlxZ",
+      "name": "Otto"
+    },
+    "cid-4": {
+      "filename": "cid-4",
+      "author": "CtrlxZ",
+      "name": "Cid (FF4)"
+    },
+    "cid-5": {
+      "filename": "cid-5",
+      "author": "CtrlxZ",
+      "name": "Cid (FF5)"
+    },
+    "cid-7": {
+      "filename": "cid-7",
+      "author": "CtrlxZ",
+      "name": "Cid (FF7)"
+    },
+    "exdeath": {
+      "filename": "exdeath",
+      "author": "CtrlxZ",
+      "name": "Exdeath"
+    },
+    "rydia-child": {
+      "filename": "rydia-child",
+      "author": "CtrlxZ",
+      "name": "Rydia (Child)"
+    },
+    "white_mage": {
+      "filename": "white_mage",
+      "author": "RaphielShiraha64",
+      "name": "White Mage"
     }
   },
   "local": {
@@ -338,5 +538,206 @@
   "not-ffmqr": {
     "kaeli": {}
   },
-  "not-local": {}
+  "not-local": {
+    "ness": {
+      "filename": "ness",
+      "author": "CtrlxZ",
+      "name": "Ness"
+    },
+    "mario-nes": {
+      "filename": "mario-nes",
+      "author": "CtrlxZ",
+      "name": "Mario"
+    },
+    "pikachu": {
+      "filename": "pikachu",
+      "author": "CtrlxZ",
+      "name": "Pikachu"
+    },
+    "pokemontrainer": {
+      "filename": "pokemontrainer",
+      "author": "CtrlxZ",
+      "name": "Red"
+    },
+    "lenna": {
+      "filename": "lenna",
+      "author": "CtrlxZ",
+      "name": "Lenna"
+    },
+    "onionknight": {
+      "filename": "onionknight",
+      "author": "CtrlxZ",
+      "name": "Onion Knight"
+    },
+    "firion": {
+      "filename": "firion",
+      "author": "CtrlxZ",
+      "name": "Firion"
+    },
+    "firebrand": {
+      "filename": "firebrand",
+      "author": "CtrlxZ",
+      "name": "Firebrand"
+    },
+    "krile": {
+      "filename": "krile",
+      "author": "CtrlxZ",
+      "name": "Krile"
+    },
+    "kefka": {
+      "filename": "kefka",
+      "author": "Giga Otomia",
+      "name": "Kefka"
+    },
+    "zidane": {
+      "filename": "zidane",
+      "author": "CtrlxZ",
+      "name": "Zidane"
+    },
+    "terra": {
+      "filename": "terra",
+      "author": "CtrlxZ",
+      "name": "Terra"
+    },
+    "impff5": {
+      "filename": "impff5",
+      "author": "CtrlxZ",
+      "name": "Imp"
+    },
+    "edward": {
+      "filename": "edward",
+      "author": "CtrlxZ",
+      "name": "Edward"
+    },
+    "golbez": {
+      "filename": "golbez",
+      "author": "CtrlxZ",
+      "name": "Golbez"
+    },
+    "hebinx": {
+      "filename": "hebinx",
+      "author": "Giga Otomia",
+      "name": "Hebinx"
+    },
+    "darthvader": {
+      "filename": "darthvader",
+      "author": "CtrlxZ",
+      "name": "Darth Vader"
+    },
+    "baronguard": {
+      "filename": "baronguard",
+      "author": "CtrlxZ",
+      "name": "Baron Guard"
+    },
+    "dragonclaw": {
+      "filename": "dragonclaw",
+      "author": "CtrlxZ",
+      "name": "Dragon Claw"
+    },
+    "lonewolf": {
+      "filename": "lonewolf",
+      "author": "CtrlxZ",
+      "name": "Lone Wolf"
+    },
+    "coolspot": {
+      "filename": "coolspot",
+      "author": "Darkmoon",
+      "name": "Cool Spot"
+    },
+    "redmage": {
+      "filename": "redmage",
+      "author": "Giga Otomia",
+      "name": "Red Mage"
+    },
+    "whitecolffmq": {
+      "filename": "whitecolffmq",
+      "author": "CtrlxZ",
+      "name": "Cloud Man"
+    },
+    "mini": {
+      "filename": "mini",
+      "author": "CtrlxZ",
+      "name": "Mini"
+    },
+    "namingway": {
+      "filename": "namingway",
+      "author": "CtrlxZ",
+      "name": "Namingway"
+    },
+    "ct-kitty": {
+      "filename": "ct-kitty",
+      "author": "Darkmoon",
+      "name": "Kitty (Beige)"
+    },
+    "ct-kittyadolfo": {
+      "filename": "ct-kittyadolfo",
+      "author": "Darkmoon",
+      "name": "Kitty (Adolfo)"
+    },
+    "ct-kittyellow": {
+      "filename": "ct-kittyellow",
+      "author": "Darkmoon",
+      "name": "Kitty (Yellow)"
+    },
+    "ct-kittytabby": {
+      "filename": "ct-kittytabby",
+      "author": "Darkmoon",
+      "name": "Kitty (Tabby)"
+    },
+    "ct-kittycalico": {
+      "filename": "ct-kittycalico",
+      "author": "Darkmoon",
+      "name": "Kitty (Calico)"
+    },
+    "oldsage": {
+      "filename": "oldsage",
+      "author": "CtrlxZ",
+      "name": "Sage"
+    },
+    "ghido-turtle": {
+      "filename": "ghido-turtle",
+      "author": "CtrlxZ",
+      "name": "Ghido"
+    },
+    "dancer": {
+      "filename": "dancer",
+      "author": "CtrlxZ",
+      "name": "Dancer"
+    },
+    "cid-mq": {
+      "filename": "cid-mq",
+      "author": "CtrlxZ",
+      "name": "Otto"
+    },
+    "cid-4": {
+      "filename": "cid-4",
+      "author": "CtrlxZ",
+      "name": "Cid (FF4)"
+    },
+    "cid-5": {
+      "filename": "cid-5",
+      "author": "CtrlxZ",
+      "name": "Cid (FF5)"
+    },
+    "cid-7": {
+      "filename": "cid-7",
+      "author": "CtrlxZ",
+      "name": "Cid (FF7)"
+    },
+    "exdeath": {
+      "filename": "exdeath",
+      "author": "CtrlxZ",
+      "name": "Exdeath"
+    },
+    "rydia-child": {
+      "filename": "rydia-child",
+      "author": "CtrlxZ",
+      "name": "Rydia (Child)"
+    },
+    "white_mage": {
+      "filename": "white_mage",
+      "author": "RaphielShiraha64",
+      "name": "White Mage"
+    }
+  }
 }

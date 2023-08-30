@@ -1,9 +1,7 @@
 Slug,T-Character,T-Game,T-Gender,T-Origin,T-Universe,T-Character Type,,U-Commercial,U-SMZ3
 001.link,Link,The Legend of Zelda: A Link to the Past,Male,,Legend of Zelda,PC,,Y,Y
-bob,,The Legend of Zelda: A Link to the Past,Neutral,Randomizer,Legend of Zelda,NPC,,N,Y
-boxes,,,,Original,,Utility,,Y,Y
+bob,Bob,The Legend of Zelda: A Link to the Past,Neutral,Randomizer,Legend of Zelda,NPC,,N,Y
 checkerboxes,,,,Original,,Utility,,Y,Y
-fullboxes,,,,Original,,Utility,,Y,Y
 gridheads,,,,Original,,Utility,,Y,Y
 grids,,,,Original,,Utility,,Y,Y
 itemroulette,,The Legend of Zelda: A Link to the Past,,Randomizer,Legend of Zelda,,,Y,Y

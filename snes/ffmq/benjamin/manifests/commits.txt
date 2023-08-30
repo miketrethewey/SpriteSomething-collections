@@ -1,5 +1,39 @@
 [
   {
+    "sha": "4aaa212b29589717e03bb2b294e5401f2617c295",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-08-14T12:06:15Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-08-14T12:06:15Z"
+      },
+      "message": "Remove extra kitty sprite"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/4aaa212b29589717e03bb2b294e5401f2617c295"
+  },
+  {
+    "sha": "5cb6cbd642b8faad04b71981b22ea77347f6249a",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-08-04T15:08:27Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-08-04T15:08:27Z"
+      },
+      "message": "Add seach box to custom sprites"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/5cb6cbd642b8faad04b71981b22ea77347f6249a"
+  },
+  {
     "sha": "5d9832a471b3ecc9d8623d7e8046f54c1dc1aaeb",
     "commit": {
       "author": {
