@@ -147,7 +147,10 @@ def process_metadata(console,game,sprite):
           else:
             key = k
             subkey = ""
-            if "t-" in k:
+            if "m-" in k:
+              key = "misc"
+              subkey = k.replace("m-","")
+            elif "t-" in k:
               key = "tags"
               subkey = k.replace("t-","")
             elif "u-" in k:
