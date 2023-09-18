@@ -1,0 +1,2854 @@
+[
+  {
+    "name": "Triforce Piece",
+    "short_slug": "001.triforcepiece",
+    "version": 1,
+    "slug": "001.triforcepiece",
+    "filename": "001.triforcepiece.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/001.triforcepiece.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/001.triforcepiece.1.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Triforce Piece"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "origin": [
+        "Randomizer"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Triforce Piece",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Randomizer",
+      "Legend of Zelda",
+      "Item"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "1-Up",
+    "short_slug": "1up",
+    "version": 0,
+    "slug": "1up",
+    "filename": "1up.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/1up.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/1up.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "1-Up"
+      ],
+      "game": [
+        "Super Mario Bros"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "1-Up",
+      "Super Mario Bros",
+      "Neutral",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Acorn",
+    "short_slug": "acorn",
+    "version": 0,
+    "slug": "acorn",
+    "filename": "acorn.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/acorn.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/acorn.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "[B]",
+    "short_slug": "B",
+    "version": 0,
+    "slug": "B",
+    "filename": "B.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/B.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/B.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Banana",
+    "short_slug": "banana",
+    "version": 0,
+    "slug": "banana",
+    "filename": "banana.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/banana.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/banana.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Banana"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Banana",
+      "The Legend of Zelda: Link's Awakening",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Barrel",
+    "short_slug": "barrel",
+    "version": 0,
+    "slug": "barrel",
+    "filename": "barrel.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/barrel.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/barrel.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Barrel"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Barrel",
+      "The Legend of Zelda: Link's Awakening",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Bee",
+    "short_slug": "bee",
+    "version": 0,
+    "slug": "bee",
+    "filename": "bee.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bee.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bee.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Bee"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Bee",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Beer",
+    "short_slug": "beer",
+    "version": 0,
+    "slug": "beer",
+    "filename": "beer.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/beer.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/beer.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Benana",
+    "short_slug": "benana",
+    "version": 0,
+    "slug": "benana",
+    "filename": "benana.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/benana.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/benana.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Bender",
+    "short_slug": "bender",
+    "version": 0,
+    "slug": "bender",
+    "filename": "bender.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bender.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bender.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Bender"
+      ],
+      "game": [
+        "Futurama"
+      ]
+    },
+    "tagsflat": [
+      "Bender",
+      "Futurama"
+    ]
+  },
+  {
+    "name": "Big 20",
+    "short_slug": "big20",
+    "version": 0,
+    "slug": "big20",
+    "filename": "big20.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/big20.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/big20.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Big 20"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Big 20",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Birb",
+    "short_slug": "birb",
+    "version": 0,
+    "slug": "birb",
+    "filename": "birb.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/birb.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/birb.0.png",
+    "author": "Kelpsey",
+    "tags": {
+      "character": [
+        "Birb"
+      ]
+    },
+    "tagsflat": [
+      "Birb"
+    ]
+  },
+  {
+    "name": "Bleh",
+    "short_slug": "bleh",
+    "version": 0,
+    "slug": "bleh",
+    "filename": "bleh.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bleh.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bleh.0.png",
+    "author": "Andy"
+  },
+  {
+    "name": "Bob",
+    "short_slug": "bob",
+    "version": 0,
+    "slug": "bob",
+    "filename": "bob.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bob.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bob.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Bob"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "origin": [
+        "Randomizer"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Bob",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Randomizer",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Bonkers",
+    "short_slug": "bonkers",
+    "version": 0,
+    "slug": "bonkers",
+    "filename": "bonkers.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bonkers.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bonkers.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Boots",
+    "short_slug": "boots",
+    "version": 0,
+    "slug": "boots",
+    "filename": "boots.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/boots.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/boots.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Pegasus Boots"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Pegasus Boots",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Blue Pendant",
+    "short_slug": "bpendant",
+    "version": 0,
+    "slug": "bpendant",
+    "filename": "bpendant.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bpendant.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bpendant.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Blue Pendant"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Blue Pendant",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Bra",
+    "short_slug": "bra",
+    "version": 0,
+    "slug": "bra",
+    "filename": "bra.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bra.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/bra.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Bra"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Bra",
+      "The Legend of Zelda: Link's Awakening",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "short_slug": "broccoli",
+    "version": 0,
+    "slug": "broccoli",
+    "filename": "broccoli.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/broccoli.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/broccoli.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Broccoli"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Broccoli",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Cake",
+    "short_slug": "cake",
+    "version": 0,
+    "slug": "cake",
+    "filename": "cake.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cake.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cake.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Candy",
+    "short_slug": "candy",
+    "version": 0,
+    "slug": "candy",
+    "filename": "candy.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/candy.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/candy.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Cherry Blossom",
+    "short_slug": "cherryblossom",
+    "version": 0,
+    "slug": "cherryblossom",
+    "filename": "cherryblossom.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cherryblossom.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cherryblossom.0.png",
+    "author": "SakuraTsubasa"
+  },
+  {
+    "name": "Chest",
+    "short_slug": "chest",
+    "version": 0,
+    "slug": "chest",
+    "filename": "chest.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/chest.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/chest.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Chest"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "Chest",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Object"
+    ]
+  },
+  {
+    "name": "Circle Key",
+    "short_slug": "circlekey",
+    "version": 0,
+    "slug": "circlekey",
+    "filename": "circlekey.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/circlekey.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/circlekey.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Coffee",
+    "short_slug": "coffee",
+    "version": 0,
+    "slug": "coffee",
+    "filename": "coffee.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/coffee.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/coffee.0.png",
+    "author": "WillardJBradley"
+  },
+  {
+    "name": "Cog",
+    "short_slug": "cog",
+    "version": 0,
+    "slug": "cog",
+    "filename": "cog.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cog.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cog.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Coin",
+    "short_slug": "coin",
+    "version": 0,
+    "slug": "coin",
+    "filename": "coin.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/coin.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/coin.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Coin"
+      ],
+      "game": [
+        "Super Mario Bros"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Coin",
+      "Super Mario Bros",
+      "Neutral",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Common Magic",
+    "short_slug": "commonmagic",
+    "version": 0,
+    "slug": "commonmagic",
+    "filename": "commonmagic.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/commonmagic.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/commonmagic.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "1/1 Magic"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "1/1 Magic",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "short_slug": "cookie",
+    "version": 0,
+    "slug": "cookie",
+    "filename": "cookie.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cookie.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cookie.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Crystal",
+    "short_slug": "crystal",
+    "version": 0,
+    "slug": "crystal",
+    "filename": "crystal.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/crystal.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/crystal.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Crystal"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Crystal",
+      "The Legend of Zelda: A Link to the Past",
+      "Neutral",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Cube",
+    "short_slug": "cube",
+    "version": 0,
+    "slug": "cube",
+    "filename": "cube.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cube.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cube.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Cucco",
+    "short_slug": "cucco",
+    "version": 0,
+    "slug": "cucco",
+    "filename": "cucco.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cucco.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cucco.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Cucco"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Cucco",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Cupcake",
+    "short_slug": "cupcake",
+    "version": 0,
+    "slug": "cupcake",
+    "filename": "cupcake.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cupcake.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/cupcake.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Diedice Dice",
+    "short_slug": "diedicedice",
+    "version": 0,
+    "slug": "diedicedice",
+    "filename": "diedicedice.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/diedicedice.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/diedicedice.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Donut",
+    "short_slug": "donut",
+    "version": 0,
+    "slug": "donut",
+    "filename": "donut.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/donut.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/donut.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Dorito",
+    "short_slug": "dorito",
+    "version": 0,
+    "slug": "dorito",
+    "filename": "dorito.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dorito.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dorito.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Dragon Ball",
+    "short_slug": "dragonball",
+    "version": 0,
+    "slug": "dragonball",
+    "filename": "dragonball.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dragonball.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dragonball.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Dragon Ball"
+      ],
+      "game": [
+        "Dragon Ball"
+      ],
+      "universe": [
+        "Dragon Ball"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Dragon Ball",
+      "Dragon Ball",
+      "Dragon Ball",
+      "Item"
+    ]
+  },
+  {
+    "name": "Dwarf",
+    "short_slug": "dwarf",
+    "version": 0,
+    "slug": "dwarf",
+    "filename": "dwarf.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dwarf.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/dwarf.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Dwarfsmith"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Dwarfsmith",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Error 404",
+    "short_slug": "E404",
+    "version": 0,
+    "slug": "E404",
+    "filename": "E404.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/E404.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/E404.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Earth Badge",
+    "short_slug": "earthbadge",
+    "version": 0,
+    "slug": "earthbadge",
+    "filename": "earthbadge.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/earthbadge.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/earthbadge.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Earth Badge"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Earth Badge",
+      "Pokemon",
+      "Pokemon",
+      "Item"
+    ]
+  },
+  {
+    "name": "Egg",
+    "short_slug": "egg",
+    "version": 0,
+    "slug": "egg",
+    "filename": "egg.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/egg.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/egg.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Yoshi Egg"
+      ],
+      "game": [
+        "Super Mario World"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Yoshi Egg",
+      "Super Mario World",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Chaos Emerald",
+    "short_slug": "emerald",
+    "version": 0,
+    "slug": "emerald",
+    "filename": "emerald.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/emerald.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/emerald.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Chaos Emerald"
+      ],
+      "game": [
+        "Sonic the Hedgehog"
+      ],
+      "universe": [
+        "Sonic the Hedgehog"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Chaos Emerald",
+      "Sonic the Hedgehog",
+      "Sonic the Hedgehog",
+      "Item"
+    ]
+  },
+  {
+    "name": "Fairy",
+    "short_slug": "fairy",
+    "version": 0,
+    "slug": "fairy",
+    "filename": "fairy.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fairy.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fairy.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Fairy"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Fairy",
+      "The Legend of Zelda: A Link to the Past",
+      "Female",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Feather",
+    "short_slug": "feather",
+    "version": 0,
+    "slug": "feather",
+    "filename": "feather.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/feather.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/feather.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Cape Feather"
+      ],
+      "game": [
+        "Super Mario World"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Cape Feather",
+      "Super Mario World",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Fish",
+    "short_slug": "fish",
+    "version": 0,
+    "slug": "fish",
+    "filename": "fish.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fish.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fish.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Fish"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Fish",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Fork",
+    "short_slug": "fork",
+    "version": 0,
+    "slug": "fork",
+    "filename": "fork.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fork.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fork.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Fortress",
+    "short_slug": "fortress",
+    "version": 0,
+    "slug": "fortress",
+    "filename": "fortress.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fortress.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/fortress.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Fortress"
+      ],
+      "game": [
+        "Super Mario World"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "Fortress",
+      "Super Mario World",
+      "Mario Bros",
+      "Object"
+    ]
+  },
+  {
+    "name": "Frog Suit",
+    "short_slug": "frogsuit",
+    "version": 0,
+    "slug": "frogsuit",
+    "filename": "frogsuit.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/frogsuit.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/frogsuit.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Frog Suit"
+      ],
+      "game": [
+        "Super Mario Bros 3"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Frog Suit",
+      "Super Mario Bros 3",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Ghost",
+    "short_slug": "ghost",
+    "version": 0,
+    "slug": "ghost",
+    "filename": "ghost.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ghost.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ghost.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Glaceon",
+    "short_slug": "glaceon",
+    "version": 0,
+    "slug": "glaceon",
+    "filename": "glaceon.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/glaceon.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/glaceon.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Glaceon"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Glaceon",
+      "Pokemon",
+      "Pokemon",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Green Pendant",
+    "short_slug": "gpendant",
+    "version": 0,
+    "slug": "gpendant",
+    "filename": "gpendant.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/gpendant.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/gpendant.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Green Pendant"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Green Pendant",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Ham",
+    "short_slug": "ham",
+    "version": 0,
+    "slug": "ham",
+    "filename": "ham.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ham.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ham.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Honk",
+    "short_slug": "honk",
+    "version": 0,
+    "slug": "honk",
+    "filename": "honk.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/honk.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/honk.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Ice Cream",
+    "short_slug": "icecream",
+    "version": 0,
+    "slug": "icecream",
+    "filename": "icecream.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/icecream.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/icecream.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Ice Rod",
+    "short_slug": "icerod",
+    "version": 0,
+    "slug": "icerod",
+    "filename": "icerod.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/icerod.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/icerod.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Ice Rod"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Ice Rod",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Joy Pendant",
+    "short_slug": "joypendant",
+    "version": 0,
+    "slug": "joypendant",
+    "filename": "joypendant.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/joypendant.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/joypendant.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "JPG",
+    "short_slug": "jpg",
+    "version": 0,
+    "slug": "jpg",
+    "filename": "jpg.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/jpg.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/jpg.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Kinstone",
+    "short_slug": "kinstone",
+    "version": 0,
+    "slug": "kinstone",
+    "filename": "kinstone.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kinstone.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kinstone.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Kirby Map",
+    "short_slug": "kirbymap",
+    "version": 0,
+    "slug": "kirbymap",
+    "filename": "kirbymap.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kirbymap.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kirbymap.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Kirby Music",
+    "short_slug": "kirbymusic",
+    "version": 0,
+    "slug": "kirbymusic",
+    "filename": "kirbymusic.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kirbymusic.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/kirbymusic.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Klonoa Heart",
+    "short_slug": "klonoaheart",
+    "version": 0,
+    "slug": "klonoaheart",
+    "filename": "klonoaheart.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/klonoaheart.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/klonoaheart.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Klonoa Star",
+    "short_slug": "klonoastar",
+    "version": 0,
+    "slug": "klonoastar",
+    "filename": "klonoastar.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/klonoastar.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/klonoastar.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Koopa",
+    "short_slug": "koopa",
+    "version": 0,
+    "slug": "koopa",
+    "filename": "koopa.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/koopa.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/koopa.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Large Dreamstone",
+    "short_slug": "largedreamstone",
+    "version": 0,
+    "slug": "largedreamstone",
+    "filename": "largedreamstone.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/largedreamstone.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/largedreamstone.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Golden Leaf",
+    "short_slug": "leaf",
+    "version": 0,
+    "slug": "leaf",
+    "filename": "leaf.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/leaf.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/leaf.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Golden Leaf"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Golden Leaf",
+      "The Legend of Zelda: Link's Awakening",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Link Doll",
+    "short_slug": "linkdoll",
+    "version": 0,
+    "slug": "linkdoll",
+    "filename": "linkdoll.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/linkdoll.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/linkdoll.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "LinkFace",
+    "short_slug": "linkface",
+    "version": 0,
+    "slug": "linkface",
+    "filename": "linkface.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/linkface.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/linkface.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "LinkFace"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "LinkFace",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Object"
+    ]
+  },
+  {
+    "name": "Lobster",
+    "short_slug": "lobster",
+    "version": 0,
+    "slug": "lobster",
+    "filename": "lobster.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/lobster.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/lobster.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Log",
+    "short_slug": "log",
+    "version": 0,
+    "slug": "log",
+    "filename": "log.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/log.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/log.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Log"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Log",
+      "The Legend of Zelda: Link's Awakening",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Magicite",
+    "short_slug": "magicite",
+    "version": 0,
+    "slug": "magicite",
+    "filename": "magicite.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/magicite.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/magicite.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Green Mail",
+    "short_slug": "mail",
+    "version": 0,
+    "slug": "mail",
+    "filename": "mail.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mail.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mail.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Green Mail"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Green Mail",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Marill",
+    "short_slug": "marill",
+    "version": 0,
+    "slug": "marill",
+    "filename": "marill.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/marill.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/marill.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Marill"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Marill",
+      "Pokemon",
+      "Pokemon",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Marimba",
+    "short_slug": "marimba",
+    "version": 0,
+    "slug": "marimba",
+    "filename": "marimba.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/marimba.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/marimba.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Marimba"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Marimba",
+      "The Legend of Zelda: Link's Awakening",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Master Hand",
+    "short_slug": "masterhand",
+    "version": 0,
+    "slug": "masterhand",
+    "filename": "masterhand.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/masterhand.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/masterhand.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Master Hand"
+      ],
+      "game": [
+        "Super Smash Bros"
+      ],
+      "universe": [
+        "Smash Bros"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Master Hand",
+      "Super Smash Bros",
+      "Smash Bros",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Meat",
+    "short_slug": "meat",
+    "version": 0,
+    "slug": "meat",
+    "filename": "meat.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/meat.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/meat.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Milk",
+    "short_slug": "milk",
+    "version": 0,
+    "slug": "milk",
+    "filename": "milk.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/milk.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/milk.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Missile Tank",
+    "short_slug": "missiletank",
+    "version": 0,
+    "slug": "missiletank",
+    "filename": "missiletank.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/missiletank.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/missiletank.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Missile Tank"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Missile Tank",
+      "Super Metroid",
+      "Metroid",
+      "Item"
+    ]
+  },
+  {
+    "name": "Mega Man Energy Tank",
+    "short_slug": "mmetank",
+    "version": 0,
+    "slug": "mmetank",
+    "filename": "mmetank.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mmetank.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mmetank.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Mega Man Energy Tank"
+      ]
+    },
+    "tagsflat": [
+      "Mega Man Energy Tank"
+    ]
+  },
+  {
+    "name": "Mega Man Extra Life",
+    "short_slug": "mmlife",
+    "version": 0,
+    "slug": "mmlife",
+    "filename": "mmlife.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mmlife.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mmlife.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Mega Man Extra Life"
+      ]
+    },
+    "tagsflat": [
+      "Mega Man Extra Life"
+    ]
+  },
+  {
+    "name": "Mac & Cheese",
+    "short_slug": "mnc",
+    "version": 0,
+    "slug": "mnc",
+    "filename": "mnc.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mnc.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/mnc.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Moon",
+    "short_slug": "moon",
+    "version": 0,
+    "slug": "moon",
+    "filename": "moon.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/moon.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/moon.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "69.0",
+    "short_slug": "n69",
+    "version": 0,
+    "slug": "n69",
+    "filename": "n69.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/n69.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/n69.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Navi",
+    "short_slug": "navi",
+    "version": 0,
+    "slug": "navi",
+    "filename": "navi.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/navi.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/navi.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Navi"
+      ],
+      "game": [
+        "The Legend of Zelda: Ocarina of Time"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Navi",
+      "The Legend of Zelda: Ocarina of Time",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Necklace",
+    "short_slug": "necklace",
+    "version": 0,
+    "slug": "necklace",
+    "filename": "necklace.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/necklace.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/necklace.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Necklace"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Necklace",
+      "The Legend of Zelda: Link's Awakening",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "No Silvers",
+    "short_slug": "noag",
+    "version": 0,
+    "slug": "noag",
+    "filename": "noag.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/noag.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/noag.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "No Bombs",
+    "short_slug": "nobomb",
+    "version": 0,
+    "slug": "nobomb",
+    "filename": "nobomb.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/nobomb.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/nobomb.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Oh My",
+    "short_slug": "ohmy",
+    "version": 0,
+    "slug": "ohmy",
+    "filename": "ohmy.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ohmy.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ohmy.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Opal",
+    "short_slug": "opal",
+    "version": 0,
+    "slug": "opal",
+    "filename": "opal.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/opal.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/opal.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Orb",
+    "short_slug": "orb",
+    "version": 0,
+    "slug": "orb",
+    "filename": "orb.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/orb.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/orb.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Ore",
+    "short_slug": "ore",
+    "version": 0,
+    "slug": "ore",
+    "filename": "ore.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ore.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ore.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Painting",
+    "short_slug": "painting",
+    "version": 0,
+    "slug": "painting",
+    "filename": "painting.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/painting.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/painting.0.png",
+    "author": "Zarby"
+  },
+  {
+    "name": "Parasol",
+    "short_slug": "parasol",
+    "version": 0,
+    "slug": "parasol",
+    "filename": "parasol.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/parasol.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/parasol.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Peach",
+    "short_slug": "peach",
+    "version": 0,
+    "slug": "peach",
+    "filename": "peach.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/peach.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/peach.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Pepsi",
+    "short_slug": "pepsi",
+    "version": 0,
+    "slug": "pepsi",
+    "filename": "pepsi.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pepsi.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pepsi.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Phanphan",
+    "short_slug": "phanphan",
+    "version": 0,
+    "slug": "phanphan",
+    "filename": "phanphan.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/phanphan.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/phanphan.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Phanphan"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Phanphan",
+      "Pokemon",
+      "Pokemon",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "short_slug": "pikachu",
+    "version": 0,
+    "slug": "pikachu",
+    "filename": "pikachu.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pikachu.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pikachu.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Pikachu"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Pikachu",
+      "Pokemon",
+      "Pokemon",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "short_slug": "pizza",
+    "version": 0,
+    "slug": "pizza",
+    "filename": "pizza.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizza.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizza.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Pizza Heart",
+    "short_slug": "pizzaheart",
+    "version": 0,
+    "slug": "pizzaheart",
+    "filename": "pizzaheart.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizzaheart.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizzaheart.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Pizza Slice",
+    "short_slug": "pizzaslice",
+    "version": 0,
+    "slug": "pizzaslice",
+    "filename": "pizzaslice.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizzaslice.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pizzaslice.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Planet",
+    "short_slug": "planet",
+    "version": 0,
+    "slug": "planet",
+    "filename": "planet.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/planet.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/planet.0.png",
+    "author": "Zarby"
+  },
+  {
+    "name": "Pokeball",
+    "short_slug": "pokeball",
+    "version": 0,
+    "slug": "pokeball",
+    "filename": "pokeball.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pokeball.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pokeball.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Pokeball"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Pokeball",
+      "Pokemon",
+      "Pokemon",
+      "Item"
+    ]
+  },
+  {
+    "name": "Pokedoll",
+    "short_slug": "pokeicon",
+    "version": 0,
+    "slug": "pokeicon",
+    "filename": "pokeicon.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pokeicon.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pokeicon.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Pokedoll"
+      ],
+      "game": [
+        "Pokemon"
+      ],
+      "universe": [
+        "Pokemon"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Pokedoll",
+      "Pokemon",
+      "Pokemon",
+      "Item"
+    ]
+  },
+  {
+    "name": "Poop",
+    "short_slug": "poop",
+    "version": 0,
+    "slug": "poop",
+    "filename": "poop.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/poop.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/poop.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Pot",
+    "short_slug": "pot",
+    "version": 0,
+    "slug": "pot",
+    "filename": "pot.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pot.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pot.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Pot"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "Pot",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Object"
+    ]
+  },
+  {
+    "name": "POW Block",
+    "short_slug": "powblock",
+    "version": 0,
+    "slug": "powblock",
+    "filename": "powblock.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/powblock.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/powblock.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "POW Block"
+      ],
+      "game": [
+        "Super Mario Bros 2"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "POW Block",
+      "Super Mario Bros 2",
+      "Mario Bros",
+      "Object"
+    ]
+  },
+  {
+    "name": "Present",
+    "short_slug": "present",
+    "version": 0,
+    "slug": "present",
+    "filename": "present.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/present.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/present.0.png",
+    "author": "Veetorp"
+  },
+  {
+    "name": "Arrghus Puff",
+    "short_slug": "puff",
+    "version": 0,
+    "slug": "puff",
+    "filename": "puff.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/puff.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/puff.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Arrghus Puff"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Arrghus Puff",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "The Pug",
+    "short_slug": "pug",
+    "version": 0,
+    "slug": "pug",
+    "filename": "pug.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pug.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/pug.0.png",
+    "author": "Andy",
+    "tags": {
+      "character": [
+        "The Pug"
+      ]
+    },
+    "tagsflat": [
+      "The Pug"
+    ]
+  },
+  {
+    "name": "Python",
+    "short_slug": "python",
+    "version": 0,
+    "slug": "python",
+    "filename": "python.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/python.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/python.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Question Block",
+    "short_slug": "qblock",
+    "version": 0,
+    "slug": "qblock",
+    "filename": "qblock.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/qblock.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/qblock.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Question Block"
+      ],
+      "game": [
+        "Super Mario Bros"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Object"
+      ]
+    },
+    "tagsflat": [
+      "Question Block",
+      "Super Mario Bros",
+      "Mario Bros",
+      "Object"
+    ]
+  },
+  {
+    "name": "SwagDuck",
+    "short_slug": "quack",
+    "version": 0,
+    "slug": "quack",
+    "filename": "quack.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/quack.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/quack.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "SwagDuck"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "SwagDuck",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Rabite",
+    "short_slug": "rabite",
+    "version": 0,
+    "slug": "rabite",
+    "filename": "rabite.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/rabite.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/rabite.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Reserve Tank",
+    "short_slug": "reservetank",
+    "version": 0,
+    "slug": "reservetank",
+    "filename": "reservetank.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/reservetank.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/reservetank.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Reserve Tank"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Reserve Tank",
+      "Super Metroid",
+      "Metroid",
+      "Item"
+    ]
+  },
+  {
+    "name": "Ring",
+    "short_slug": "ring",
+    "version": 0,
+    "slug": "ring",
+    "filename": "ring.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ring.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/ring.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Ring"
+      ],
+      "game": [
+        "Sonic the Hedgehog"
+      ],
+      "universe": [
+        "Sonic the Hedgehog"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Ring",
+      "Sonic the Hedgehog",
+      "Sonic the Hedgehog",
+      "Item"
+    ]
+  },
+  {
+    "name": "Red Pendant",
+    "short_slug": "rpendant",
+    "version": 0,
+    "slug": "rpendant",
+    "filename": "rpendant.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/rpendant.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/rpendant.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "Red Pendant"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Red Pendant",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Sandwich",
+    "short_slug": "sandwich",
+    "version": 0,
+    "slug": "sandwich",
+    "filename": "sandwich.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/sandwich.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/sandwich.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Sandwich Cookie",
+    "short_slug": "scookie",
+    "version": 0,
+    "slug": "scookie",
+    "filename": "scookie.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/scookie.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/scookie.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Scream",
+    "short_slug": "scream",
+    "version": 0,
+    "slug": "scream",
+    "filename": "scream.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/scream.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/scream.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Screw Attack",
+    "short_slug": "screwattack",
+    "version": 0,
+    "slug": "screwattack",
+    "filename": "screwattack.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/screwattack.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/screwattack.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Screw Attack"
+      ],
+      "game": [
+        "Metroid"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Screw Attack",
+      "Metroid",
+      "Metroid",
+      "Item"
+    ]
+  },
+  {
+    "name": "Shard",
+    "short_slug": "shard",
+    "version": 0,
+    "slug": "shard",
+    "filename": "shard.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shard.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shard.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Lucky Seashell",
+    "short_slug": "shell",
+    "version": 0,
+    "slug": "shell",
+    "filename": "shell.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shell.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shell.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Lucky Seashell"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Lucky Seashell",
+      "The Legend of Zelda: Link's Awakening",
+      "Legend of Zelda",
+      "Item"
+    ]
+  },
+  {
+    "name": "Shine",
+    "short_slug": "shine",
+    "version": 0,
+    "slug": "shine",
+    "filename": "shine.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shine.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/shine.0.png",
+    "author": "?",
+    "tags": {
+      "character": [
+        "Shine Sprite"
+      ],
+      "game": [
+        "Super Mario Sunshine"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Shine Sprite",
+      "Super Mario Sunshine",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Skulltula",
+    "short_slug": "skulltula",
+    "version": 0,
+    "slug": "skulltula",
+    "filename": "skulltula.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/skulltula.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/skulltula.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Small Dreamstone",
+    "short_slug": "smalldreamstone",
+    "version": 0,
+    "slug": "smalldreamstone",
+    "filename": "smalldreamstone.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/smalldreamstone.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/smalldreamstone.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "SNES Logo",
+    "short_slug": "snes",
+    "version": 0,
+    "slug": "snes",
+    "filename": "snes.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snes.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snes.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "SNES Logo"
+      ]
+    },
+    "tagsflat": [
+      "SNES Logo"
+    ]
+  },
+  {
+    "name": "SNES Cartridge",
+    "short_slug": "snescart",
+    "version": 0,
+    "slug": "snescart",
+    "filename": "snescart.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snescart.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snescart.0.png",
+    "author": "Fish_waffle64",
+    "tags": {
+      "character": [
+        "SNES Cartridge"
+      ]
+    },
+    "tagsflat": [
+      "SNES Cartridge"
+    ]
+  },
+  {
+    "name": "SNES Controller",
+    "short_slug": "snescontroller",
+    "version": 0,
+    "slug": "snescontroller",
+    "filename": "snescontroller.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snescontroller.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snescontroller.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "SNES Controller"
+      ]
+    },
+    "tagsflat": [
+      "SNES Controller"
+    ]
+  },
+  {
+    "name": "Snickers",
+    "short_slug": "snickers",
+    "version": 0,
+    "slug": "snickers",
+    "filename": "snickers.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snickers.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/snickers.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Spaghetti",
+    "short_slug": "spaghetti",
+    "version": 0,
+    "slug": "spaghetti",
+    "filename": "spaghetti.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/spaghetti.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/spaghetti.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Squareforce Piece",
+    "short_slug": "squareforce",
+    "version": 0,
+    "slug": "squareforce",
+    "filename": "squareforce.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/squareforce.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/squareforce.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Power Star",
+    "short_slug": "star",
+    "version": 0,
+    "slug": "star",
+    "filename": "star.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/star.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/star.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Power Star"
+      ],
+      "game": [
+        "Super Mario 64"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "Item"
+      ]
+    },
+    "tagsflat": [
+      "Power Star",
+      "Super Mario 64",
+      "Mario Bros",
+      "Item"
+    ]
+  },
+  {
+    "name": "Steamed Ham",
+    "short_slug": "steamedham",
+    "version": 0,
+    "slug": "steamedham",
+    "filename": "steamedham.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/steamedham.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/steamedham.0.png",
+    "author": "JRJathome"
+  },
+  {
+    "name": "Sundrop",
+    "short_slug": "sundrop",
+    "version": 0,
+    "slug": "sundrop",
+    "filename": "sundrop.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/sundrop.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/sundrop.0.png",
+    "author": "Fish_waffle64"
+  },
+  {
+    "name": "Tea",
+    "short_slug": "tea",
+    "version": 0,
+    "slug": "tea",
+    "filename": "tea.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tea.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tea.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Thinking",
+    "short_slug": "thinking",
+    "version": 0,
+    "slug": "thinking",
+    "filename": "thinking.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/thinking.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/thinking.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Tile",
+    "short_slug": "tile",
+    "version": 0,
+    "slug": "tile",
+    "filename": "tile.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tile.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tile.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Tile"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Tile",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Time Code",
+    "short_slug": "timecode",
+    "version": 0,
+    "slug": "timecode",
+    "filename": "timecode.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/timecode.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/timecode.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Top Hat",
+    "short_slug": "tophat",
+    "version": 0,
+    "slug": "tophat",
+    "filename": "tophat.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tophat.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/tophat.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Trash Can",
+    "short_slug": "trashcan",
+    "version": 0,
+    "slug": "trashcan",
+    "filename": "trashcan.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/trashcan.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/trashcan.0.png",
+    "author": "?"
+  },
+  {
+    "name": "Triforce",
+    "short_slug": "triforce",
+    "version": 0,
+    "slug": "triforce",
+    "filename": "triforce.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/triforce.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/triforce.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Twister",
+    "short_slug": "twister",
+    "version": 0,
+    "slug": "twister",
+    "filename": "twister.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/twister.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/twister.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Veetorp",
+    "short_slug": "veetorp",
+    "version": 0,
+    "slug": "veetorp",
+    "filename": "veetorp.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/veetorp.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/veetorp.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Veetorp"
+      ]
+    },
+    "tagsflat": [
+      "Veetorp"
+    ]
+  },
+  {
+    "name": "Vitreous",
+    "short_slug": "vitreous",
+    "version": 0,
+    "slug": "vitreous",
+    "filename": "vitreous.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/vitreous.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/vitreous.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Vitreous"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Vitreous",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Wheelie",
+    "short_slug": "wheelie",
+    "version": 0,
+    "slug": "wheelie",
+    "filename": "wheelie.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/wheelie.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/wheelie.0.png",
+    "author": "kan"
+  },
+  {
+    "name": "Woodfella",
+    "short_slug": "woodfella",
+    "version": 0,
+    "slug": "woodfella",
+    "filename": "woodfella.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/woodfella.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/woodfella.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Woodfella"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Woodfella",
+      "The Legend of Zelda: A Link to the Past",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Yoshi",
+    "short_slug": "yoshi",
+    "version": 0,
+    "slug": "yoshi",
+    "filename": "yoshi.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/yoshi.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/yoshi.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Yoshi"
+      ],
+      "game": [
+        "Super Mario World"
+      ],
+      "universe": [
+        "Mario Bros"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Yoshi",
+      "Super Mario World",
+      "Mario Bros",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Z1 Link",
+    "short_slug": "z1link",
+    "version": 0,
+    "slug": "z1link",
+    "filename": "z1link.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/z1link.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/z1link.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  },
+  {
+    "name": "Z1 Old Man",
+    "short_slug": "z1oldman",
+    "version": 0,
+    "slug": "z1oldman",
+    "filename": "z1oldman.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/z1oldman.0.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/triforcepiece/sheets/z1oldman.0.png",
+    "author": "kan",
+    "tags": {
+      "character": [
+        "Old Man"
+      ],
+      "game": [
+        "The Legend of Zelda"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Old Man",
+      "The Legend of Zelda",
+      "Legend of Zelda",
+      "NPC"
+    ]
+  }
+]

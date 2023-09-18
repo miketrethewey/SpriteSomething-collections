@@ -1,0 +1,6 @@
+.sprite-preview {
+  width:           calc(16px * 4);
+  height:          calc(16px * 4);
+  margin:          auto;
+  image-rendering: pixelated;
+}

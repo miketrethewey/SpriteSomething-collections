@@ -1,14 +1,14 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.251.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.251.png",
-    "version": "31.0.8.x.251"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.class.31.0.8.x.254.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/previews/sprites.31.0.8.x.254.png",
+    "version": "31.0.8.x.254"
   },
   {
-    "name": "Human",
+    "name": "Kaeli",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ffl2-pc.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ffl2-pc.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kaeli.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kaeli.1.png",
     "controlbits": [
       [
         {
@@ -95,16 +95,16 @@
         }
       ]
     ],
-    "author": "CtrlxZ",
+    "author": "Giga Otomia",
     "tags": {
       "character": [
-        "Human"
+        "Kaeli"
       ],
       "game": [
-        "Final Fantasy Legend II"
+        "Final Fantasy Mystic Quest"
       ],
       "gender": [
-        "Neutral"
+        "Female"
       ],
       "universe": [
         "Final Fantasy"
@@ -114,11 +114,115 @@
       ]
     },
     "tagsflat": [
-      "Human",
-      "Final Fantasy Legend II",
-      "Neutral",
+      "Kaeli",
+      "Final Fantasy Mystic Quest",
+      "Female",
       "Final Fantasy",
       "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Guide",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/guide.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/guide.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": true
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Guide"
+      ]
+    },
+    "tagsflat": [
+      "Guide"
     ],
     "usage": [
       "commercial"
@@ -238,6 +342,602 @@
       "Final Fantasy Mystic Quest",
       "Male",
       "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Black Mage",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/blackmage.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/blackmage.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Black Mage"
+      ],
+      "game": [
+        "Final Fantasy"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Black Mage",
+      "Final Fantasy",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Ray",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ray-sots.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ray-sots.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Ray"
+      ],
+      "game": [
+        "Secret of the Stars"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Secret of the Stars"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Ray",
+      "Secret of the Stars",
+      "Male",
+      "Secret of the Stars",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Samus",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/samus.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/samus.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Locke",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/locke.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/locke.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Locke Cole"
+      ],
+      "game": [
+        "Final Fantasy VI"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Locke Cole",
+      "Final Fantasy VI",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Roto",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/roto.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/roto.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": true
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Erdrick"
+      ],
+      "game": [
+        "Dragon Quest III"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Dragon Quest"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Erdrick",
+      "Dragon Quest III",
+      "Male",
+      "Dragon Quest",
       "PC"
     ],
     "usage": [
@@ -365,16 +1065,16 @@
     ]
   },
   {
-    "name": "Guide",
+    "name": "Subrosian",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/guide.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/guide.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/subrosian.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/subrosian.1.png",
     "controlbits": [
       [
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
@@ -458,11 +1158,2423 @@
     "author": "Giga Otomia",
     "tags": {
       "character": [
-        "Guide"
+        "Subrosian"
+      ],
+      "game": [
+        "The Legend of Zelda: Oracle of Seasons"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "NPC"
       ]
     },
     "tagsflat": [
-      "Guide"
+      "Subrosian",
+      "The Legend of Zelda: Oracle of Seasons",
+      "Neutral",
+      "The Legend of Zelda",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Tifa",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/tifa.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/tifa.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Tifa Lockheart"
+      ],
+      "game": [
+        "Final Fantasy VII"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Tifa Lockheart",
+      "Final Fantasy VII",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Kain",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kain.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kain.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Square Enix",
+    "tags": {
+      "character": [
+        "Kain Highwind"
+      ],
+      "game": [
+        "Final Fantasy IV"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Kain Highwind",
+      "Final Fantasy IV",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Fusoya",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/fusoya.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/fusoya.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Fusoya"
+      ],
+      "game": [
+        "Final Fantasy IV"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Fusoya",
+      "Final Fantasy IV",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Mog",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/mogff6.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/mogff6.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Mog"
+      ],
+      "game": [
+        "Final Fantasy VII"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Mog",
+      "Final Fantasy VII",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Airship",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/airship.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/airship.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Airship"
+      ],
+      "game": [
+        "Final Fantasy III"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Airship",
+      "Final Fantasy III",
+      "Neutral",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Faris",
+    "version": 2,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.2.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.2.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Giga Otomia",
+    "tags": {
+      "character": [
+        "Faris Scherwiz"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Faris Scherwiz",
+      "Final Fantasy V",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Ultros",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ultros.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ultros.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Ultros"
+      ],
+      "game": [
+        "Final Fantasy VI"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Ultros",
+      "Final Fantasy VI",
+      "Neutral",
+      "Final Fantasy",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Human",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ffl2-pc.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ffl2-pc.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Human"
+      ],
+      "game": [
+        "Final Fantasy Legend II"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Human",
+      "Final Fantasy Legend II",
+      "Neutral",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Kirby",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kirby.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kirby.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Kirby"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Kirby"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Kirby",
+      "Neutral",
+      "Kirby",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Sabin",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/sabin.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/sabin.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Sabin Rene Figaro"
+      ],
+      "game": [
+        "Final Fantasy VI"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Sabin Rene Figaro",
+      "Final Fantasy VI",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Black Chocobo",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/blackchocobo.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/blackchocobo.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Chocobo"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Chocobo",
+      "Final Fantasy V",
+      "Neutral",
+      "Final Fantasy",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Core",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/core.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/core.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": true
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Darkmoon",
+    "tags": {
+      "character": [
+        "Core"
+      ],
+      "game": [
+        "Lufia II"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Lufia"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Core",
+      "Lufia II",
+      "Neutral",
+      "Lufia",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Fighter (NES)",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/nesfighter.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/nesfighter.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Fighter"
+      ],
+      "game": [
+        "Final Fantasy"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Fighter",
+      "Final Fantasy",
+      "Male",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Rooks",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/rooks.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/rooks.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Rooks"
+      ],
+      "game": [
+        "Arcana"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Arcana"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Rooks",
+      "Arcana",
+      "Male",
+      "Arcana",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Moogle",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/moogle.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/moogle.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": true
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Moogle"
+      ],
+      "game": [
+        "Final Fantasy III"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Moogle",
+      "Final Fantasy III",
+      "Male",
+      "Final Fantasy",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Cube",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/cube.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/cube.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Cube"
+      ],
+      "game": [
+        "Live A Live"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Live A Live"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Cube",
+      "Live A Live",
+      "Male",
+      "Live A Live",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Aerith",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/aerith.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/aerith.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Aerith"
+      ],
+      "game": [
+        "Final Fantasy VII"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Aerith",
+      "Final Fantasy VII",
+      "Female",
+      "Final Fantasy",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/dragon.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/dragon.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Hiryu"
+      ],
+      "game": [
+        "Final Fantasy V"
+      ],
+      "gender": [
+        "Neutral"
+      ],
+      "universe": [
+        "Final Fantasy"
+      ],
+      "character type": [
+        "NPC"
+      ]
+    },
+    "tagsflat": [
+      "Hiryu",
+      "Final Fantasy V",
+      "Neutral",
+      "Final Fantasy",
+      "NPC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "GB Link",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/gblink.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/gblink.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": true
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "Nintendo",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: Link's Awakening"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: Link's Awakening",
+      "Male",
+      "The Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial"
+    ]
+  },
+  {
+    "name": "Link",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/linklttp.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/linklttp.1.png",
+    "controlbits": [
+      [
+        {
+          "id": 0,
+          "name": "Software Bop",
+          "state": false
+        },
+        {
+          "id": 1,
+          "name": "Full Horizontal Flip",
+          "state": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "state": false
+        }
+      ],
+      [
+        {
+          "id": 8,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 11,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 12,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 13,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 14,
+          "name": "",
+          "state": false
+        },
+        {
+          "id": 15,
+          "name": "",
+          "state": false
+        }
+      ]
+    ],
+    "author": "CtrlxZ",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "The Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "The Legend of Zelda",
+      "PC"
     ],
     "usage": [
       "commercial"
@@ -589,16 +3701,16 @@
     ]
   },
   {
-    "name": "Kain",
+    "name": "Cecil (Dark Knight)",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kain.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kain.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/dcecil.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/dcecil.1.png",
     "controlbits": [
       [
         {
           "id": 0,
           "name": "Software Bop",
-          "state": true
+          "state": false
         },
         {
           "id": 1,
@@ -679,10 +3791,10 @@
         }
       ]
     ],
-    "author": "Square Enix",
+    "author": "CtrlxZ",
     "tags": {
       "character": [
-        "Kain Highwind"
+        "Cecil Harvey"
       ],
       "game": [
         "Final Fantasy IV"
@@ -698,7 +3810,7 @@
       ]
     },
     "tagsflat": [
-      "Kain Highwind",
+      "Cecil Harvey",
       "Final Fantasy IV",
       "Male",
       "Final Fantasy",
@@ -829,606 +3941,6 @@
     ]
   },
   {
-    "name": "Link",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/linklttp.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/linklttp.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Link"
-      ],
-      "game": [
-        "The Legend of Zelda: A Link to the Past"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "The Legend of Zelda"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Link",
-      "The Legend of Zelda: A Link to the Past",
-      "Male",
-      "The Legend of Zelda",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Rooks",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/rooks.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/rooks.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Rooks"
-      ],
-      "game": [
-        "Arcana"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Arcana"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Rooks",
-      "Arcana",
-      "Male",
-      "Arcana",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Faris",
-    "version": 2,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/faris.2.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/faris.2.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Giga Otomia",
-    "tags": {
-      "character": [
-        "Faris Scherwiz"
-      ],
-      "game": [
-        "Final Fantasy V"
-      ],
-      "gender": [
-        "Female"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Faris Scherwiz",
-      "Final Fantasy V",
-      "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Subrosian",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/subrosian.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/subrosian.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": true
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Giga Otomia",
-    "tags": {
-      "character": [
-        "Subrosian"
-      ],
-      "game": [
-        "The Legend of Zelda: Oracle of Seasons"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "The Legend of Zelda"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Subrosian",
-      "The Legend of Zelda: Oracle of Seasons",
-      "Neutral",
-      "The Legend of Zelda",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Dragon",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/dragon.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/dragon.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Hiryu"
-      ],
-      "game": [
-        "Final Fantasy V"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Hiryu",
-      "Final Fantasy V",
-      "Neutral",
-      "Final Fantasy",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
     "name": "Bartz",
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/bartz.1.bmp",
@@ -1540,1206 +4052,6 @@
     "tagsflat": [
       "Bartz Klauser",
       "Final Fantasy V",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "GB Link",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/gblink.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/gblink.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": true
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Nintendo",
-    "tags": {
-      "character": [
-        "Link"
-      ],
-      "game": [
-        "The Legend of Zelda: Link's Awakening"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "The Legend of Zelda"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Link",
-      "The Legend of Zelda: Link's Awakening",
-      "Male",
-      "The Legend of Zelda",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Cube",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/cube.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/cube.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Cube"
-      ],
-      "game": [
-        "Live A Live"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Live A Live"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Cube",
-      "Live A Live",
-      "Male",
-      "Live A Live",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Locke",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/locke.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/locke.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Locke Cole"
-      ],
-      "game": [
-        "Final Fantasy VI"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Locke Cole",
-      "Final Fantasy VI",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Cecil (Paladin)",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/pcecil.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/pcecil.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Cecil Harvey"
-      ],
-      "game": [
-        "Final Fantasy IV"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Cecil Harvey",
-      "Final Fantasy IV",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Fighter (NES)",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/nesfighter.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/nesfighter.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Fighter"
-      ],
-      "game": [
-        "Final Fantasy"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Fighter",
-      "Final Fantasy",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Airship",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/airship.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/airship.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Airship"
-      ],
-      "game": [
-        "Final Fantasy III"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Airship",
-      "Final Fantasy III",
-      "Neutral",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Cloud",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/cloudff7.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/cloudff7.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Cloud Strife"
-      ],
-      "game": [
-        "Final Fantasy VII"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Cloud Strife",
-      "Final Fantasy VII",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Tifa",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/tifa.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/tifa.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Tifa Lockheart"
-      ],
-      "game": [
-        "Final Fantasy VII"
-      ],
-      "gender": [
-        "Female"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Tifa Lockheart",
-      "Final Fantasy VII",
-      "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Sabin",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/sabin.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/sabin.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Sabin Rene Figaro"
-      ],
-      "game": [
-        "Final Fantasy VI"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Sabin Rene Figaro",
-      "Final Fantasy VI",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Mog",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/mogff6.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/mogff6.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Giga Otomia",
-    "tags": {
-      "character": [
-        "Mog"
-      ],
-      "game": [
-        "Final Fantasy VII"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Mog",
-      "Final Fantasy VII",
       "Male",
       "Final Fantasy",
       "PC"
@@ -2869,246 +4181,6 @@
     ]
   },
   {
-    "name": "Core",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/core.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/core.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": true
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Darkmoon",
-    "tags": {
-      "character": [
-        "Core"
-      ],
-      "game": [
-        "Lufia II"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Lufia"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Core",
-      "Lufia II",
-      "Neutral",
-      "Lufia",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Roto",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/roto.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/roto.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": true
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Erdrick"
-      ],
-      "game": [
-        "Dragon Quest III"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Dragon Quest"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Erdrick",
-      "Dragon Quest III",
-      "Male",
-      "Dragon Quest",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
     "name": "Fighter",
     "version": 1,
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/fighter.1.bmp",
@@ -3229,10 +4301,10 @@
     ]
   },
   {
-    "name": "Aerith",
+    "name": "Cloud",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/aerith.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/aerith.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/cloudff7.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/cloudff7.1.png",
     "controlbits": [
       [
         {
@@ -3322,13 +4394,13 @@
     "author": "CtrlxZ",
     "tags": {
       "character": [
-        "Aerith"
+        "Cloud Strife"
       ],
       "game": [
         "Final Fantasy VII"
       ],
       "gender": [
-        "Female"
+        "Male"
       ],
       "universe": [
         "Final Fantasy"
@@ -3338,248 +4410,8 @@
       ]
     },
     "tagsflat": [
-      "Aerith",
+      "Cloud Strife",
       "Final Fantasy VII",
-      "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Ultros",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ultros.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ultros.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Ultros"
-      ],
-      "game": [
-        "Final Fantasy VI"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Ultros",
-      "Final Fantasy VI",
-      "Neutral",
-      "Final Fantasy",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Black Mage",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/blackmage.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/blackmage.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Black Mage"
-      ],
-      "game": [
-        "Final Fantasy"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Black Mage",
-      "Final Fantasy",
       "Male",
       "Final Fantasy",
       "PC"
@@ -3589,372 +4421,16 @@
     ]
   },
   {
-    "name": "Moogle",
+    "name": "Cecil (Paladin)",
     "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/moogle.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/moogle.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/pcecil.1.bmp",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/pcecil.1.png",
     "controlbits": [
       [
         {
           "id": 0,
           "name": "Software Bop",
           "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Moogle"
-      ],
-      "game": [
-        "Final Fantasy III"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Moogle",
-      "Final Fantasy III",
-      "Male",
-      "Final Fantasy",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Kirby",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kirby.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kirby.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Kirby"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Kirby"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Kirby",
-      "Neutral",
-      "Kirby",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Black Chocobo",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/blackchocobo.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/blackchocobo.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Chocobo"
-      ],
-      "game": [
-        "Final Fantasy V"
-      ],
-      "gender": [
-        "Neutral"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "NPC"
-      ]
-    },
-    "tagsflat": [
-      "Chocobo",
-      "Final Fantasy V",
-      "Neutral",
-      "Final Fantasy",
-      "NPC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Cecil (Dark Knight)",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/dcecil.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/dcecil.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
         },
         {
           "id": 1,
@@ -4058,482 +4534,6 @@
       "Final Fantasy IV",
       "Male",
       "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Kaeli",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/kaeli.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/kaeli.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "Giga Otomia",
-    "tags": {
-      "character": [
-        "Kaeli"
-      ],
-      "game": [
-        "Final Fantasy Mystic Quest"
-      ],
-      "gender": [
-        "Female"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Kaeli",
-      "Final Fantasy Mystic Quest",
-      "Female",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Samus",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/samus.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/samus.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Samus"
-      ],
-      "gender": [
-        "Female"
-      ],
-      "universe": [
-        "Metroid"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Samus",
-      "Female",
-      "Metroid",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Fusoya",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/fusoya.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/fusoya.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": false
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Fusoya"
-      ],
-      "game": [
-        "Final Fantasy IV"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Final Fantasy"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Fusoya",
-      "Final Fantasy IV",
-      "Male",
-      "Final Fantasy",
-      "PC"
-    ],
-    "usage": [
-      "commercial"
-    ]
-  },
-  {
-    "name": "Ray",
-    "version": 1,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/ray-sots.1.bmp",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/ffmq/benjamin/sheets/thumbs/ray-sots.1.png",
-    "controlbits": [
-      [
-        {
-          "id": 0,
-          "name": "Software Bop",
-          "state": true
-        },
-        {
-          "id": 1,
-          "name": "Full Horizontal Flip",
-          "state": false
-        },
-        {
-          "id": 2,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 3,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 4,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 5,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 6,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 7,
-          "name": "",
-          "state": false
-        }
-      ],
-      [
-        {
-          "id": 8,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 9,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 10,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 11,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 12,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 13,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 14,
-          "name": "",
-          "state": false
-        },
-        {
-          "id": 15,
-          "name": "",
-          "state": false
-        }
-      ]
-    ],
-    "author": "CtrlxZ",
-    "tags": {
-      "character": [
-        "Ray"
-      ],
-      "game": [
-        "Secret of the Stars"
-      ],
-      "gender": [
-        "Male"
-      ],
-      "universe": [
-        "Secret of the Stars"
-      ],
-      "character type": [
-        "PC"
-      ]
-    },
-    "tagsflat": [
-      "Ray",
-      "Secret of the Stars",
-      "Male",
-      "Secret of the Stars",
       "PC"
     ],
     "usage": [

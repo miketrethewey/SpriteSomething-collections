@@ -1,18 +1,18 @@
 .u-no {
   background-image: url('../icons/usage/no.png');
 }
+.u-commercial {
+  background-image: url('../icons/usage/commercial.png');
+}
+.u-varia {
+  background-image: url('../icons/usage/varia.png');
+}
+.u-smz3 {
+  background-image: url('../icons/usage/smz3.png');
+}
 .u-global {
   background-image: url('../icons/usage/global.png');
 }
 .u-maprando {
   background-image: url('../icons/usage/maprando.png');
-}
-.u-commercial {
-  background-image: url('../icons/usage/commercial.png');
-}
-.u-smz3 {
-  background-image: url('../icons/usage/smz3.png');
-}
-.u-varia {
-  background-image: url('../icons/usage/varia.png');
 }
