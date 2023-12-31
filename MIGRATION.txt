@@ -1,0 +1,8 @@
+README.md
+js/guts.js
+meta/manifests/ci.json
+**/sprites.json
+resources/**/*.py
+resources/ci/snes/ffmq/**/check_ffmqr.py
+**/layer-files.json
+**/README.md
