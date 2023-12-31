@@ -1,5 +1,73 @@
 [
   {
+    "sha": "a342a6f432b51c5675484268cec2e53e9cad3e7f",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-28T14:03:52Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-28T14:03:52Z"
+      },
+      "message": "Update sprites"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/a342a6f432b51c5675484268cec2e53e9cad3e7f"
+  },
+  {
+    "sha": "585241418e1da5096abff6011f2df4b3c92158e6",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-18T15:23:49Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-18T15:23:49Z"
+      },
+      "message": "Better handling of loops in spoilers file"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/585241418e1da5096abff6011f2df4b3c92158e6"
+  },
+  {
+    "sha": "e5a29aac606ac3bf00fd9cd315e66436c09a9cb5",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-02T01:15:23Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-11-02T01:15:23Z"
+      },
+      "message": "Fix gear on level up"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/e5a29aac606ac3bf00fd9cd315e66436c09a9cb5"
+  },
+  {
+    "sha": "56a102f9008e7a13a7bc0888589d88a5f1f2c6c6",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-10-31T03:13:27Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2023-10-31T03:13:27Z"
+      },
+      "message": "Update Custom Sprites"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/56a102f9008e7a13a7bc0888589d88a5f1f2c6c6"
+  },
+  {
     "sha": "4aaa212b29589717e03bb2b294e5401f2617c295",
     "commit": {
       "author": {

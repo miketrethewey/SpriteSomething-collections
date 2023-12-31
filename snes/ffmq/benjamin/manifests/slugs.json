@@ -276,11 +276,6 @@
       "author": "CtrlxZ",
       "name": "Lone Wolf"
     },
-    "coolspot": {
-      "filename": "coolspot",
-      "author": "Darkmoon",
-      "name": "Cool Spot"
-    },
     "redmage": {
       "filename": "redmage",
       "author": "Giga Otomia",
@@ -375,6 +370,86 @@
       "filename": "white_mage",
       "author": "RaphielShiraha64",
       "name": "White Mage"
+    },
+    "astronaut-lal": {
+      "filename": "astronaut-lal",
+      "author": "CtrlxZ",
+      "name": "Astronaut"
+    },
+    "thief-ff1": {
+      "filename": "thief-ff1",
+      "author": "CtrlxZ",
+      "name": "Thief"
+    },
+    "yang": {
+      "filename": "yang",
+      "author": "CtrlxZ",
+      "name": "Yang"
+    },
+    "tonberry": {
+      "filename": "tonberry",
+      "author": "CtrlxZ",
+      "name": "Tonberry"
+    },
+    "rosa": {
+      "filename": "rosa",
+      "author": "CtrlxZ",
+      "name": "Rosa"
+    },
+    "bomb-ff4": {
+      "filename": "bomb-ff4",
+      "author": "CtrlxZ",
+      "name": "Bomb"
+    },
+    "arion": {
+      "filename": "arion",
+      "author": "CtrlxZ",
+      "name": "Arion"
+    },
+    "spencer": {
+      "filename": "spencer",
+      "author": "CtrlxZ",
+      "name": "Spencer"
+    },
+    "calebegg": {
+      "filename": "calebegg",
+      "author": "Giga Otomia",
+      "name": "Egg"
+    },
+    "x10mascot": {
+      "filename": "x10mascot",
+      "author": "x10power",
+      "name": "x10power"
+    },
+    "bunjamin": {
+      "filename": "bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (Brown)"
+    },
+    "pink_bunjamin": {
+      "filename": "pink_bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (Pink)"
+    },
+    "white_bunjamin": {
+      "filename": "white_bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (White)"
+    },
+    "pazuzu": {
+      "filename": "pazuzu",
+      "author": "Razdarac",
+      "name": "Pazuzu"
+    },
+    "zuh": {
+      "filename": "zuh",
+      "author": "Razdarac",
+      "name": "Zuh"
+    },
+    "dino": {
+      "filename": "dino",
+      "author": "Razdarac",
+      "name": "Dino"
     }
   },
   "local": {
@@ -639,11 +714,6 @@
       "author": "CtrlxZ",
       "name": "Lone Wolf"
     },
-    "coolspot": {
-      "filename": "coolspot",
-      "author": "Darkmoon",
-      "name": "Cool Spot"
-    },
     "redmage": {
       "filename": "redmage",
       "author": "Giga Otomia",
@@ -738,6 +808,86 @@
       "filename": "white_mage",
       "author": "RaphielShiraha64",
       "name": "White Mage"
+    },
+    "astronaut-lal": {
+      "filename": "astronaut-lal",
+      "author": "CtrlxZ",
+      "name": "Astronaut"
+    },
+    "thief-ff1": {
+      "filename": "thief-ff1",
+      "author": "CtrlxZ",
+      "name": "Thief"
+    },
+    "yang": {
+      "filename": "yang",
+      "author": "CtrlxZ",
+      "name": "Yang"
+    },
+    "tonberry": {
+      "filename": "tonberry",
+      "author": "CtrlxZ",
+      "name": "Tonberry"
+    },
+    "rosa": {
+      "filename": "rosa",
+      "author": "CtrlxZ",
+      "name": "Rosa"
+    },
+    "bomb-ff4": {
+      "filename": "bomb-ff4",
+      "author": "CtrlxZ",
+      "name": "Bomb"
+    },
+    "arion": {
+      "filename": "arion",
+      "author": "CtrlxZ",
+      "name": "Arion"
+    },
+    "spencer": {
+      "filename": "spencer",
+      "author": "CtrlxZ",
+      "name": "Spencer"
+    },
+    "calebegg": {
+      "filename": "calebegg",
+      "author": "Giga Otomia",
+      "name": "Egg"
+    },
+    "x10mascot": {
+      "filename": "x10mascot",
+      "author": "x10power",
+      "name": "x10power"
+    },
+    "bunjamin": {
+      "filename": "bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (Brown)"
+    },
+    "pink_bunjamin": {
+      "filename": "pink_bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (Pink)"
+    },
+    "white_bunjamin": {
+      "filename": "white_bunjamin",
+      "author": "Joat",
+      "name": "Bunjamin (White)"
+    },
+    "pazuzu": {
+      "filename": "pazuzu",
+      "author": "Razdarac",
+      "name": "Pazuzu"
+    },
+    "zuh": {
+      "filename": "zuh",
+      "author": "Razdarac",
+      "name": "Zuh"
+    },
+    "dino": {
+      "filename": "dino",
+      "author": "Razdarac",
+      "name": "Dino"
     }
   }
 }

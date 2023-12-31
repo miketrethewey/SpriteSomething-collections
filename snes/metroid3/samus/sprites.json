@@ -1710,6 +1710,47 @@
     ]
   },
   {
+    "name": "Agender Samus",
+    "short_slug": "samus_agender",
+    "version": 1,
+    "slug": "samus_agender",
+    "filename": "samus_agender.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_agender.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_agender.1.png",
+    "author": "Abyss",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "origin": [
+        "Palette-swap"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Palette-swap",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "global"
+    ]
+  },
+  {
     "name": "AroAce Samus",
     "short_slug": "samus_aroace",
     "version": 1,
