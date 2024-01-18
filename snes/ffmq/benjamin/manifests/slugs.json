@@ -450,6 +450,46 @@
       "filename": "dino",
       "author": "Razdarac",
       "name": "Dino"
+    },
+    "sora": {
+      "filename": "sora",
+      "author": "Razdarac",
+      "name": "Sora"
+    },
+    "freedy_fazbear": {
+      "filename": "freedy_fazbear",
+      "author": "Razdarac",
+      "name": "Freddy"
+    },
+    "roan": {
+      "filename": "roan",
+      "author": "Razdarac",
+      "name": "Roan"
+    },
+    "quote": {
+      "filename": "quote",
+      "author": "Giga Otomia",
+      "name": "Quote"
+    },
+    "snolid": {
+      "filename": "snolid",
+      "author": "NAC",
+      "name": "Snolid Ice"
+    },
+    "bluelizard": {
+      "filename": "bluelizard",
+      "author": "Razdarac",
+      "name": "Blue Lizard"
+    },
+    "sveta_human": {
+      "filename": "sveta_human",
+      "author": "Razdarac",
+      "name": "Sveta (Human)"
+    },
+    "sveta_wolf": {
+      "filename": "sveta_wolf",
+      "author": "Razdarac",
+      "name": "Sveta (Wolf)"
     }
   },
   "local": {
@@ -888,6 +928,46 @@
       "filename": "dino",
       "author": "Razdarac",
       "name": "Dino"
+    },
+    "sora": {
+      "filename": "sora",
+      "author": "Razdarac",
+      "name": "Sora"
+    },
+    "freedy_fazbear": {
+      "filename": "freedy_fazbear",
+      "author": "Razdarac",
+      "name": "Freddy"
+    },
+    "roan": {
+      "filename": "roan",
+      "author": "Razdarac",
+      "name": "Roan"
+    },
+    "quote": {
+      "filename": "quote",
+      "author": "Giga Otomia",
+      "name": "Quote"
+    },
+    "snolid": {
+      "filename": "snolid",
+      "author": "NAC",
+      "name": "Snolid Ice"
+    },
+    "bluelizard": {
+      "filename": "bluelizard",
+      "author": "Razdarac",
+      "name": "Blue Lizard"
+    },
+    "sveta_human": {
+      "filename": "sveta_human",
+      "author": "Razdarac",
+      "name": "Sveta (Human)"
+    },
+    "sveta_wolf": {
+      "filename": "sveta_wolf",
+      "author": "Razdarac",
+      "name": "Sveta (Wolf)"
     }
   }
 }

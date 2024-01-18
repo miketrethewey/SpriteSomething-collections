@@ -235,6 +235,31 @@
     ]
   },
   {
+    "name": "Buffed Eggplant",
+    "short_slug": "buffed_eggplant",
+    "version": 2,
+    "slug": "buffed_eggplant",
+    "filename": "buffed_eggplant.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/buffed_eggplant.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/buffed_eggplant.2.png",
+    "author": "Fredz00z",
+    "tags": {
+      "character": [
+        "Eggplant"
+      ],
+      "gender": [
+        "Neutral"
+      ]
+    },
+    "tagsflat": [
+      "Eggplant",
+      "Neutral"
+    ],
+    "usage": [
+      "global"
+    ]
+  },
+  {
     "name": "Buffed Kirby",
     "short_slug": "buffed_kirby",
     "version": 1,
@@ -269,6 +294,35 @@
     ],
     "usage": [
       "smz3",
+      "global"
+    ]
+  },
+  {
+    "name": "Buffed Pug",
+    "short_slug": "buffed_pug",
+    "version": 2,
+    "slug": "buffed_pug",
+    "filename": "buffed_pug.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/buffed_pug.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/buffed_pug.2.png",
+    "author": "Fredz00z",
+    "tags": {
+      "character": [
+        "The Pug"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "origin": [
+        "Original"
+      ]
+    },
+    "tagsflat": [
+      "The Pug",
+      "Male",
+      "Original"
+    ],
+    "usage": [
       "global"
     ]
   },
@@ -1726,7 +1780,7 @@
         "Super Metroid"
       ],
       "gender": [
-        "Female"
+        "Agender"
       ],
       "origin": [
         "Palette-swap"
@@ -1741,7 +1795,7 @@
     "tagsflat": [
       "Samus",
       "Super Metroid",
-      "Female",
+      "Agender",
       "Palette-swap",
       "Metroid",
       "PC"

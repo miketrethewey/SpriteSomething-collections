@@ -1,5 +1,22 @@
 [
   {
+    "sha": "e6015318d0ce55b896a2052ff549e62450e7d41c",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-01-02T14:18:27Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-01-02T14:18:27Z"
+      },
+      "message": "Update Sprites/Information section"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/e6015318d0ce55b896a2052ff549e62450e7d41c"
+  },
+  {
     "sha": "a342a6f432b51c5675484268cec2e53e9cad3e7f",
     "commit": {
       "author": {
