@@ -4,31 +4,35 @@
     "path": "gridheads.1.zspr"
   },
   {
-    "title": "Swatchy",
-    "path": "swatchy.2.zspr"
-  },
-  {
-    "title": "Link",
-    "path": "001.link.1.zspr"
-  },
-  {
-    "title": "Stick Man",
-    "path": "stick_man.1.zspr"
-  },
-  {
     "title": "Grids",
     "path": "grids.1.zspr"
-  },
-  {
-    "title": "Bob",
-    "path": "bob.2.zspr"
   },
   {
     "title": "Item Roulette",
     "path": "itemroulette.1.zspr"
   },
   {
+    "title": "Swatchy",
+    "path": "swatchy.2.zspr"
+  },
+  {
     "title": "Checkerboxes",
     "path": "checkerboxes.1.zspr"
+  },
+  {
+    "title": "Link",
+    "path": "001.link.1.zspr"
+  },
+  {
+    "title": "Four Swords Link (Split)",
+    "path": "4slink_split.zspr"
+  },
+  {
+    "title": "Bob",
+    "path": "bob.2.zspr"
+  },
+  {
+    "title": "Stick Man",
+    "path": "stick_man.1.zspr"
   }
 ]

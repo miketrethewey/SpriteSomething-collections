@@ -114,11 +114,11 @@
   {
     "name": "Arcana",
     "short_slug": "arcana",
-    "version": 1,
+    "version": 2,
     "slug": "arcana",
-    "filename": "arcana.1.png",
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.1.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.1.png",
+    "filename": "arcana.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/arcana.2.png",
     "author": "MM102",
     "tags": {
       "character": [
@@ -226,6 +226,28 @@
     "usage": [
       "global"
     ]
+  },
+  {
+    "name": "Bruno",
+    "short_slug": "bruno",
+    "version": 2,
+    "slug": "bruno",
+    "filename": "bruno.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/bruno.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/bruno.2.png",
+    "author": "SunWuFarmer/Looking4Giants",
+    "tags": {
+      "game": [
+        "Power Piggs of the Dark Age"
+      ]
+    },
+    "tagsflat": [
+      "Power Piggs of the Dark Age"
+    ],
+    "usage": [
+      "maprando"
+    ],
+    "asked": "?"
   },
   {
     "name": "Buffed Eggplant",
@@ -428,6 +450,62 @@
     "usage": [
       "global"
     ]
+  },
+  {
+    "name": "Charizard",
+    "short_slug": "charizard",
+    "version": 1,
+    "slug": "charizard",
+    "filename": "charizard.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/charizard.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/charizard.1.png",
+    "author": "Charmander106",
+    "tags": {
+      "universe": [
+        "Pokemon"
+      ]
+    },
+    "tagsflat": [
+      "Pokemon"
+    ],
+    "usage": [
+      "maprando"
+    ],
+    "asked": "?"
+  },
+  {
+    "name": "Charlotte Aran",
+    "short_slug": "charlotte_aran",
+    "version": 1,
+    "slug": "charlotte_aran",
+    "filename": "charlotte_aran.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/charlotte_aran.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/charlotte_aran.1.png",
+    "author": "Jonacrab",
+    "tags": {
+      "character": [
+        "Charlotte Aulin"
+      ],
+      "game": [
+        "Castlevania: Portrait of Ruin"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Castlevania"
+      ]
+    },
+    "tagsflat": [
+      "Charlotte Aulin",
+      "Castlevania: Portrait of Ruin",
+      "Female",
+      "Castlevania"
+    ],
+    "usage": [
+      "maprando"
+    ],
+    "asked": "?"
   },
   {
     "name": "Crewmate",
@@ -716,6 +794,43 @@
     ]
   },
   {
+    "name": "Samus (Super Metroid Ascent)",
+    "short_slug": "hack_ascent",
+    "version": 1,
+    "slug": "hack_ascent",
+    "filename": "hack_ascent.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_ascent.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_ascent.1.png",
+    "author": "Benox",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "global"
+    ]
+  },
+  {
     "name": "Samus (Super Metroid Opposition)",
     "short_slug": "hack_opposition",
     "version": 2,
@@ -724,6 +839,125 @@
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.2.png",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_opposition.2.png",
     "author": "mccad00",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "global"
+    ]
+  },
+  {
+    "name": "Samus (Super Metroid Redesign)",
+    "short_slug": "hack_redesign",
+    "version": 1,
+    "slug": "hack_redesign",
+    "filename": "hack_redesign.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_redesign.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_redesign.1.png",
+    "author": "Drewseph",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "global"
+    ],
+    "misc": {
+      "note": [
+        "Author hates it and thinks it's ugly"
+      ]
+    },
+    "miscflat": [
+      "Author hates it and thinks it's ugly"
+    ]
+  },
+  {
+    "name": "Samus (Super Metroid Redesign: Axeil Edition)",
+    "short_slug": "hack_redesign-axeil",
+    "version": 1,
+    "slug": "hack_redesign-axeil",
+    "filename": "hack_redesign-axeil.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_redesign-axeil.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_redesign-axeil.1.png",
+    "author": "Drewseph",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "global"
+    ]
+  },
+  {
+    "name": "Samus (Super Duper Metroid)",
+    "short_slug": "hack_super-duper",
+    "version": 1,
+    "slug": "hack_super-duper",
+    "filename": "hack_super-duper.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_super-duper.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/hack_super-duper.1.png",
+    "author": "Metaquarius/Daltone",
     "tags": {
       "character": [
         "Samus"
@@ -900,6 +1134,40 @@
     "usage": [
       "global"
     ]
+  },
+  {
+    "name": "Katt Aran",
+    "short_slug": "katt_aran",
+    "version": 1,
+    "slug": "katt_aran",
+    "filename": "katt_aran.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/katt_aran.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/katt_aran.1.png",
+    "author": "Jonacrab",
+    "tags": {
+      "character": [
+        "Katt"
+      ],
+      "game": [
+        "Breath of Fire II"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Breath of Fire"
+      ]
+    },
+    "tagsflat": [
+      "Katt",
+      "Breath of Fire II",
+      "Female",
+      "Breath of Fire"
+    ],
+    "usage": [
+      "maprando"
+    ],
+    "asked": "?"
   },
   {
     "name": "Kirby",
@@ -1621,11 +1889,11 @@
   {
     "name": "Protogen Laso",
     "short_slug": "protogen_laso",
-    "version": 1,
+    "version": 2,
     "slug": "protogen_laso",
-    "filename": "protogen_laso.1.png",
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/protogen_laso.1.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/protogen_laso.1.png",
+    "filename": "protogen_laso.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/protogen_laso.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/protogen_laso.2.png",
     "author": "Purple peak1",
     "tags": {
       "character": [
@@ -1796,13 +2064,13 @@
     ]
   },
   {
-    "name": "AroAce Samus",
+    "name": "Aroace Samus",
     "short_slug": "samus_aroace",
-    "version": 1,
+    "version": 4,
     "slug": "samus_aroace",
-    "filename": "samus_aroace.1.png",
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_aroace.1.png",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_aroace.1.png",
+    "filename": "samus_aroace.4.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_aroace.4.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_aroace.4.png",
     "author": "mm2nescartridge",
     "tags": {
       "character": [
@@ -2342,6 +2610,43 @@
     ]
   },
   {
+    "name": "Samus Maid",
+    "short_slug": "samus_maid",
+    "version": 1,
+    "slug": "samus_maid",
+    "filename": "samus_maid.1.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_maid.1.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/samus_maid.1.png",
+    "author": "Ouily644",
+    "tags": {
+      "character": [
+        "Samus"
+      ],
+      "game": [
+        "Super Metroid"
+      ],
+      "gender": [
+        "Female"
+      ],
+      "universe": [
+        "Metroid"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Samus",
+      "Super Metroid",
+      "Female",
+      "Metroid",
+      "PC"
+    ],
+    "usage": [
+      "maprando"
+    ]
+  },
+  {
     "name": "Mini Samus",
     "short_slug": "samus_mini",
     "version": 1,
@@ -2362,13 +2667,17 @@
       ],
       "universe": [
         "Metroid"
+      ],
+      "character type": [
+        "PC"
       ]
     },
     "tagsflat": [
       "Samus",
       "Super Metroid",
       "Female",
-      "Metroid"
+      "Metroid",
+      "PC"
     ],
     "usage": [
       "global"
@@ -2896,6 +3205,28 @@
     "usage": [
       "global"
     ]
+  },
+  {
+    "name": "Thomcrow Corbin",
+    "short_slug": "thomcrow_corbin",
+    "version": 2,
+    "slug": "thomcrow_corbin",
+    "filename": "thomcrow_corbin.2.png",
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/thomcrow_corbin.2.png",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/metroid3/samus/sheets/thomcrow_corbin.2.png",
+    "author": "Thomcrow",
+    "tags": {
+      "origin": [
+        "Original"
+      ]
+    },
+    "tagsflat": [
+      "Original"
+    ],
+    "usage": [
+      "maprando"
+    ],
+    "asked": "?"
   },
   {
     "name": "Wario",

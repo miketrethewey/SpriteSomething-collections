@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.270.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.270.png",
-    "version": "31.0.8.x.270"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.277.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.277.png",
+    "version": "31.0.8.x.277"
   },
   {
     "name": "Link",
@@ -13,6 +13,44 @@
     "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/001.link.1.zspr",
     "filename": "001.link.1.zspr",
     "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/001.link.1.png",
+    "tags": {
+      "character": [
+        "Link"
+      ],
+      "game": [
+        "The Legend of Zelda: A Link to the Past"
+      ],
+      "gender": [
+        "Male"
+      ],
+      "universe": [
+        "Legend of Zelda"
+      ],
+      "character type": [
+        "PC"
+      ]
+    },
+    "tagsflat": [
+      "Link",
+      "The Legend of Zelda: A Link to the Past",
+      "Male",
+      "Legend of Zelda",
+      "PC"
+    ],
+    "usage": [
+      "commercial",
+      "smz3"
+    ]
+  },
+  {
+    "name": "Four Swords Link (Split)",
+    "author": "Minnie Trethewey",
+    "short_slug": "4slink_split",
+    "slug": "4slink_split.0",
+    "version": 0,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/4slink_split.0.zspr",
+    "filename": "4slink_split.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/4slink_split.0.png",
     "tags": {
       "character": [
         "Link"

@@ -4,16 +4,8 @@
     "path": "001.samus.1.png"
   },
   {
-    "title": "140",
-    "path": "onefourty.1.png"
-  },
-  {
     "title": "Alcoon",
     "path": "alcoon.1.png"
-  },
-  {
-    "title": "Alice Margatroid",
-    "path": "marga.1.png"
   },
   {
     "title": "Alucard",
@@ -21,7 +13,11 @@
   },
   {
     "title": "Arcana",
-    "path": "arcana.1.png"
+    "path": "arcana.2.png"
+  },
+  {
+    "title": "Justin Bailey",
+    "path": "bailey.1.png"
   },
   {
     "title": "B.O.B.",
@@ -30,6 +26,10 @@
   {
     "title": "Brad Fang",
     "path": "brad_fang.1.png"
+  },
+  {
+    "title": "Bruno",
+    "path": "bruno.2.png"
   },
   {
     "title": "Buffed Eggplant",
@@ -54,6 +54,14 @@
   {
     "title": "Chairdeep",
     "path": "chairdeep.1.png"
+  },
+  {
+    "title": "Charizard",
+    "path": "charizard.1.png"
+  },
+  {
+    "title": "Charlotte Aran",
+    "path": "charlotte_aran.1.png"
   },
   {
     "title": "Crewmate",
@@ -88,8 +96,24 @@
     "path": "goku_child.1.png"
   },
   {
+    "title": "Samus (Super Metroid Ascent)",
+    "path": "hack_ascent.1.png"
+  },
+  {
     "title": "Samus (Super Metroid Opposition)",
     "path": "hack_opposition.2.png"
+  },
+  {
+    "title": "Samus (Super Metroid Redesign)",
+    "path": "hack_redesign.1.png"
+  },
+  {
+    "title": "Samus (Super Metroid Redesign: Axeil Edition)",
+    "path": "hack_redesign-axeil.1.png"
+  },
+  {
+    "title": "Samus (Super Duper Metroid)",
+    "path": "hack_super-duper.1.png"
   },
   {
     "title": "Samus (Super Zero Mission)",
@@ -108,8 +132,8 @@
     "path": "inkling-girl.1.png"
   },
   {
-    "title": "Justin Bailey",
-    "path": "bailey.1.png"
+    "title": "Katt Aran",
+    "path": "katt_aran.1.png"
   },
   {
     "title": "Kirby",
@@ -128,16 +152,20 @@
     "path": "link_2_the_past.1.png"
   },
   {
-    "title": "Link (Z2)",
-    "path": "link_tall.1.png"
-  },
-  {
     "title": "Link (OoT)",
     "path": "link_oot.1.png"
   },
   {
+    "title": "Link (Z2)",
+    "path": "link_tall.1.png"
+  },
+  {
     "title": "Luigi",
     "path": "luigi_mansion.1.png"
+  },
+  {
+    "title": "Alice Margatroid",
+    "path": "marga.1.png"
   },
   {
     "title": "Maria Pollo",
@@ -156,12 +184,12 @@
     "path": "mario_8bit_modern.1.png"
   },
   {
-    "title": "Mario (Super Mario World)",
-    "path": "mario_smw.1.png"
-  },
-  {
     "title": "Mario (Dream Team)",
     "path": "mario_dreamteam.1.png"
+  },
+  {
+    "title": "Mario (Super Mario World)",
+    "path": "mario_smw.1.png"
   },
   {
     "title": "Master Hand",
@@ -184,12 +212,16 @@
     "path": "moonclif.1.png"
   },
   {
+    "title": "140",
+    "path": "onefourty.1.png"
+  },
+  {
     "title": "Plissken",
     "path": "plissken.1.png"
   },
   {
     "title": "Protogen Laso",
-    "path": "protogen_laso.1.png"
+    "path": "protogen_laso.2.png"
   },
   {
     "title": "Pyronett",
@@ -208,8 +240,8 @@
     "path": "samus_agender.1.png"
   },
   {
-    "title": "AroAce Samus",
-    "path": "samus_aroace.1.png"
+    "title": "Aroace Samus",
+    "path": "samus_aroace.4.png"
   },
   {
     "title": "Backwards Samus",
@@ -262,6 +294,10 @@
   {
     "title": "Left Leg Samus",
     "path": "samus_left-leg.1.png"
+  },
+  {
+    "title": "Samus Maid",
+    "path": "samus_maid.1.png"
   },
   {
     "title": "Mini Samus",
@@ -326,6 +362,10 @@
   {
     "title": "Tetromino",
     "path": "tetris.1.png"
+  },
+  {
+    "title": "Thomcrow Corbin",
+    "path": "thomcrow_corbin.2.png"
   },
   {
     "title": "Wario",

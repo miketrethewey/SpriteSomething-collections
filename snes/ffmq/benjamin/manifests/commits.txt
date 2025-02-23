@@ -1,5 +1,56 @@
 [
   {
+    "sha": "14dbf37b08149fd500fa8990fa26c274fa671551",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-05-27T16:07:18Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-05-27T16:07:18Z"
+      },
+      "message": "Update sprites"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/14dbf37b08149fd500fa8990fa26c274fa671551"
+  },
+  {
+    "sha": "2352d695d46330737168e5faf1f3c92c48896440",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-04-19T22:58:28Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-04-19T22:58:28Z"
+      },
+      "message": "Fix double lamia sprite entry"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/2352d695d46330737168e5faf1f3c92c48896440"
+  },
+  {
+    "sha": "bf48993a0a86c195dee5c5518035a5d023437aaa",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-04-19T22:37:45Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2024-04-19T22:37:45Z"
+      },
+      "message": "Fix floor shuffle+vanilla enemy positions softlock"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/bf48993a0a86c195dee5c5518035a5d023437aaa"
+  },
+  {
     "sha": "e6015318d0ce55b896a2052ff549e62450e7d41c",
     "commit": {
       "author": {

@@ -490,6 +490,126 @@
       "filename": "sveta_wolf",
       "author": "Razdarac",
       "name": "Sveta (Wolf)"
+    },
+    "lamia": {
+      "filename": "lamia",
+      "author": "Nutmeg",
+      "name": "Lamia"
+    },
+    "prinny": {
+      "filename": "prinny",
+      "author": "Giga Otomia",
+      "name": "Prinny"
+    },
+    "adol": {
+      "filename": "adol",
+      "author": "CtrlxZ",
+      "name": "Adol (Ys)"
+    },
+    "megaman": {
+      "filename": "megaman",
+      "author": "CtrlxZ",
+      "name": "MegaMan"
+    },
+    "skeleton": {
+      "filename": "skeleton",
+      "author": "CtrlxZ",
+      "name": "Skeleton"
+    },
+    "tellah": {
+      "filename": "tellah",
+      "author": "CtrlxZ",
+      "name": "Tellah"
+    },
+    "golem": {
+      "filename": "golem",
+      "author": "CtrlxZ",
+      "name": "Golem"
+    },
+    "knightarmor": {
+      "filename": "knightarmor",
+      "author": "CtrlxZ",
+      "name": "Armored Knight"
+    },
+    "omega": {
+      "filename": "omega",
+      "author": "CtrlxZ",
+      "name": "Omega"
+    },
+    "shark": {
+      "filename": "shark",
+      "author": "CtrlxZ",
+      "name": "Shark"
+    },
+    "tigerman": {
+      "filename": "tigerman",
+      "author": "CtrlxZ",
+      "name": "Tigerman"
+    },
+    "alienbehemoth-lal": {
+      "filename": "alienbehemoth-lal",
+      "author": "CtrlxZ",
+      "name": "Behemoth (Live A Live)"
+    },
+    "ant": {
+      "filename": "ant",
+      "author": "CtrlxZ",
+      "name": "Ant"
+    },
+    "beholder": {
+      "filename": "beholder",
+      "author": "CtrlxZ",
+      "name": "Beholder"
+    },
+    "chicken": {
+      "filename": "chicken",
+      "author": "CtrlxZ",
+      "name": "Chicken"
+    },
+    "crab": {
+      "filename": "crab",
+      "author": "CtrlxZ",
+      "name": "Crab"
+    },
+    "oneeye": {
+      "filename": "oneeye",
+      "author": "CtrlxZ",
+      "name": "Mr S"
+    },
+    "pig-ff4": {
+      "filename": "pig-ff4",
+      "author": "CtrlxZ",
+      "name": "Pig"
+    },
+    "ram": {
+      "filename": "ram",
+      "author": "CtrlxZ",
+      "name": "Ram"
+    },
+    "captainmac": {
+      "filename": "captainmac",
+      "author": "CtrlxZ",
+      "name": "Captain Mac"
+    },
+    "relm": {
+      "filename": "relm",
+      "author": "CtrlxZ",
+      "name": "Relm"
+    },
+    "edgar": {
+      "filename": "edgar",
+      "author": "CtrlxZ",
+      "name": "Edgar"
+    },
+    "shadow-ff6": {
+      "filename": "shadow-ff6",
+      "author": "CtrlxZ",
+      "name": "Shadow"
+    },
+    "cyan-ff6": {
+      "filename": "cyan-ff6",
+      "author": "CtrlxZ",
+      "name": "Cyan"
     }
   },
   "local": {
@@ -968,6 +1088,126 @@
       "filename": "sveta_wolf",
       "author": "Razdarac",
       "name": "Sveta (Wolf)"
+    },
+    "lamia": {
+      "filename": "lamia",
+      "author": "Nutmeg",
+      "name": "Lamia"
+    },
+    "prinny": {
+      "filename": "prinny",
+      "author": "Giga Otomia",
+      "name": "Prinny"
+    },
+    "adol": {
+      "filename": "adol",
+      "author": "CtrlxZ",
+      "name": "Adol (Ys)"
+    },
+    "megaman": {
+      "filename": "megaman",
+      "author": "CtrlxZ",
+      "name": "MegaMan"
+    },
+    "skeleton": {
+      "filename": "skeleton",
+      "author": "CtrlxZ",
+      "name": "Skeleton"
+    },
+    "tellah": {
+      "filename": "tellah",
+      "author": "CtrlxZ",
+      "name": "Tellah"
+    },
+    "golem": {
+      "filename": "golem",
+      "author": "CtrlxZ",
+      "name": "Golem"
+    },
+    "knightarmor": {
+      "filename": "knightarmor",
+      "author": "CtrlxZ",
+      "name": "Armored Knight"
+    },
+    "omega": {
+      "filename": "omega",
+      "author": "CtrlxZ",
+      "name": "Omega"
+    },
+    "shark": {
+      "filename": "shark",
+      "author": "CtrlxZ",
+      "name": "Shark"
+    },
+    "tigerman": {
+      "filename": "tigerman",
+      "author": "CtrlxZ",
+      "name": "Tigerman"
+    },
+    "alienbehemoth-lal": {
+      "filename": "alienbehemoth-lal",
+      "author": "CtrlxZ",
+      "name": "Behemoth (Live A Live)"
+    },
+    "ant": {
+      "filename": "ant",
+      "author": "CtrlxZ",
+      "name": "Ant"
+    },
+    "beholder": {
+      "filename": "beholder",
+      "author": "CtrlxZ",
+      "name": "Beholder"
+    },
+    "chicken": {
+      "filename": "chicken",
+      "author": "CtrlxZ",
+      "name": "Chicken"
+    },
+    "crab": {
+      "filename": "crab",
+      "author": "CtrlxZ",
+      "name": "Crab"
+    },
+    "oneeye": {
+      "filename": "oneeye",
+      "author": "CtrlxZ",
+      "name": "Mr S"
+    },
+    "pig-ff4": {
+      "filename": "pig-ff4",
+      "author": "CtrlxZ",
+      "name": "Pig"
+    },
+    "ram": {
+      "filename": "ram",
+      "author": "CtrlxZ",
+      "name": "Ram"
+    },
+    "captainmac": {
+      "filename": "captainmac",
+      "author": "CtrlxZ",
+      "name": "Captain Mac"
+    },
+    "relm": {
+      "filename": "relm",
+      "author": "CtrlxZ",
+      "name": "Relm"
+    },
+    "edgar": {
+      "filename": "edgar",
+      "author": "CtrlxZ",
+      "name": "Edgar"
+    },
+    "shadow-ff6": {
+      "filename": "shadow-ff6",
+      "author": "CtrlxZ",
+      "name": "Shadow"
+    },
+    "cyan-ff6": {
+      "filename": "cyan-ff6",
+      "author": "CtrlxZ",
+      "name": "Cyan"
     }
   }
 }

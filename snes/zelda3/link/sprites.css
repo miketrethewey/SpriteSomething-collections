@@ -3,14 +3,15 @@
   width:            16px;
   height:           24px;
   vertical-align:   bottom;
-  background-image: url(https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.270.png);
+  background-image: url(https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.277.png);
 }
-.icon-custom-Random      {background-position:0 0}
-.icon-custom-Link        {background-position:-100.000000% 0}/* 1/8 */
-.icon-custom-Bob         {background-position: -87.500000% 0}/* 2/8 */
-.icon-custom-Checkerboxes{background-position: -75.000000% 0}/* 3/8 */
-.icon-custom-Gridheads   {background-position: -62.500000% 0}/* 4/8 */
-.icon-custom-Grids       {background-position: -50.000000% 0}/* 5/8 */
-.icon-custom-ItemRoulette{background-position: -37.500000% 0}/* 6/8 */
-.icon-custom-StickMan    {background-position: -25.000000% 0}/* 7/8 */
-.icon-custom-Swatchy     {background-position: -12.500000% 0}/* 8/8 */
+.icon-custom-Random               {background-position:0 0}
+.icon-custom-Link                 {background-position:-100.000000% 0}/* 1/9 */
+.icon-custom-FourSwordsLink-Split {background-position: -88.888889% 0}/* 2/9 */
+.icon-custom-Bob                  {background-position: -77.777778% 0}/* 3/9 */
+.icon-custom-Checkerboxes         {background-position: -66.666667% 0}/* 4/9 */
+.icon-custom-Gridheads            {background-position: -55.555556% 0}/* 5/9 */
+.icon-custom-Grids                {background-position: -44.444444% 0}/* 6/9 */
+.icon-custom-ItemRoulette         {background-position: -33.333333% 0}/* 7/9 */
+.icon-custom-StickMan             {background-position: -22.222222% 0}/* 8/9 */
+.icon-custom-Swatchy              {background-position: -11.111111% 0}/* 9/9 */
