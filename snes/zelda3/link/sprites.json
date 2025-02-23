@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.277.png",
-    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.277.png",
-    "version": "31.0.8.x.277"
+    "class": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.280.png",
+    "selector": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.280.png",
+    "version": "31.0.8.x.280"
   },
   {
     "name": "Link",
@@ -46,11 +46,11 @@
     "name": "Four Swords Link (Split)",
     "author": "Minnie Trethewey",
     "short_slug": "4slink_split",
-    "slug": "4slink_split.0",
-    "version": 0,
-    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/4slink_split.0.zspr",
-    "filename": "4slink_split.zspr",
-    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/4slink_split.0.png",
+    "slug": "4slink_split.1",
+    "version": 1,
+    "file": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/4slink_split.1.zspr",
+    "filename": "4slink_split.1.zspr",
+    "preview": "https://miketrethewey.github.io/SpriteSomething-collections/snes/zelda3/link/sheets/thumbs/4slink_split.1.png",
     "tags": {
       "character": [
         "Link"
