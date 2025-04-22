@@ -64,6 +64,10 @@
     "path": "charlotte_aran.1.png"
   },
   {
+    "title": "Crest",
+    "path": "crest.1.png"
+  },
+  {
     "title": "Crewmate",
     "path": "crewmate.1.png"
   },
@@ -80,6 +84,10 @@
     "path": "dark_samus.1.png"
   },
   {
+    "title": "Dark Samus",
+    "path": "dark_samus_2.1.png"
+  },
+  {
     "title": "Diddy Kong",
     "path": "diddy_kong.1.png"
   },
@@ -92,12 +100,24 @@
     "path": "fedtrooper.1.png"
   },
   {
+    "title": "FIGHT",
+    "path": "fight.1.png"
+  },
+  {
     "title": "Goku (Child)",
     "path": "goku_child.1.png"
   },
   {
+    "title": "Samus (Ancient Chozo)",
+    "path": "hack_ancient_chozo.1.png"
+  },
+  {
     "title": "Samus (Super Metroid Ascent)",
     "path": "hack_ascent.1.png"
+  },
+  {
+    "title": "Junko",
+    "path": "hack_junkoid.1.png"
   },
   {
     "title": "Samus (Super Metroid Opposition)",
@@ -134,6 +154,10 @@
   {
     "title": "Katt Aran",
     "path": "katt_aran.1.png"
+  },
+  {
+    "title": "Kiara",
+    "path": "kiara.1.png"
   },
   {
     "title": "Kirby",
@@ -204,12 +228,20 @@
     "path": "megamanx.1.png"
   },
   {
+    "title": "Mega Man X (Bearded)",
+    "path": "megamanx_bearded.1.png"
+  },
+  {
     "title": "Metroid",
     "path": "metroid.1.png"
   },
   {
     "title": "Moonclif",
     "path": "moonclif.1.png"
+  },
+  {
+    "title": "Officer Donut",
+    "path": "officer_donut.1.png"
   },
   {
     "title": "140",
@@ -226,6 +258,10 @@
   {
     "title": "Pyronett",
     "path": "pyronett.2.png"
+  },
+  {
+    "title": "Richter Belmont",
+    "path": "richter_belmont.1.png"
   },
   {
     "title": "Ronald McDonald",
@@ -272,6 +308,10 @@
     "path": "samus_dread.1.png"
   },
   {
+    "title": "Dread Samus",
+    "path": "samus_dread_suit.2.png"
+  },
+  {
     "title": "Enby Samus",
     "path": "samus_enby.1.png"
   },
@@ -300,12 +340,28 @@
     "path": "samus_maid.1.png"
   },
   {
+    "title": "Metroid 1 Suit",
+    "path": "samus_metroid_1.1.png"
+  },
+  {
     "title": "Mini Samus",
     "path": "samus_mini.1.png"
   },
   {
     "title": "Outline Samus",
     "path": "samus_outline.1.png"
+  },
+  {
+    "title": "PED Suit",
+    "path": "samus_ped_suit.1.png"
+  },
+  {
+    "title": "Samus Returns Suit",
+    "path": "samus_returns.1.png"
+  },
+  {
+    "title": "Santamus",
+    "path": "samus_santamus.1.png"
   },
   {
     "title": "Trans Samus",
@@ -344,6 +400,10 @@
     "path": "sonic.1.png"
   },
   {
+    "title": "Space Pirate",
+    "path": "space_pirate.1.png"
+  },
+  {
     "title": "Sprite Can",
     "path": "sprite_can.1.png"
   },
@@ -374,5 +434,9 @@
   {
     "title": "Yoshi & Baby Mario",
     "path": "yoshi.1.png"
+  },
+  {
+    "title": "Zero Suit Samus",
+    "path": "zero_suit_samus.1.png"
   }
 ]

@@ -610,6 +610,81 @@
       "filename": "cyan-ff6",
       "author": "CtrlxZ",
       "name": "Cyan"
+    },
+    "cyrus": {
+      "filename": "cyrus",
+      "author": "goodsirknyght",
+      "name": "Cyrus"
+    },
+    "emeraldcarb": {
+      "filename": "emeraldcarb",
+      "author": "Joat",
+      "name": "Carbuncle"
+    },
+    "lea": {
+      "filename": "lea",
+      "author": "Sterlia",
+      "name": "Lea"
+    },
+    "doronjo": {
+      "filename": "doronjo",
+      "author": "Molly",
+      "name": "Doronjo"
+    },
+    "tonzura": {
+      "filename": "tonzura",
+      "author": "Molly",
+      "name": "Tonzura"
+    },
+    "boyacky": {
+      "filename": "boyacky",
+      "author": "Molly",
+      "name": "Boyacky"
+    },
+    "hsienko": {
+      "filename": "hsienko",
+      "author": "Molly",
+      "name": "Hsien-Ko"
+    },
+    "charlie-nash-sfa": {
+      "filename": "charlie-nash-sfa",
+      "author": "elecman108",
+      "name": "Charlie Nash (Alpha)"
+    },
+    "charlie-nash-sf5": {
+      "filename": "charlie-nash-sf5",
+      "author": "elecman108",
+      "name": "Charlie Nash (V)"
+    },
+    "rashid-sf6": {
+      "filename": "rashid-sf6",
+      "author": "elecman108",
+      "name": "Rashid\u00e8"
+    },
+    "richter": {
+      "filename": "richter",
+      "author": "DynoYosher",
+      "name": "Richter"
+    },
+    "yoshi_blue": {
+      "filename": "yoshi_blue",
+      "author": "DynoYosher",
+      "name": "Yoshi (Blue)"
+    },
+    "yoshi_red": {
+      "filename": "yoshi_red",
+      "author": "DynoYosher",
+      "name": "Yoshi (Red)"
+    },
+    "yoshi_green": {
+      "filename": "yoshi_green",
+      "author": "DynoYosher",
+      "name": "Yoshi (Green)"
+    },
+    "yoshi_yellow": {
+      "filename": "yoshi_yellow",
+      "author": "DynoYosher",
+      "name": "Yoshi (Yellow)"
     }
   },
   "local": {
@@ -1208,6 +1283,81 @@
       "filename": "cyan-ff6",
       "author": "CtrlxZ",
       "name": "Cyan"
+    },
+    "cyrus": {
+      "filename": "cyrus",
+      "author": "goodsirknyght",
+      "name": "Cyrus"
+    },
+    "emeraldcarb": {
+      "filename": "emeraldcarb",
+      "author": "Joat",
+      "name": "Carbuncle"
+    },
+    "lea": {
+      "filename": "lea",
+      "author": "Sterlia",
+      "name": "Lea"
+    },
+    "doronjo": {
+      "filename": "doronjo",
+      "author": "Molly",
+      "name": "Doronjo"
+    },
+    "tonzura": {
+      "filename": "tonzura",
+      "author": "Molly",
+      "name": "Tonzura"
+    },
+    "boyacky": {
+      "filename": "boyacky",
+      "author": "Molly",
+      "name": "Boyacky"
+    },
+    "hsienko": {
+      "filename": "hsienko",
+      "author": "Molly",
+      "name": "Hsien-Ko"
+    },
+    "charlie-nash-sfa": {
+      "filename": "charlie-nash-sfa",
+      "author": "elecman108",
+      "name": "Charlie Nash (Alpha)"
+    },
+    "charlie-nash-sf5": {
+      "filename": "charlie-nash-sf5",
+      "author": "elecman108",
+      "name": "Charlie Nash (V)"
+    },
+    "rashid-sf6": {
+      "filename": "rashid-sf6",
+      "author": "elecman108",
+      "name": "Rashid\u00e8"
+    },
+    "richter": {
+      "filename": "richter",
+      "author": "DynoYosher",
+      "name": "Richter"
+    },
+    "yoshi_blue": {
+      "filename": "yoshi_blue",
+      "author": "DynoYosher",
+      "name": "Yoshi (Blue)"
+    },
+    "yoshi_red": {
+      "filename": "yoshi_red",
+      "author": "DynoYosher",
+      "name": "Yoshi (Red)"
+    },
+    "yoshi_green": {
+      "filename": "yoshi_green",
+      "author": "DynoYosher",
+      "name": "Yoshi (Green)"
+    },
+    "yoshi_yellow": {
+      "filename": "yoshi_yellow",
+      "author": "DynoYosher",
+      "name": "Yoshi (Yellow)"
     }
   }
 }

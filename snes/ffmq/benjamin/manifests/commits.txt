@@ -1,5 +1,39 @@
 [
   {
+    "sha": "01d443bc30ab1e943747920038090009ac4ff9e8",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2025-03-27T12:25:27Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2025-03-27T12:25:27Z"
+      },
+      "message": "Sprites update"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/01d443bc30ab1e943747920038090009ac4ff9e8"
+  },
+  {
+    "sha": "888fa2492e6c02af313250c071db31d42e6ba81b",
+    "commit": {
+      "author": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2025-03-10T12:18:31Z"
+      },
+      "committer": {
+        "name": "wildham0",
+        "email": "64616385+wildham0@users.noreply.github.com",
+        "date": "2025-03-10T12:18:31Z"
+      },
+      "message": "Fix Internal Dungeon inifinite loop"
+    },
+    "html_url": "https://github.com/wildham0/FFMQRando/commit/888fa2492e6c02af313250c071db31d42e6ba81b"
+  },
+  {
     "sha": "14dbf37b08149fd500fa8990fa26c274fa671551",
     "commit": {
       "author": {
